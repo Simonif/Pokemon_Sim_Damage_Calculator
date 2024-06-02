@@ -568,7 +568,7 @@ const ADV_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   'X-Scissor': { bp: 80, type: 'Bug', makesContact: true },
   Yawn: {bp: 0, category: 'Status', type: 'Normal'},
 };
-
+const ADV: {[name: string]: MoveData} = extend(true, {}, GSC, ADV_PATCH);
 const DPP_PATCH: {[name: string]: DeepPartial<MoveData>} = {
   Absorb: {category: 'Special'},
   'Arm Thrust': {category: 'Physical'},

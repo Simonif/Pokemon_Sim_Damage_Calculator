@@ -32,6 +32,49 @@ var SETDEX_ADV = {
     "OU Standard": {"ability":"Torrent","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":148,"sa":68,"sp":40},"moves":["Surf","Ice Beam","Rapid Spin","Roar"]},
     "UU Standard": {"ability":"Torrent","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":148,"sa":68,"sp":40},"moves":["Surf","Ice Beam","Sleep Talk","Rest"]}
   },
+	"Tabitha_597":{
+		"Tauros_1":{
+			"ability":"Intimidate",
+			"item":"Lum Berry","nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Double-Edge","Earthquake","Iron Tail","Quick Attack"],
+			"level":44
+		},
+		"Houndoom_2":{
+			"ability":"Intimidate",
+			"item":"Charcoal","nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Fire Blast","Crunch","Pursuit","Poison Fang"],
+			"level":44
+		},
+		"Camerupt_3":{
+			"ability":"Magma Armor",
+			"item":"Soft Sand","nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Flamethrower","Earthquake","Rock Slide","Explosion"],
+			"level":44
+		},
+		"Ampharos_4":{
+			"ability":"Static",
+			"item":"Lum Berry","nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Thunderbolt","Fire Punch","Hidden Power~11","Tail Glow"],
+			"level":44
+		},
+		"Gardevoir_5":{
+			"ability":"Trace",
+			"item":"Twistedspoon","nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Psychic","Thunderbolt","Ice Punch","Magical Leaf"],
+			"level":44
+		},
+		"Charizard_6":{
+			"ability":"Blaze",
+			"item":"Salac Berry","nature":"Serious",
+			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
+			"moves":["Thunderpunch","Earthquake","Wing Attack","-"],
+			"level":45
+		},
   "Butterfree": {
     "NU Double Powder": {"ability":"Compound Eyes","item":"Quick Claw","nature":"Timid","ivs":{"at":30,"sa":30,"sp":30},"evs":{"hp":4,"sa":252,"sp":252},"moves":["Sleep Powder","Stun Spore","Psychic","Hidden Power Fire"]},
     "NU Choice Band": {"ability":"Compound Eyes","item":"Choice Band","nature":"Jolly","ivs":{"df":30,"sa":30,"sd":30,"sp":30},"evs":{"hp":4,"at":252,"sp":252},"moves":["Silver Wind","Aerial Ace","Sleep Powder","Hidden Power Fighting"]},

@@ -32,7 +32,6 @@ var SETDEX_ADV = {
     "OU Standard": {"ability":"Torrent","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":148,"sa":68,"sp":40},"moves":["Surf","Ice Beam","Rapid Spin","Roar"]},
     "UU Standard": {"ability":"Torrent","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":148,"sa":68,"sp":40},"moves":["Surf","Ice Beam","Sleep Talk","Rest"]}
   },
-	"Tabitha_597":{
 		"Tauros_1":{
 			"ability":"Intimidate",
 			"item":"Lum Berry","nature":"Serious",

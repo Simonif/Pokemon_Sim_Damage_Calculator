@@ -39,7 +39,7 @@ var SETDEX_ADV = {
 			"ivs":{"hp":31, "at":31, "df":31, "sa":31, "sd":31, "sp":31},
 			"moves":["Double-Edge","Earthquake","Iron Tail","Quick Attack"],
 			"level":44
-		},
+		}},
 		"Houndoom_2":{
 			"ability":"Intimidate",
 			"item":"Charcoal","nature":"Serious",

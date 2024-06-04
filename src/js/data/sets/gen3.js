@@ -122,7 +122,6 @@ var SETDEX_ADV = {
 		},
 		"Roxanne (Trainer #773 Mon #1)": {
 			"ability": "Rock Head",
-			"item": "????????",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -163,7 +162,7 @@ var SETDEX_ADV = {
 		},
 		"Steven (Trainer #804 Mon #3)": {
 			"ability": "Rock Head",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -266,7 +265,7 @@ var SETDEX_ADV = {
 		},
 		"Drake (Trainer #264 Mon #2)": {
 			"ability": "Natural Cure",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 30,
 				"df": 30,
@@ -458,7 +457,7 @@ var SETDEX_ADV = {
 		},
 		"Nicolas (Trainer #396 Mon #1)": {
 			"ability": "Natural Cure",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 17,
 				"df": 17,
@@ -478,7 +477,7 @@ var SETDEX_ADV = {
 		},
 		"Nicolas (Trainer #396 Mon #2)": {
 			"ability": "Natural Cure",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 17,
 				"df": 17,
@@ -792,7 +791,7 @@ var SETDEX_ADV = {
 		},
 		"Wattson (Trainer #780 Mon #2)": {
 			"ability": "Static",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -812,7 +811,7 @@ var SETDEX_ADV = {
 		},
 		"Wattson (Trainer #781 Mon #3)": {
 			"ability": "Static",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -918,7 +917,7 @@ var SETDEX_ADV = {
 	"Arcanine": {
 		"Flannery (Trainer #785 Mon #1)": {
 			"ability": "Intimidate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -980,7 +979,7 @@ var SETDEX_ADV = {
 	"Ariados": {
 		"Jose (Trainer #617 Mon #3)": {
 			"ability": "Swarm",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -1022,7 +1021,7 @@ var SETDEX_ADV = {
 	"Armaldo": {
 		"Steven (Trainer #804 Mon #5)": {
 			"ability": "Battle Armor",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -1860,7 +1859,7 @@ var SETDEX_ADV = {
 		},
 		"Phoebe (Trainer #262 Mon #2)": {
 			"ability": "Insomnia",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 30,
 				"df": 30,
@@ -1880,7 +1879,7 @@ var SETDEX_ADV = {
 		},
 		"Phoebe (Trainer #262 Mon #4)": {
 			"ability": "Insomnia",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 30,
 				"df": 30,
@@ -2060,7 +2059,7 @@ var SETDEX_ADV = {
 		},
 		"Jeffrey (Trainer #231 Mon #5)": {
 			"ability": "Swarm",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 5,
 				"df": 5,
@@ -2369,7 +2368,7 @@ var SETDEX_ADV = {
 	"Blissey": {
 		"Norman (Trainer #788 Mon #2)": {
 			"ability": "Natural Cure",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -2389,7 +2388,7 @@ var SETDEX_ADV = {
 		},
 		"Norman (Trainer #789 Mon #2)": {
 			"ability": "Natural Cure",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -2897,7 +2896,7 @@ var SETDEX_ADV = {
 		},
 		"Tiana (Trainer #603 Mon #1)": {
 			"ability": "Sand Veil",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -2997,7 +2996,7 @@ var SETDEX_ADV = {
 		},
 		"Sidney (Trainer #261 Mon #3)": {
 			"ability": "Sand Veil",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 30,
 				"df": 30,
@@ -3057,7 +3056,7 @@ var SETDEX_ADV = {
 		},
 		"Flannery (Trainer #268 Mon #3)": {
 			"ability": "Magma Armor",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 30,
 				"df": 30,
@@ -4102,7 +4101,7 @@ var SETDEX_ADV = {
 	"Chansey": {
 		"Norman (Trainer #786 Mon #1)": {
 			"ability": "Natural Cure",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -4122,7 +4121,7 @@ var SETDEX_ADV = {
 		},
 		"Norman (Trainer #787 Mon #2)": {
 			"ability": "Natural Cure",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -4387,7 +4386,7 @@ var SETDEX_ADV = {
 	"Claydol": {
 		"Dianne (Trainer #417 Mon #1)": {
 			"ability": "Levitate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 0,
 				"df": 0,
@@ -4465,7 +4464,7 @@ var SETDEX_ADV = {
 		},
 		"Steven (Trainer #804 Mon #2)": {
 			"ability": "Levitate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -4485,7 +4484,7 @@ var SETDEX_ADV = {
 		},
 		"Tate&Liza (Trainer #271 Mon #1)": {
 			"ability": "Levitate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 30,
 				"df": 30,
@@ -4505,7 +4504,7 @@ var SETDEX_ADV = {
 		},
 		"Tate&Liza (Trainer #794 Mon #2)": {
 			"ability": "Levitate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -4525,7 +4524,7 @@ var SETDEX_ADV = {
 		},
 		"Tate&Liza (Trainer #795 Mon #3)": {
 			"ability": "Levitate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -4545,7 +4544,7 @@ var SETDEX_ADV = {
 		},
 		"Tate&Liza (Trainer #796 Mon #2)": {
 			"ability": "Levitate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -4565,7 +4564,7 @@ var SETDEX_ADV = {
 		},
 		"Tate&Liza (Trainer #797 Mon #2)": {
 			"ability": "Levitate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -4708,7 +4707,7 @@ var SETDEX_ADV = {
 	"Corphish": {
 		"Lydia (Trainer #545 Mon #1)": {
 			"ability": "Shell Armor",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -4771,7 +4770,7 @@ var SETDEX_ADV = {
 	"Cradily": {
 		"Steven (Trainer #804 Mon #4)": {
 			"ability": "Suction Cups",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -4793,7 +4792,7 @@ var SETDEX_ADV = {
 	"Crawdaunt": {
 		"Juan (Trainer #272 Mon #4)": {
 			"ability": "Shell Armor",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 24,
 				"df": 24,
@@ -4893,7 +4892,7 @@ var SETDEX_ADV = {
 		},
 		"Sidney (Trainer #261 Mon #4)": {
 			"ability": "Shell Armor",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 30,
 				"df": 30,
@@ -5111,7 +5110,7 @@ var SETDEX_ADV = {
 		},
 		"Mary (Trainer #89 Mon #1)": {
 			"ability": "Cute Charm",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -5268,7 +5267,7 @@ var SETDEX_ADV = {
 	"Delibird": {
 		"Alyssa (Trainer #701 Mon #2)": {
 			"ability": "Vital Spirit",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -5310,7 +5309,7 @@ var SETDEX_ADV = {
 		},
 		"Tiana (Trainer #603 Mon #2)": {
 			"ability": "Arena Trap",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -5488,7 +5487,7 @@ var SETDEX_ADV = {
 	"Doduo": {
 		"Alyssa (Trainer #701 Mon #1)": {
 			"ability": "Early Bird",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -5771,7 +5770,7 @@ var SETDEX_ADV = {
 		},
 		"Tate&Liza (Trainer #795 Mon #1)": {
 			"ability": "Insomnia",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -5835,7 +5834,7 @@ var SETDEX_ADV = {
 	"Dusclops": {
 		"Phoebe (Trainer #262 Mon #1)": {
 			"ability": "Pressure",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 30,
 				"df": 30,
@@ -6089,7 +6088,7 @@ var SETDEX_ADV = {
 		},
 		"Jeffrey (Trainer #231 Mon #2)": {
 			"ability": "Shield Dust",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 5,
 				"df": 5,
@@ -6188,7 +6187,7 @@ var SETDEX_ADV = {
 		},
 		"Wattson (Trainer #781 Mon #1)": {
 			"ability": "Static",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -6500,7 +6499,7 @@ var SETDEX_ADV = {
 		},
 		"Wattson (Trainer #778 Mon #2)": {
 			"ability": "Static",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -6520,7 +6519,7 @@ var SETDEX_ADV = {
 		},
 		"Wattson (Trainer #779 Mon #3)": {
 			"ability": "Static",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -6540,7 +6539,7 @@ var SETDEX_ADV = {
 		},
 		"Wattson (Trainer #780 Mon #3)": {
 			"ability": "Static",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -6560,7 +6559,7 @@ var SETDEX_ADV = {
 		},
 		"Wattson (Trainer #781 Mon #4)": {
 			"ability": "Static",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -6582,7 +6581,7 @@ var SETDEX_ADV = {
 	"Elekid": {
 		"Vivian (Trainer #649 Mon #3)": {
 			"ability": "Static",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -6987,7 +6986,7 @@ var SETDEX_ADV = {
 		},
 		"Wattson (Trainer #779 Mon #2)": {
 			"ability": "Static",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -7031,7 +7030,7 @@ var SETDEX_ADV = {
 	"Flygon": {
 		"Drake (Trainer #264 Mon #4)": {
 			"ability": "Levitate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 30,
 				"df": 30,
@@ -7546,7 +7545,7 @@ var SETDEX_ADV = {
 	"Glalie": {
 		"Glacia (Trainer #263 Mon #2)": {
 			"ability": "Intimidate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 30,
 				"df": 30,
@@ -7566,7 +7565,7 @@ var SETDEX_ADV = {
 		},
 		"Glacia (Trainer #263 Mon #4)": {
 			"ability": "Intimidate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 30,
 				"df": 30,
@@ -7586,7 +7585,7 @@ var SETDEX_ADV = {
 		},
 		"Grunt (Trainer #206 Mon #1)": {
 			"ability": "Intimidate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -7918,7 +7917,7 @@ var SETDEX_ADV = {
 		},
 		"Tori & Tia (Trainer #677 Mon #2)": {
 			"ability": "Inner Focus",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -8288,7 +8287,7 @@ var SETDEX_ADV = {
 		},
 		"Roxanne (Trainer #770 Mon #1)": {
 			"ability": "Rock Head",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -8308,7 +8307,7 @@ var SETDEX_ADV = {
 		},
 		"Roxanne (Trainer #771 Mon #2)": {
 			"ability": "Rock Head",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -8328,7 +8327,7 @@ var SETDEX_ADV = {
 		},
 		"Roxanne (Trainer #772 Mon #2)": {
 			"ability": "Rock Head",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -8348,7 +8347,7 @@ var SETDEX_ADV = {
 		},
 		"Roxanne (Trainer #773 Mon #2)": {
 			"ability": "Rock Head",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -8879,7 +8878,7 @@ var SETDEX_ADV = {
 	"Growlithe": {
 		"Flannery (Trainer #783 Mon #1)": {
 			"ability": "Intimidate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -8899,7 +8898,7 @@ var SETDEX_ADV = {
 		},
 		"Flannery (Trainer #784 Mon #2)": {
 			"ability": "Intimidate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -9364,7 +9363,7 @@ var SETDEX_ADV = {
 		},
 		"Wallace (Trainer #335 Mon #5)": {
 			"ability": "Intimidate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -10105,7 +10104,7 @@ var SETDEX_ADV = {
 	"Hitmonchan": {
 		"Brawly (Trainer #776 Mon #1)": {
 			"ability": "Keen Eye",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -10125,7 +10124,7 @@ var SETDEX_ADV = {
 		},
 		"Brawly (Trainer #777 Mon #2)": {
 			"ability": "Keen Eye",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -10167,7 +10166,7 @@ var SETDEX_ADV = {
 	"Hitmonlee": {
 		"Brawly (Trainer #777 Mon #1)": {
 			"ability": "Limber",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -10209,7 +10208,7 @@ var SETDEX_ADV = {
 	"Hitmontop": {
 		"Brawly (Trainer #774 Mon #3)": {
 			"ability": "Intimidate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -10229,7 +10228,7 @@ var SETDEX_ADV = {
 		},
 		"Brawly (Trainer #775 Mon #3)": {
 			"ability": "Intimidate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -10249,7 +10248,7 @@ var SETDEX_ADV = {
 		},
 		"Brawly (Trainer #776 Mon #4)": {
 			"ability": "Intimidate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -10269,7 +10268,7 @@ var SETDEX_ADV = {
 		},
 		"Brawly (Trainer #777 Mon #5)": {
 			"ability": "Intimidate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -10311,7 +10310,7 @@ var SETDEX_ADV = {
 	"Hoothoot": {
 		"Winona (Trainer #791 Mon #1)": {
 			"ability": "Insomnia",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -10430,7 +10429,7 @@ var SETDEX_ADV = {
 	"Houndoom": {
 		"Flannery (Trainer #785 Mon #3)": {
 			"ability": "Intimidate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -10492,7 +10491,7 @@ var SETDEX_ADV = {
 	"Houndour": {
 		"Flannery (Trainer #784 Mon #1)": {
 			"ability": "Early Bird",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -10536,7 +10535,7 @@ var SETDEX_ADV = {
 	"Hypno": {
 		"Tate&Liza (Trainer #796 Mon #1)": {
 			"ability": "Insomnia",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -10556,7 +10555,7 @@ var SETDEX_ADV = {
 		},
 		"Tate&Liza (Trainer #797 Mon #1)": {
 			"ability": "Insomnia",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -11211,7 +11210,7 @@ var SETDEX_ADV = {
 		},
 		"Norman (Trainer #787 Mon #3)": {
 			"ability": "Early Bird",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -11231,7 +11230,7 @@ var SETDEX_ADV = {
 		},
 		"Norman (Trainer #788 Mon #3)": {
 			"ability": "Early Bird",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -11251,7 +11250,7 @@ var SETDEX_ADV = {
 		},
 		"Norman (Trainer #789 Mon #3)": {
 			"ability": "Early Bird",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -11485,7 +11484,7 @@ var SETDEX_ADV = {
 	"Kingdra": {
 		"Drake (Trainer #264 Mon #3)": {
 			"ability": "Swift Swim",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 30,
 				"df": 30,
@@ -12185,7 +12184,7 @@ var SETDEX_ADV = {
 		},
 		"Lao (Trainer #424 Mon #1)": {
 			"ability": "Levitate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 5,
 				"df": 5,
@@ -12205,7 +12204,7 @@ var SETDEX_ADV = {
 		},
 		"Lao (Trainer #424 Mon #2)": {
 			"ability": "Levitate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 5,
 				"df": 5,
@@ -12225,7 +12224,7 @@ var SETDEX_ADV = {
 		},
 		"Lao (Trainer #424 Mon #3)": {
 			"ability": "Levitate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 5,
 				"df": 5,
@@ -12442,7 +12441,7 @@ var SETDEX_ADV = {
 	"Lanturn": {
 		"Dianne (Trainer #417 Mon #2)": {
 			"ability": "Volt Absorb",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 0,
 				"df": 0,
@@ -12540,7 +12539,7 @@ var SETDEX_ADV = {
 	"Lapras": {
 		"Juan (Trainer #800 Mon #1)": {
 			"ability": "Shell Armor",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -12560,7 +12559,7 @@ var SETDEX_ADV = {
 		},
 		"Juan (Trainer #801 Mon #1)": {
 			"ability": "Shell Armor",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -12582,7 +12581,7 @@ var SETDEX_ADV = {
 	"Larvitar": {
 		"Isaac (Trainer #538 Mon #2)": {
 			"ability": "Guts",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -12708,7 +12707,7 @@ var SETDEX_ADV = {
 		},
 		"Athena (Trainer #577 Mon #2)": {
 			"ability": "Guts",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 12,
 				"df": 12,
@@ -13036,7 +13035,7 @@ var SETDEX_ADV = {
 		},
 		"Norman (Trainer #269 Mon #3)": {
 			"ability": "Guts",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 24,
 				"df": 24,
@@ -13749,7 +13748,7 @@ var SETDEX_ADV = {
 		},
 		"Sarah (Trainer #695 Mon #1)": {
 			"ability": "Swift Swim",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 0,
 				"df": 0,
@@ -14345,7 +14344,7 @@ var SETDEX_ADV = {
 		},
 		"Wallace (Trainer #335 Mon #3)": {
 			"ability": "Swift Swim",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -14739,7 +14738,7 @@ var SETDEX_ADV = {
 		},
 		"Juan (Trainer #272 Mon #1)": {
 			"ability": "Swift Swim",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 24,
 				"df": 24,
@@ -15666,7 +15665,7 @@ var SETDEX_ADV = {
 		},
 		"Nob (Trainer #187 Mon #2)": {
 			"ability": "Guts",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 17,
 				"df": 17,
@@ -15686,7 +15685,7 @@ var SETDEX_ADV = {
 		},
 		"Nob (Trainer #187 Mon #3)": {
 			"ability": "Guts",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 17,
 				"df": 17,
@@ -15765,7 +15764,7 @@ var SETDEX_ADV = {
 	"Machop": {
 		"Aisha (Trainer #757 Mon #2)": {
 			"ability": "Guts",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -15785,7 +15784,7 @@ var SETDEX_ADV = {
 		},
 		"Brice (Trainer #626 Mon #3)": {
 			"ability": "Guts",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -16052,7 +16051,7 @@ var SETDEX_ADV = {
 		},
 		"Nob (Trainer #187 Mon #1)": {
 			"ability": "Guts",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 17,
 				"df": 17,
@@ -17784,7 +17783,7 @@ var SETDEX_ADV = {
 	"Manectric": {
 		"Athena (Trainer #577 Mon #1)": {
 			"ability": "Static",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 12,
 				"df": 12,
@@ -18071,7 +18070,7 @@ var SETDEX_ADV = {
 		},
 		"Marley (Trainer #508 Mon #1)": {
 			"ability": "Static",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -18363,7 +18362,7 @@ var SETDEX_ADV = {
 	"Mankey": {
 		"Aisha (Trainer #757 Mon #1)": {
 			"ability": "Vital Spirit",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -18404,7 +18403,7 @@ var SETDEX_ADV = {
 		},
 		"Wattson (Trainer #778 Mon #1)": {
 			"ability": "Static",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -19178,7 +19177,7 @@ var SETDEX_ADV = {
 		},
 		"Jose (Trainer #617 Mon #1)": {
 			"ability": "Intimidate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -19299,7 +19298,7 @@ var SETDEX_ADV = {
 	"Medicham": {
 		"Brawly (Trainer #775 Mon #2)": {
 			"ability": "Pure Power",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -19319,7 +19318,7 @@ var SETDEX_ADV = {
 		},
 		"Brawly (Trainer #776 Mon #3)": {
 			"ability": "Pure Power",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -19339,7 +19338,7 @@ var SETDEX_ADV = {
 		},
 		"Brawly (Trainer #777 Mon #4)": {
 			"ability": "Pure Power",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -19725,7 +19724,7 @@ var SETDEX_ADV = {
 		},
 		"Brawly (Trainer #774 Mon #2)": {
 			"ability": "Pure Power",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -20069,7 +20068,7 @@ var SETDEX_ADV = {
 		},
 		"Vivian (Trainer #649 Mon #1)": {
 			"ability": "Pure Power",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -20650,7 +20649,7 @@ var SETDEX_ADV = {
 		},
 		"Sidney (Trainer #261 Mon #1)": {
 			"ability": "Intimidate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 30,
 				"df": 30,
@@ -21721,7 +21720,7 @@ var SETDEX_ADV = {
 		},
 		"Winona (Trainer #792 Mon #1)": {
 			"ability": "Insomnia",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -21741,7 +21740,7 @@ var SETDEX_ADV = {
 		},
 		"Winona (Trainer #793 Mon #1)": {
 			"ability": "Insomnia",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -22112,7 +22111,7 @@ var SETDEX_ADV = {
 		},
 		"Flannery (Trainer #268 Mon #1)": {
 			"ability": "Oblivious",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 24,
 				"df": 24,
@@ -22788,7 +22787,7 @@ var SETDEX_ADV = {
 	"Omanyte": {
 		"Roxanne (Trainer #771 Mon #1)": {
 			"ability": "Shell Armor",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -22810,7 +22809,7 @@ var SETDEX_ADV = {
 	"Omastar": {
 		"Roxanne (Trainer #772 Mon #1)": {
 			"ability": "Shell Armor",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -22830,7 +22829,7 @@ var SETDEX_ADV = {
 		},
 		"Roxanne (Trainer #773 Mon #3)": {
 			"ability": "Shell Armor",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -22852,7 +22851,7 @@ var SETDEX_ADV = {
 	"Onix": {
 		"Roxanne (Trainer #770 Mon #3)": {
 			"ability": "Rock Head",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -22872,7 +22871,7 @@ var SETDEX_ADV = {
 		},
 		"Roxanne (Trainer #771 Mon #4)": {
 			"ability": "Rock Head",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -22892,7 +22891,7 @@ var SETDEX_ADV = {
 		},
 		"Roxanne (Trainer #772 Mon #4)": {
 			"ability": "Rock Head",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -23600,7 +23599,7 @@ var SETDEX_ADV = {
 		},
 		"Winona (Trainer #270 Mon #3)": {
 			"ability": "Keen Eye",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 26,
 				"df": 26,
@@ -23620,7 +23619,7 @@ var SETDEX_ADV = {
 		},
 		"Winona (Trainer #790 Mon #3)": {
 			"ability": "Keen Eye",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -23640,7 +23639,7 @@ var SETDEX_ADV = {
 		},
 		"Winona (Trainer #791 Mon #4)": {
 			"ability": "Keen Eye",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -23660,7 +23659,7 @@ var SETDEX_ADV = {
 		},
 		"Winona (Trainer #792 Mon #4)": {
 			"ability": "Keen Eye",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -23680,7 +23679,7 @@ var SETDEX_ADV = {
 		},
 		"Winona (Trainer #793 Mon #3)": {
 			"ability": "Keen Eye",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -23848,7 +23847,7 @@ var SETDEX_ADV = {
 		},
 		"Wattson (Trainer #779 Mon #1)": {
 			"ability": "Static",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -24290,7 +24289,7 @@ var SETDEX_ADV = {
 	"Politoed": {
 		"Juan (Trainer #801 Mon #3)": {
 			"ability": "Swift Swim",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -24312,7 +24311,7 @@ var SETDEX_ADV = {
 	"Poliwag": {
 		"Juan (Trainer #798 Mon #1)": {
 			"ability": "Swift Swim",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -24334,7 +24333,7 @@ var SETDEX_ADV = {
 	"Poliwhirl": {
 		"Juan (Trainer #799 Mon #1)": {
 			"ability": "Swift Swim",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -24354,7 +24353,7 @@ var SETDEX_ADV = {
 		},
 		"Juan (Trainer #800 Mon #3)": {
 			"ability": "Swift Swim",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -24418,7 +24417,7 @@ var SETDEX_ADV = {
 	"Ponyta": {
 		"Flannery (Trainer #782 Mon #2)": {
 			"ability": "Flame Body",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -24438,7 +24437,7 @@ var SETDEX_ADV = {
 		},
 		"Flannery (Trainer #783 Mon #3)": {
 			"ability": "Flame Body",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -24460,7 +24459,7 @@ var SETDEX_ADV = {
 	"Poochyena": {
 		"Calvin (Trainer #318 Mon #1)": {
 			"ability": "Run Away",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -24480,7 +24479,7 @@ var SETDEX_ADV = {
 		},
 		"Dawson (Trainer #694 Mon #2)": {
 			"ability": "Run Away",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 0,
 				"df": 0,
@@ -24934,7 +24933,7 @@ var SETDEX_ADV = {
 		},
 		"Wattson (Trainer #780 Mon #1)": {
 			"ability": "Static",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -24954,7 +24953,7 @@ var SETDEX_ADV = {
 		},
 		"Wattson (Trainer #781 Mon #2)": {
 			"ability": "Static",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25151,7 +25150,7 @@ var SETDEX_ADV = {
 		},
 		"Flannery (Trainer #784 Mon #4)": {
 			"ability": "Flame Body",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25171,7 +25170,7 @@ var SETDEX_ADV = {
 		},
 		"Flannery (Trainer #785 Mon #4)": {
 			"ability": "Flame Body",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25353,7 +25352,7 @@ var SETDEX_ADV = {
 		},
 		"Melina (Trainer #755 Mon #2)": {
 			"ability": "Guts",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -25765,7 +25764,7 @@ var SETDEX_ADV = {
 		},
 		"Lydia (Trainer #545 Mon #3)": {
 			"ability": "Poison Point",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -26246,7 +26245,7 @@ var SETDEX_ADV = {
 		},
 		"Phoebe (Trainer #262 Mon #3)": {
 			"ability": "Keen Eye",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 30,
 				"df": 30,
@@ -27356,7 +27355,7 @@ var SETDEX_ADV = {
 		},
 		"Glacia (Trainer #263 Mon #1)": {
 			"ability": "Thick Fat",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 30,
 				"df": 30,
@@ -27376,7 +27375,7 @@ var SETDEX_ADV = {
 		},
 		"Glacia (Trainer #263 Mon #3)": {
 			"ability": "Thick Fat",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 30,
 				"df": 30,
@@ -27396,7 +27395,7 @@ var SETDEX_ADV = {
 		},
 		"Juan (Trainer #272 Mon #3)": {
 			"ability": "Thick Fat",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 24,
 				"df": 24,
@@ -27456,7 +27455,7 @@ var SETDEX_ADV = {
 		},
 		"Isaac (Trainer #538 Mon #4)": {
 			"ability": "Chlorophyll",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -27959,7 +27958,7 @@ var SETDEX_ADV = {
 	"Shedinja": {
 		"Jose (Trainer #617 Mon #2)": {
 			"ability": "Wonder Guard",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -27981,7 +27980,7 @@ var SETDEX_ADV = {
 	"Shelgon": {
 		"Drake (Trainer #264 Mon #1)": {
 			"ability": "Rock Head",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 30,
 				"df": 30,
@@ -28138,7 +28137,7 @@ var SETDEX_ADV = {
 		},
 		"Sidney (Trainer #261 Mon #2)": {
 			"ability": "Chlorophyll",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 30,
 				"df": 30,
@@ -28332,7 +28331,7 @@ var SETDEX_ADV = {
 		},
 		"Isaac (Trainer #538 Mon #1)": {
 			"ability": "Effect Spore",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -28958,7 +28957,7 @@ var SETDEX_ADV = {
 		},
 		"Steven (Trainer #804 Mon #1)": {
 			"ability": "Keen Eye",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -28978,7 +28977,7 @@ var SETDEX_ADV = {
 		},
 		"Winona (Trainer #270 Mon #4)": {
 			"ability": "Keen Eye",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 27,
 				"df": 27,
@@ -28998,7 +28997,7 @@ var SETDEX_ADV = {
 		},
 		"Winona (Trainer #790 Mon #4)": {
 			"ability": "Keen Eye",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -29018,7 +29017,7 @@ var SETDEX_ADV = {
 		},
 		"Winona (Trainer #791 Mon #5)": {
 			"ability": "Keen Eye",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -29038,7 +29037,7 @@ var SETDEX_ADV = {
 		},
 		"Winona (Trainer #792 Mon #5)": {
 			"ability": "Keen Eye",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -29058,7 +29057,7 @@ var SETDEX_ADV = {
 		},
 		"Winona (Trainer #793 Mon #5)": {
 			"ability": "Keen Eye",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -29717,7 +29716,7 @@ var SETDEX_ADV = {
 	"Slowking": {
 		"Tate&Liza (Trainer #797 Mon #3)": {
 			"ability": "Own Tempo",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -29758,7 +29757,7 @@ var SETDEX_ADV = {
 		},
 		"Tate&Liza (Trainer #794 Mon #1)": {
 			"ability": "Own Tempo",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -29778,7 +29777,7 @@ var SETDEX_ADV = {
 		},
 		"Tate&Liza (Trainer #795 Mon #2)": {
 			"ability": "Own Tempo",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -29798,7 +29797,7 @@ var SETDEX_ADV = {
 		},
 		"Tate&Liza (Trainer #796 Mon #3)": {
 			"ability": "Own Tempo",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -30010,7 +30009,7 @@ var SETDEX_ADV = {
 		},
 		"Flannery (Trainer #268 Mon #2)": {
 			"ability": "Flame Body",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 24,
 				"df": 24,
@@ -30758,7 +30757,7 @@ var SETDEX_ADV = {
 		},
 		"Norman (Trainer #269 Mon #1)": {
 			"ability": "Own Tempo",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 24,
 				"df": 24,
@@ -30778,7 +30777,7 @@ var SETDEX_ADV = {
 		},
 		"Norman (Trainer #786 Mon #3)": {
 			"ability": "Own Tempo",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -30798,7 +30797,7 @@ var SETDEX_ADV = {
 		},
 		"Norman (Trainer #787 Mon #4)": {
 			"ability": "Own Tempo",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -30818,7 +30817,7 @@ var SETDEX_ADV = {
 		},
 		"Norman (Trainer #788 Mon #4)": {
 			"ability": "Own Tempo",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -30838,7 +30837,7 @@ var SETDEX_ADV = {
 		},
 		"Norman (Trainer #789 Mon #5)": {
 			"ability": "Own Tempo",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -30858,7 +30857,7 @@ var SETDEX_ADV = {
 		},
 		"Parker (Trainer #72 Mon #1)": {
 			"ability": "Own Tempo",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -31688,7 +31687,7 @@ var SETDEX_ADV = {
 		},
 		"Roxanne (Trainer #773 Mon #5)": {
 			"ability": "Rock Head",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -31732,7 +31731,7 @@ var SETDEX_ADV = {
 	"Sunflora": {
 		"Karen (Trainer #280 Mon #1)": {
 			"ability": "Chlorophyll",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -32001,7 +32000,7 @@ var SETDEX_ADV = {
 		},
 		"Jeffrey (Trainer #231 Mon #1)": {
 			"ability": "Swift Swim",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 5,
 				"df": 5,
@@ -32021,7 +32020,7 @@ var SETDEX_ADV = {
 		},
 		"Jeffrey (Trainer #231 Mon #3)": {
 			"ability": "Swift Swim",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 5,
 				"df": 5,
@@ -32309,7 +32308,7 @@ var SETDEX_ADV = {
 		},
 		"Winona (Trainer #270 Mon #1)": {
 			"ability": "Natural Cure",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 26,
 				"df": 26,
@@ -32872,7 +32871,7 @@ var SETDEX_ADV = {
 		},
 		"Randall (Trainer #71 Mon #1)": {
 			"ability": "Guts",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -32913,7 +32912,7 @@ var SETDEX_ADV = {
 	"Swinub": {
 		"Devan (Trainer #753 Mon #1)": {
 			"ability": "Oblivious",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -32935,7 +32934,7 @@ var SETDEX_ADV = {
 	"Taillow": {
 		"Alyssa (Trainer #701 Mon #3)": {
 			"ability": "Guts",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -33151,7 +33150,7 @@ var SETDEX_ADV = {
 	"Tauros": {
 		"Jocelyn (Trainer #425 Mon #1)": {
 			"ability": "Intimidate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -33171,7 +33170,7 @@ var SETDEX_ADV = {
 		},
 		"Norman (Trainer #789 Mon #4)": {
 			"ability": "Intimidate",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -34090,7 +34089,7 @@ var SETDEX_ADV = {
 		},
 		"Wallace (Trainer #335 Mon #2)": {
 			"ability": "Liquid Ooze",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -34112,7 +34111,7 @@ var SETDEX_ADV = {
 	"Togepi": {
 		"Allen (Trainer #333 Mon #1)": {
 			"ability": "Serene Grace",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -34774,7 +34773,7 @@ var SETDEX_ADV = {
 		},
 		"Winona (Trainer #270 Mon #2)": {
 			"ability": "Chlorophyll",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 26,
 				"df": 26,
@@ -34794,7 +34793,7 @@ var SETDEX_ADV = {
 		},
 		"Winona (Trainer #790 Mon #2)": {
 			"ability": "Chlorophyll",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -34814,7 +34813,7 @@ var SETDEX_ADV = {
 		},
 		"Winona (Trainer #791 Mon #2)": {
 			"ability": "Chlorophyll",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -34834,7 +34833,7 @@ var SETDEX_ADV = {
 		},
 		"Winona (Trainer #792 Mon #2)": {
 			"ability": "Chlorophyll",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -34854,7 +34853,7 @@ var SETDEX_ADV = {
 		},
 		"Winona (Trainer #793 Mon #2)": {
 			"ability": "Chlorophyll",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -35130,7 +35129,7 @@ var SETDEX_ADV = {
 	"Vigoroth": {
 		"Berke (Trainer #74 Mon #1)": {
 			"ability": "Vital Spirit",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -35246,7 +35245,7 @@ var SETDEX_ADV = {
 		},
 		"Norman (Trainer #269 Mon #2)": {
 			"ability": "Vital Spirit",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 24,
 				"df": 24,
@@ -36232,7 +36231,7 @@ var SETDEX_ADV = {
 		},
 		"Wallace (Trainer #335 Mon #1)": {
 			"ability": "Water Veil",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -36274,7 +36273,7 @@ var SETDEX_ADV = {
 		},
 		"Juan (Trainer #798 Mon #3)": {
 			"ability": "Thick Fat",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -36294,7 +36293,7 @@ var SETDEX_ADV = {
 		},
 		"Juan (Trainer #799 Mon #3)": {
 			"ability": "Thick Fat",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -36314,7 +36313,7 @@ var SETDEX_ADV = {
 		},
 		"Juan (Trainer #800 Mon #4)": {
 			"ability": "Thick Fat",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -36334,7 +36333,7 @@ var SETDEX_ADV = {
 		},
 		"Juan (Trainer #801 Mon #4)": {
 			"ability": "Thick Fat",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -36501,7 +36500,7 @@ var SETDEX_ADV = {
 		},
 		"Juan (Trainer #272 Mon #2)": {
 			"ability": "Oblivious",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 24,
 				"df": 24,
@@ -36521,7 +36520,7 @@ var SETDEX_ADV = {
 		},
 		"Juan (Trainer #798 Mon #2)": {
 			"ability": "Oblivious",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -36541,7 +36540,7 @@ var SETDEX_ADV = {
 		},
 		"Juan (Trainer #799 Mon #2)": {
 			"ability": "Oblivious",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -36561,7 +36560,7 @@ var SETDEX_ADV = {
 		},
 		"Juan (Trainer #800 Mon #2)": {
 			"ability": "Oblivious",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -36581,7 +36580,7 @@ var SETDEX_ADV = {
 		},
 		"Juan (Trainer #801 Mon #2)": {
 			"ability": "Oblivious",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -36660,7 +36659,7 @@ var SETDEX_ADV = {
 		},
 		"Wallace (Trainer #335 Mon #4)": {
 			"ability": "Oblivious",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -36682,7 +36681,7 @@ var SETDEX_ADV = {
 	"Whismur": {
 		"Calvin (Trainer #318 Mon #3)": {
 			"ability": "Soundproof",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -36780,7 +36779,7 @@ var SETDEX_ADV = {
 	"Wigglytuff": {
 		"Alexia (Trainer #90 Mon #1)": {
 			"ability": "Cute Charm",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -36800,7 +36799,7 @@ var SETDEX_ADV = {
 		},
 		"Karen (Trainer #280 Mon #3)": {
 			"ability": "Cute Charm",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -37317,7 +37316,7 @@ var SETDEX_ADV = {
 		},
 		"Melina (Trainer #755 Mon #1)": {
 			"ability": "Keen Eye",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -37902,7 +37901,7 @@ var SETDEX_ADV = {
 		},
 		"Tate&Liza (Trainer #271 Mon #2)": {
 			"ability": "Synchronize",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 30,
 				"df": 30,
@@ -38103,7 +38102,7 @@ var SETDEX_ADV = {
 		},
 		"Jody (Trainer #91 Mon #1)": {
 			"ability": "Immunity",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -38202,7 +38201,7 @@ var SETDEX_ADV = {
 		},
 		"Calvin (Trainer #318 Mon #2)": {
 			"ability": "Guts",
-			"item": "????????",
+			
 			"ivs": {
 				"at": 31,
 				"df": 31,

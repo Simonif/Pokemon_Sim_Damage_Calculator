@@ -38913,4 +38913,4 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		}
 	}
-}
+};

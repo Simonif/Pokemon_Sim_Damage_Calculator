@@ -223,7 +223,6 @@ var SETDEX_ADV = {
 				"Recover"
 			],
 			"nature": "Serious"
-
 		},
 		"Jacki (Trainer #253 Mon #2)": {
 			"ability": "Synchronize",
@@ -38913,4 +38912,4 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		}
 	}
-};
+}

@@ -765,7 +765,7 @@ var SETDEX_ADV = {
 				"moves": [
 					"Thunderbolt",
 					"Fire Punch",
-					"Hidden Power~11",
+					"Hidden Power Grass",
 					"Tail Glow"
 				],
 				"nature": "Serious"
@@ -4807,7 +4807,7 @@ var SETDEX_ADV = {
 					"Water Pulse",
 					"Crabhammer",
 					"Taunt",
-					"Hidden Power~2"
+					"Hidden Power Rock"
 				],
 				"nature": "Serious"
 			},
@@ -9438,7 +9438,7 @@ var SETDEX_ADV = {
 					"Fake Out",
 					"Cross Chop",
 					"Rock Slide",
-					"Hidden Power~16"
+					"Hidden Power Flying"
 				],
 				"nature": "Serious"
 			},
@@ -10750,7 +10750,7 @@ var SETDEX_ADV = {
 					"Shock Wave",
 					"Thunder Wave",
 					"Feint Attack",
-					"Hidden Power~11"
+					"Hidden Power Grass"
 				],
 				"nature": "Serious"
 			}
@@ -17198,7 +17198,7 @@ var SETDEX_ADV = {
 				"level": 42,
 				"moves": [
 					"Thunderbolt",
-					"Hidden Power~11",
+					"Hidden Power Grass",
 					"Toxic",
 					"Protect"
 				],
@@ -18008,7 +18008,7 @@ var SETDEX_ADV = {
 					"Thunderbolt",
 					"Flamethrower",
 					"Crunch",
-					"Hidden Power~12"
+					"Hidden Power Ice"
 				],
 				"nature": "Serious"
 			},
@@ -19290,7 +19290,7 @@ var SETDEX_ADV = {
 				"moves": [
 					"Baton Pass",
 					"Feint Attack",
-					"Hidden Power~14",
+					"Hidden Power Steel",
 					"Bite"
 				],
 				"nature": "Serious"
@@ -20962,7 +20962,7 @@ var SETDEX_ADV = {
 					"Shock Wave",
 					"Thunder Wave",
 					"Quick Attack",
-					"Hidden Power~11"
+					"Hidden Power Grass"
 				],
 				"nature": "Serious"
 			}
@@ -20982,7 +20982,7 @@ var SETDEX_ADV = {
 				"level": 45,
 				"moves": [
 					"Overheat",
-					"Hidden Power~3",
+					"Hidden Power Electric",
 					"Will-O-Wisp",
 					"Aerial Ace"
 				],
@@ -23842,7 +23842,7 @@ var SETDEX_ADV = {
 					"Thunderbolt",
 					"Surf",
 					"Thunder Wave",
-					"Hidden Power~12"
+					"Hidden Power Ice"
 				],
 				"nature": "Serious"
 			},

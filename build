@@ -28,7 +28,7 @@ function makeCachebuster(template, output) {
 	console.log("DONE");
 }
 
-function cpdir(src, dest) {
+async function cpdir(src, dest) {
 	console.log("Copying `" + src + "` to `" + dest + "`");
 	try {
 		fs.mkdirSync(dest, '0755');
@@ -60,10 +60,12 @@ if (process.argv[2] !== 'view') {
 	require('child_process').execSync('npm --prefix calc/ run compile', {stdio: 'inherit'});
 }
 
-cpdir('src', 'dist');
-cpdir('calc/dist', 'dist/calc');
+(async () => {
+await cpdir('src', 'dist');
+await cpdir('calc/dist', 'dist/calc');
 makeCachebuster('dist/honkalculate.template.html', 'dist/honkalculate.html');
 makeCachebuster('dist/index.template.html', 'dist/index.html');
 makeCachebuster('dist/randoms.template.html', 'dist/randoms.html')
 makeCachebuster('dist/oms.template.html', 'dist/oms.html');
+})
 ;

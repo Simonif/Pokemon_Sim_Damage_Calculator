@@ -4,7 +4,8 @@
     "rootDir": "./src",
     "outDir": "dist",
     "downlevelIteration": true,
-    "tsBuildInfoFile": ".tsbuildinfo"
+    "tsBuildInfoFile": ".tsbuildinfo",
+    "ignoreDeprecations": "5.0"
   },
   "exclude": ["dist"]
 }

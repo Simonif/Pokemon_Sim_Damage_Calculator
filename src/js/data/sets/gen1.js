@@ -435,7 +435,7 @@ var SETDEX_RBY = {
     "OU Standard": {"moves":["Blizzard","Agility","Double-Edge","Hyper Beam"]},
     "Ubers Bulky Attacker": {"moves":["Blizzard","Hyper Beam","Rest","Agility"]},
     "UU Agility Sweeper": {"moves":["Blizzard","Double-Edge","Hyper Beam","Agility"]},
-    "1v1 Reflect + Rest": {"moves":["Ice Beam","Blizzard","Rest","Reflect"]},
+    "1v1 Reflect + Rest": {"moves":["Blizzard","Ice Beam","Reflect","Rest"]},
     "Tradebacks OU Sweeper": {"moves":["Agility","Blizzard","Ice Beam","Hyper Beam"]}
   },
   "Zapdos": {
@@ -460,7 +460,7 @@ var SETDEX_RBY = {
   "Dragonite": {
     "OU Wrap": {"moves":["Wrap","Hyper Beam","Blizzard","Thunder Wave"]},
     "OU AgiliWrap": {"moves":["Agility","Wrap","Hyper Beam","Surf"]},
-    "Ubers Agility + Wrap": {"moves":["Agility","Wrap","Surf","Hyper Beam"]},
+    "Ubers Wrap": {"moves":["Wrap","Thunder Wave","Surf","Hyper Beam"]},
     "UU Wrap Pivot": {"moves":["Wrap","Thunder Wave","Blizzard","Body Slam"]},
     "UU PhysNite (Offensive)": {"moves":["Blizzard","Body Slam","Thunderbolt","Hyper Beam"]},
     "UU Agility Sweeper": {"moves":["Blizzard","Thunderbolt","Hyper Beam","Agility"]},

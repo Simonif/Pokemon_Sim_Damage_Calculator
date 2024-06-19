@@ -26722,7 +26722,6 @@ var SETDEX_ADV = {
 				"Dig",
 				"Brick Break",
 				"Rock Tomb",
-				"Aerial Ace"
 			],
 			"nature": "Serious"
 		},
@@ -35323,7 +35322,7 @@ var SETDEX_ADV = {
 				"Shock Wave",
 				"Quick Attack",
 				"Giga Drain",
-				"Aerial Ace"
+				"Seismic Toss"
 			],
 			"nature": "Serious"
 		},

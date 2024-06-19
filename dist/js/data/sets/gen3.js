@@ -7618,10 +7618,9 @@ var SETDEX_ADV = {
 			},
 			"level": 17,
 			"moves": [
-				"Iron Tail",
+				"Quick Attack",
 				"Aerial Ace",
-				"Rock Tomb",
-				"Magnitude"
+				"Rock Tomb"
 			],
 			"nature": "Serious"
 		},

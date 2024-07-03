@@ -14999,7 +14999,7 @@ var SETDEX_ADV = {
 			},
 			"level": 34,
 			"moves": [
-				"Arm Thrust",
+				"Bullet Punch",
 				"Vital Throw",
 				"Reversal",
 				"Bulk Up"

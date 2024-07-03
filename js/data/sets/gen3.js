@@ -24281,7 +24281,7 @@ var SETDEX_ADV = {
 				"Toxic",
 				"Shock Wave",
 				"Quick Attack",
-				"Protect"
+				"Hidden Power Ground"
 			],
 			"nature": "Serious"
 		}

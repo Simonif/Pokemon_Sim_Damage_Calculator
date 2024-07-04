@@ -4198,7 +4198,7 @@ var SETDEX_ADV = {
 				"Thunderpunch",
 				"Earthquake",
 				"Wing Attack",
-				"-"
+				"Flamethrower"
 			],
 			"nature": "Serious"
 		}

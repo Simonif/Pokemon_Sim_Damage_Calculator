@@ -28869,7 +28869,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Aerial Ace",
 				"Steel Wing",
-				"Spikes",
+				"Hidden Power Ground",
 				"Recover"
 			],
 			"nature": "Serious"

@@ -336,7 +336,7 @@ var GSC_PATCH = {
 var GSC = (0, util_1.extend)(true, {}, RBY, GSC_PATCH);
 var ADV_PATCH = {
     Acid: { target: 'allAdjacentFoes' },
-    'Ancient Power': { makesContact: true },
+    'Ancientpower': { makesContact: true },
     Bide: { makesContact: true },
     Bind: { makesContact: true },
     Blizzard: { target: 'allAdjacentFoes' },

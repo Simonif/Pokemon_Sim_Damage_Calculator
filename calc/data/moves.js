@@ -273,7 +273,7 @@ var GSC_PATCH = {
     Thief: { bp: 40, type: 'Dark' },
     'Triple Kick': { bp: 10, type: 'Fighting', multihit: [1, 3] },
     Twister: { bp: 40, type: 'Dragon' },
-    'Ancient Power': { bp: 60, type: 'Rock' },
+    'Ancientpower': { bp: 60, type: 'Rock' },
     'Bone Rush': { bp: 25, type: 'Ground', multihit: [2, 5] },
     Crunch: { bp: 80, type: 'Dark' },
     'Feint Attack': { bp: 60, type: 'Dark' },

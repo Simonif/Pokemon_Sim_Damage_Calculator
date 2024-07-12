@@ -289,7 +289,7 @@ function calculateDefenseADV(gen, defender, move, desc, isCritical) {
         df = Math.floor(df * 1.5);
         desc.defenderAbility = defender.ability;
     }
-    if (move.named('Explosion', 'Self-Destruct')) {
+    if (move.named('Explosion', 'Selfdestruct')) {
         df = Math.floor(df / 2);
     }
     var defenseBoost = defender.boosts[defenseStat];

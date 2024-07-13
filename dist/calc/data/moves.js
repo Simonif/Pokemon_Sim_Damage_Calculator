@@ -482,7 +482,7 @@ var ADV_PATCH = {
     'Nature Power': { bp: 0, category: 'Status', type: 'Normal' },
     'Needle Arm': { bp: 60, type: 'Grass', makesContact: true },
     'Odor Sleuth': { bp: 0, category: 'Status', type: 'Normal' },
-    Overheat: { bp: 140, type: 'Fire', self: { boosts: { spa: -2 } }, makesContact: true },
+    Overheat: { bp: 120, type: 'Fire', makesContact: false },
     Revenge: { bp: 60, type: 'Fighting', makesContact: true },
     'Rock Blast': { bp: 25, type: 'Rock', multihit: [2, 5] },
     'Role Play': { bp: 0, category: 'Status', type: 'Psychic' },

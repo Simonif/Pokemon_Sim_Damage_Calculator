@@ -40,6 +40,46 @@ var SETDEX_ADV = {
 		}
 	},
 	"Absol": {
+		"Becky (Trainer #470 Mon #4)": {
+			"ability": "Pressure",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Crunch",
+				"Shadow Ball",
+				"Megahorn",
+				"Swords Dance"
+			],
+			"nature": "Serious"
+		},
+		"Flint (Trainer #654 Mon #1)": {
+			"ability": "Pressure",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Crunch",
+				"Shadow Ball",
+				"Megahorn",
+				"Aerial Ace"
+			],
+			"nature": "Serious"
+		},
 		"Halle (Trainer #546 Mon #2)": {
 			"ability": "Pressure",
 			"ivs": {
@@ -100,7 +140,7 @@ var SETDEX_ADV = {
 		}
 	},
 	"Aerodactyl": {
-		"Maxie (Trainer #601 Mon #5)": {
+		"Edwardo (Trainer #404 Mon #6)": {
 			"ability": "Rock Head",
 			"item": "Lum Berry",
 			"ivs": {
@@ -111,12 +151,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 62,
 			"moves": [
-				"Rock Slide",
 				"Aerial Ace",
-				"Earthquake",
-				"Double-Edge"
+				"Rock Slide",
+				"Double-Edge",
+				"Supersonic"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #35 Mon #4)": {
+			"ability": "Rock Head",
+			"item": "Focus Band",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Aerial Ace",
+				"Ancientpower",
+				"Flamethrower",
+				"Steel Wing"
 			],
 			"nature": "Serious"
 		},
@@ -142,6 +202,86 @@ var SETDEX_ADV = {
 		}
 	},
 	"Aggron": {
+		"Alexia (Trainer #90 Mon #3)": {
+			"ability": "Rock Head",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Rock Slide",
+				"Iron Tail",
+				"Earthquake",
+				"Thunder Wave"
+			],
+			"nature": "Serious"
+		},
+		"Bryant (Trainer #746 Mon #4)": {
+			"ability": "Rock Head",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Rock Slide",
+				"Iron Tail",
+				"Earthquake",
+				"Flamethrower"
+			],
+			"nature": "Serious"
+		},
+		"Jace (Trainer #204 Mon #5)": {
+			"ability": "Rock Head",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Rock Slide",
+				"Earthquake",
+				"Iron Tail",
+				"Double-Edge"
+			],
+			"nature": "Serious"
+		},
+		"Marcel (Trainer #11 Mon #5)": {
+			"ability": "Rock Head",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Iron Tail",
+				"Rock Slide",
+				"Fire Blast",
+				"Thunder"
+			],
+			"nature": "Serious"
+		},
 		"Steve (Trainer #150 Mon #1)": {
 			"ability": "Rock Head",
 			"ivs": {
@@ -224,6 +364,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Heidi (Trainer #469 Mon #1)": {
+			"ability": "Synchronize",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Psychic",
+				"Thunderpunch",
+				"Fire Punch",
+				"Ice Punch"
+			],
+			"nature": "Serious"
+		},
 		"Jacki (Trainer #253 Mon #2)": {
 			"ability": "Synchronize",
 			"ivs": {
@@ -242,9 +402,69 @@ var SETDEX_ADV = {
 				"Recover"
 			],
 			"nature": "Serious"
+		},
+		"Parker (Trainer #72 Mon #2)": {
+			"ability": "Synchronize",
+			"item": "Twistedspoon",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Psychic",
+				"Thunderpunch",
+				"Fire Punch",
+				"Ice Punch"
+			],
+			"nature": "Serious"
+		},
+		"Tammy (Trainer #107 Mon #1)": {
+			"ability": "Synchronize",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Psychic",
+				"Ice Punch",
+				"Fire Punch",
+				"Future Sight"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Altaria": {
+		"Chester (Trainer #408 Mon #2)": {
+			"ability": "Natural Cure",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 59,
+			"moves": [
+				"Dragon Claw",
+				"Aerial Ace",
+				"Earthquake",
+				"Heat Wave"
+			],
+			"nature": "Serious"
+		},
 		"Diana (Trainer #480 Mon #3)": {
 			"ability": "Natural Cure",
 			"ivs": {
@@ -284,6 +504,46 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Grunt (Trainer #596 Mon #6)": {
+			"ability": "Natural Cure",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Aerial Ace",
+				"Dragon Claw",
+				"Heat Wave",
+				"Earthquake"
+			],
+			"nature": "Serious"
+		},
+		"Jared (Trainer #401 Mon #3)": {
+			"ability": "Natural Cure",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Aerial Ace",
+				"Outrage",
+				"Earthquake",
+				"Heat Wave"
+			],
+			"nature": "Serious"
+		},
 		"Larry (Trainer #213 Mon #2)": {
 			"ability": "Natural Cure",
 			"item": "Soft Sand",
@@ -295,7 +555,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 42,
 			"moves": [
 				"Aerial Ace",
 				"Hyper Voice",
@@ -648,26 +908,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Winona (Trainer #270 Mon #5)": {
-			"ability": "Natural Cure",
-			"item": "Oran Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 33,
-			"moves": [
-				"Earthquake",
-				"Dragonbreath",
-				"Dragon Dance",
-				"Aerial Ace"
-			],
-			"nature": "Serious"
-		},
 		"Winona (Trainer #790 Mon #5)": {
 			"ability": "Natural Cure",
 			"item": "Chesto Berry",
@@ -750,6 +990,66 @@ var SETDEX_ADV = {
 		}
 	},
 	"Ampharos": {
+		"Grunt (Trainer #416 Mon #2)": {
+			"ability": "Static",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Thunder",
+				"Ice Punch",
+				"Signal Beam",
+				"Thunder Wave"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #596 Mon #3)": {
+			"ability": "Static",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Thunderbolt",
+				"Fire Punch",
+				"Signal Beam",
+				"Focus Punch"
+			],
+			"nature": "Serious"
+		},
+		"Mary (Trainer #89 Mon #6)": {
+			"ability": "Static",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Thunderbolt",
+				"Fire Punch",
+				"Signal Beam",
+				"Thunder Wave"
+			],
+			"nature": "Serious"
+		},
 		"Tabitha (Trainer #597 Mon #4)": {
 			"ability": "Static",
 			"item": "Lum Berry",
@@ -761,7 +1061,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 44,
+			"level": 46,
 			"moves": [
 				"Thunderbolt",
 				"Fire Punch",
@@ -781,7 +1081,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Thunderbolt",
 				"Tail Glow",
@@ -885,7 +1185,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 43,
+			"level": 45,
 			"moves": [
 				"Poison Fang",
 				"Earthquake",
@@ -905,7 +1205,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Poison Fang",
 				"Giga Drain",
@@ -916,6 +1216,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Arcanine": {
+		"Flannery (Trainer #268 Mon #4)": {
+			"ability": "Intimidate",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Heat Wave",
+				"Solarbeam",
+				"Spark",
+				"Extremespeed"
+			],
+			"nature": "Serious"
+		},
 		"Flannery (Trainer #785 Mon #1)": {
 			"ability": "Intimidate",
 			"item": "????????",
@@ -947,32 +1267,12 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 40,
+			"level": 43,
 			"moves": [
 				"Flamethrower",
 				"Crunch",
 				"Extremespeed",
 				"Morning Sun"
-			],
-			"nature": "Serious"
-		},
-		"Maxie (Trainer #601 Mon #4)": {
-			"ability": "Intimidate",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 45,
-			"moves": [
-				"Flamethrower",
-				"Extremespeed",
-				"Crunch",
-				"Will-O-Wisp"
 			],
 			"nature": "Serious"
 		}
@@ -1009,7 +1309,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 39,
+			"level": 42,
 			"moves": [
 				"Poison Fang",
 				"Signal Beam",
@@ -1020,6 +1320,66 @@ var SETDEX_ADV = {
 		}
 	},
 	"Armaldo": {
+		"Becky (Trainer #470 Mon #2)": {
+			"ability": "Battle Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"X-Scissor",
+				"Rock Slide",
+				"Aerial Ace",
+				"Superpower"
+			],
+			"nature": "Serious"
+		},
+		"Jeffrey (Trainer #226 Mon #4)": {
+			"ability": "Battle Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Ancientpower",
+				"X-Scissor",
+				"Aerial Ace",
+				"Crush Claw"
+			],
+			"nature": "Serious"
+		},
+		"Maxie (Trainer #601 Mon #2)": {
+			"ability": "Battle Armor",
+			"item": "Silverpowder",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 47,
+			"moves": [
+				"X-Scissor",
+				"Aerial Ace",
+				"Rock Slide",
+				"Swords Dance"
+			],
+			"nature": "Serious"
+		},
 		"Steven (Trainer #804 Mon #5)": {
 			"ability": "Battle Armor",
 			"item": "????????",
@@ -1042,25 +1402,6 @@ var SETDEX_ADV = {
 		}
 	},
 	"Aron": {
-		"Deandre (Trainer #715 Mon #2)": {
-			"ability": "Rock Head",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 14,
-			"moves": [
-				"Rock Throw",
-				"Metal Claw",
-				"Mud-Slap",
-				"Headbutt"
-			],
-			"nature": "Serious"
-		},
 		"Dillon (Trainer #327 Mon #1)": {
 			"ability": "Rock Head",
 			"ivs": {
@@ -1325,7 +1666,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 44,
 			"moves": [
 				"Double-Edge",
 				"Superpower",
@@ -1388,6 +1729,26 @@ var SETDEX_ADV = {
 				"Waterfall",
 				"Body Slam",
 				"Water Pulse"
+			],
+			"nature": "Serious"
+		},
+		"Norman (Trainer #269 Mon #4)": {
+			"ability": "Huge Power",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 52,
+			"moves": [
+				"Double-Edge",
+				"Surf",
+				"Ice Beam",
+				"Brick Break"
 			],
 			"nature": "Serious"
 		},
@@ -1571,44 +1932,6 @@ var SETDEX_ADV = {
 		}
 	},
 	"Baltoy": {
-		"Beau (Trainer #212 Mon #1)": {
-			"ability": "Levitate",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 21,
-			"moves": [
-				"Rapid Spin",
-				"Mud-Slap",
-				"Psybeam",
-				"Rock Tomb"
-			],
-			"nature": "Serious"
-		},
-		"Beau (Trainer #212 Mon #3)": {
-			"ability": "Levitate",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 21,
-			"moves": [
-				"Rapid Spin",
-				"Mud-Slap",
-				"Psybeam",
-				"Rock Tomb"
-			],
-			"nature": "Serious"
-		},
 		"Chip (Trainer #45 Mon #1)": {
 			"ability": "Levitate",
 			"ivs": {
@@ -1625,25 +1948,6 @@ var SETDEX_ADV = {
 				"Selfdestruct",
 				"Sandstorm",
 				"Ancientpower"
-			],
-			"nature": "Serious"
-		},
-		"Eric (Trainer #632 Mon #2)": {
-			"ability": "Levitate",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 20,
-			"moves": [
-				"Selfdestruct",
-				"Rock Tomb",
-				"Psybeam",
-				"Mud-Slap"
 			],
 			"nature": "Serious"
 		},
@@ -1758,25 +2062,6 @@ var SETDEX_ADV = {
 				"Selfdestruct",
 				"Rock Tomb",
 				"Psybeam"
-			],
-			"nature": "Serious"
-		},
-		"Heidi (Trainer #469 Mon #2)": {
-			"ability": "Levitate",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 22,
-			"moves": [
-				"Rapid Spin",
-				"Mud-Slap",
-				"Psybeam",
-				"Rock Tomb"
 			],
 			"nature": "Serious"
 		},
@@ -1899,46 +2184,6 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		}
 	},
-	"Barboach": {
-		"Kai (Trainer #713 Mon #1)": {
-			"ability": "Oblivious",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 19,
-			"moves": [
-				"Bubblebeam",
-				"Mud Shot",
-				"Magnitude",
-				"Water Gun"
-			],
-			"nature": "Serious"
-		},
-		"Nolan (Trainer #342 Mon #1)": {
-			"ability": "Oblivious",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 19,
-			"moves": [
-				"Bubblebeam",
-				"Mud Shot",
-				"Magnitude",
-				"Water Gun"
-			],
-			"nature": "Serious"
-		}
-	},
 	"Bayleef": {
 		"Haley (Trainer #604 Mon #2)": {
 			"ability": "Overgrow",
@@ -1995,25 +2240,6 @@ var SETDEX_ADV = {
 			"moves": [
 				"Giga Drain",
 				"Silver Wind",
-				"Shadow Ball",
-				"Morning Sun"
-			],
-			"nature": "Serious"
-		},
-		"Donald (Trainer #224 Mon #3)": {
-			"ability": "Swarm",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 24,
-			"moves": [
-				"Psychic",
-				"Stun Spore",
 				"Shadow Ball",
 				"Morning Sun"
 			],
@@ -2137,6 +2363,26 @@ var SETDEX_ADV = {
 				"Brick Break"
 			],
 			"nature": "Serious"
+		},
+		"Jeffrey (Trainer #226 Mon #3)": {
+			"ability": "Swarm",
+			"item": "Silverpowder",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"X-Scissor",
+				"Sludge Bomb",
+				"Toxic",
+				"Aerial Ace"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Beldum": {
@@ -2152,8 +2398,7 @@ var SETDEX_ADV = {
 			},
 			"level": 5,
 			"moves": [
-				"Take Down",
-				"(No Move)"
+				"Take Down"
 			],
 			"nature": "Serious"
 		},
@@ -2169,8 +2414,7 @@ var SETDEX_ADV = {
 			},
 			"level": 5,
 			"moves": [
-				"Take Down",
-				"(No Move)"
+				"Take Down"
 			],
 			"nature": "Serious"
 		},
@@ -2186,8 +2430,7 @@ var SETDEX_ADV = {
 			},
 			"level": 5,
 			"moves": [
-				"Take Down",
-				"(No Move)"
+				"Take Down"
 			],
 			"nature": "Serious"
 		},
@@ -2203,8 +2446,7 @@ var SETDEX_ADV = {
 			},
 			"level": 5,
 			"moves": [
-				"Take Down",
-				"(No Move)"
+				"Take Down"
 			],
 			"nature": "Serious"
 		},
@@ -2220,8 +2462,7 @@ var SETDEX_ADV = {
 			},
 			"level": 5,
 			"moves": [
-				"Take Down",
-				"(No Move)"
+				"Take Down"
 			],
 			"nature": "Serious"
 		},
@@ -2237,8 +2478,7 @@ var SETDEX_ADV = {
 			},
 			"level": 5,
 			"moves": [
-				"Take Down",
-				"(No Move)"
+				"Take Down"
 			],
 			"nature": "Serious"
 		},
@@ -2254,8 +2494,7 @@ var SETDEX_ADV = {
 			},
 			"level": 5,
 			"moves": [
-				"Take Down",
-				"(No Move)"
+				"Take Down"
 			],
 			"nature": "Serious"
 		}
@@ -2277,6 +2516,26 @@ var SETDEX_ADV = {
 				"Stun Spore",
 				"Magical Leaf",
 				"Sleep Powder"
+			],
+			"nature": "Serious"
+		},
+		"Rose (Trainer #37 Mon #3)": {
+			"ability": "Chlorophyll",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 58,
+			"moves": [
+				"Magical Leaf",
+				"Sunny Day",
+				"Sleep Powder",
+				"Weather Ball"
 			],
 			"nature": "Serious"
 		}
@@ -2303,6 +2562,46 @@ var SETDEX_ADV = {
 		}
 	},
 	"Blastoise": {
+		"Barny (Trainer #343 Mon #1)": {
+			"ability": "Torrent",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 55,
+			"moves": [
+				"Surf",
+				"Rain Dance",
+				"Ice Beam",
+				"Mirror Coat"
+			],
+			"nature": "Serious"
+		},
+		"Brendan (Trainer #525 Mon #5)": {
+			"ability": "Torrent",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Mirror Coat",
+				"Yawn"
+			],
+			"nature": "Serious"
+		},
 		"Brooke (Trainer #94 Mon #1)": {
 			"ability": "Torrent",
 			"item": "Mystic Water",
@@ -2314,12 +2613,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 38,
+			"level": 42,
 			"moves": [
 				"Surf",
 				"Ice Beam",
 				"Mirror Coat",
 				"Bite"
+			],
+			"nature": "Serious"
+		},
+		"May (Trainer #534 Mon #5)": {
+			"ability": "Torrent",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Mirror Coat",
+				"Yawn"
 			],
 			"nature": "Serious"
 		}
@@ -2336,12 +2655,72 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Blaze Kick",
 				"Sky Uppercut",
 				"Thunderpunch",
 				"Rock Slide"
+			],
+			"nature": "Serious"
+		},
+		"Brendan (Trainer #525 Mon #4)": {
+			"ability": "Blaze",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Blaze Kick",
+				"Sky Uppercut",
+				"Thunderpunch",
+				"Rock Slide"
+			],
+			"nature": "Serious"
+		},
+		"Jace (Trainer #204 Mon #4)": {
+			"ability": "Blaze",
+			"item": "Charcoal",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Overheat",
+				"Sky Uppercut",
+				"Rock Slide",
+				"Aerial Ace"
+			],
+			"nature": "Serious"
+		},
+		"Maxie (Trainer #601 Mon #4)": {
+			"ability": "Blaze",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 47,
+			"moves": [
+				"Blaze Kick",
+				"Sky Uppercut",
+				"Hidden Power Grass",
+				"Thunderpunch"
 			],
 			"nature": "Serious"
 		},
@@ -2356,7 +2735,27 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
+			"moves": [
+				"Blaze Kick",
+				"Sky Uppercut",
+				"Thunderpunch",
+				"Rock Slide"
+			],
+			"nature": "Serious"
+		},
+		"May (Trainer #534 Mon #4)": {
+			"ability": "Blaze",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
 			"moves": [
 				"Blaze Kick",
 				"Sky Uppercut",
@@ -2367,6 +2766,46 @@ var SETDEX_ADV = {
 		}
 	},
 	"Blissey": {
+		"George (Trainer #73 Mon #2)": {
+			"ability": "Natural Cure",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Seismic Toss",
+				"Softboiled",
+				"Counter",
+				"Ice Beam"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #19 Mon #1)": {
+			"ability": "Natural Cure",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Seismic Toss",
+				"Ice Beam",
+				"Thunderbolt",
+				"Counter"
+			],
+			"nature": "Serious"
+		},
 		"Norman (Trainer #788 Mon #2)": {
 			"ability": "Natural Cure",
 			"item": "????????",
@@ -2424,8 +2863,28 @@ var SETDEX_ADV = {
 			"moves": [
 				"Spore",
 				"Sky Uppercut",
-				"Thunderpunch",
+				"Substitute",
 				"Mach Punch"
+			],
+			"nature": "Serious"
+		},
+		"Callie (Trainer #763 Mon #3)": {
+			"ability": "Effect Spore",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Stun Spore",
+				"Substitute",
+				"Focus Punch",
+				"Rock Slide"
 			],
 			"nature": "Serious"
 		},
@@ -2440,12 +2899,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Spore",
 				"Sky Uppercut",
 				"Rock Slide",
 				"Giga Drain"
+			],
+			"nature": "Serious"
+		},
+		"Daisuke (Trainer #189 Mon #4)": {
+			"ability": "Effect Spore",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Spore",
+				"Sky Uppercut",
+				"Giga Drain",
+				"Mach Punch"
 			],
 			"nature": "Serious"
 		},
@@ -2560,25 +3039,6 @@ var SETDEX_ADV = {
 				"Mach Punch",
 				"Stun Spore",
 				"Mega Drain"
-			],
-			"nature": "Serious"
-		},
-		"Jackson (Trainer #552 Mon #1)": {
-			"ability": "Effect Spore",
-			"ivs": {
-				"at": 6,
-				"df": 6,
-				"hp": 6,
-				"sa": 6,
-				"sd": 6,
-				"sp": 6
-			},
-			"level": 27,
-			"moves": [
-				"Mach Punch",
-				"Stun Spore",
-				"Mega Drain",
-				"Synthesis"
 			],
 			"nature": "Serious"
 		},
@@ -2947,10 +3407,30 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 40,
+			"level": 43,
 			"moves": [
 				"Needle Arm",
 				"Revenge",
+				"Brick Break",
+				"Thunderpunch"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #247 Mon #1)": {
+			"ability": "Sand Veil",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Spikes",
+				"Destiny Bond",
 				"Brick Break",
 				"Thunderpunch"
 			],
@@ -3014,6 +3494,26 @@ var SETDEX_ADV = {
 				"Cotton Spore"
 			],
 			"nature": "Serious"
+		},
+		"Wilton (Trainer #78 Mon #2)": {
+			"ability": "Sand Veil",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Leech Seed",
+				"Protect",
+				"Ingrain",
+				"Substitute"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Camerupt": {
@@ -3036,6 +3536,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Bryant (Trainer #746 Mon #2)": {
+			"ability": "Magma Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Flamethrower",
+				"Earthquake",
+				"Rock Slide",
+				"Double-Edge"
+			],
+			"nature": "Serious"
+		},
 		"Darcy (Trainer #733 Mon #2)": {
 			"ability": "Magma Armor",
 			"ivs": {
@@ -3055,23 +3575,23 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Flannery (Trainer #268 Mon #3)": {
+		"Eli (Trainer #501 Mon #3)": {
 			"ability": "Magma Armor",
-			"item": "????????",
+			"item": "Quick Claw",
 			"ivs": {
-				"at": 30,
-				"df": 30,
-				"hp": 30,
-				"sa": 30,
-				"sd": 30,
-				"sp": 30
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
 			},
-			"level": 26,
+			"level": 45,
 			"moves": [
-				"Overheat",
-				"Tackle",
-				"Sunny Day",
-				"Attract"
+				"Earthquake",
+				"Flamethrower",
+				"Rock Slide",
+				"Eruption"
 			],
 			"nature": "Serious"
 		},
@@ -3155,6 +3675,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Grunt (Trainer #19 Mon #6)": {
+			"ability": "Magma Armor",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Earthquake",
+				"Fire Blast",
+				"Counter",
+				"Explosion"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #472 Mon #4)": {
 			"ability": "Magma Armor",
 			"item": "Scope Lens",
@@ -3166,7 +3706,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 40,
+			"level": 43,
 			"moves": [
 				"Earthquake",
 				"Flamethrower",
@@ -3177,7 +3717,7 @@ var SETDEX_ADV = {
 		},
 		"Grunt (Trainer #712 Mon #3)": {
 			"ability": "Magma Armor",
-			"item": "Scope Lens",
+			"item": "Quick Claw",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -3186,7 +3726,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 44,
 			"moves": [
 				"Earthquake",
 				"Overheat",
@@ -3290,26 +3830,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Tabitha (Trainer #597 Mon #3)": {
-			"ability": "Magma Armor",
-			"item": "Soft Sand",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 44,
-			"moves": [
-				"Flamethrower",
-				"Earthquake",
-				"Rock Slide",
-				"Explosion"
-			],
-			"nature": "Serious"
-		},
 		"Tabitha (Trainer #732 Mon #4)": {
 			"ability": "Magma Armor",
 			"ivs": {
@@ -3331,44 +3851,6 @@ var SETDEX_ADV = {
 		}
 	},
 	"Carvanha": {
-		"Barny (Trainer #343 Mon #2)": {
-			"ability": "Rough Skin",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 25,
-			"moves": [
-				"Ancientpower",
-				"Bounce",
-				"Water Pulse",
-				"Secret Power"
-			],
-			"nature": "Serious"
-		},
-		"Chris (Trainer #693 Mon #4)": {
-			"ability": "Rough Skin",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 23,
-			"moves": [
-				"Ancientpower",
-				"Bounce",
-				"Water Pulse",
-				"Secret Power"
-			],
-			"nature": "Serious"
-		},
 		"David (Trainer #158 Mon #2)": {
 			"ability": "Rough Skin",
 			"ivs": {
@@ -3502,44 +3984,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Grunt (Trainer #18 Mon #2)": {
-			"ability": "Rough Skin",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 27,
-			"moves": [
-				"Ancientpower",
-				"Bounce",
-				"Water Pulse",
-				"Secret Power"
-			],
-			"nature": "Serious"
-		},
-		"Grunt (Trainer #19 Mon #3)": {
-			"ability": "Rough Skin",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 26,
-			"moves": [
-				"Ancientpower",
-				"Bounce",
-				"Water Pulse",
-				"Secret Power"
-			],
-			"nature": "Serious"
-		},
 		"Grunt (Trainer #193 Mon #1)": {
 			"ability": "Rough Skin",
 			"ivs": {
@@ -3589,25 +4033,6 @@ var SETDEX_ADV = {
 				"sp": 0
 			},
 			"level": 30,
-			"moves": [
-				"Crunch",
-				"Ancientpower",
-				"Bounce",
-				"Water Pulse"
-			],
-			"nature": "Serious"
-		},
-		"Grunt (Trainer #26 Mon #1)": {
-			"ability": "Rough Skin",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 28,
 			"moves": [
 				"Crunch",
 				"Ancientpower",
@@ -3844,25 +4269,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Shelly (Trainer #32 Mon #1)": {
-			"ability": "Rough Skin",
-			"ivs": {
-				"at": 6,
-				"df": 6,
-				"hp": 6,
-				"sa": 6,
-				"sd": 6,
-				"sp": 6
-			},
-			"level": 28,
-			"moves": [
-				"Crunch",
-				"Ancientpower",
-				"Bounce",
-				"Water Pulse"
-			],
-			"nature": "Serious"
-		},
 		"Tiffany (Trainer #131 Mon #1)": {
 			"ability": "Rough Skin",
 			"ivs": {
@@ -3997,47 +4403,9 @@ var SETDEX_ADV = {
 				"-"
 			],
 			"nature": "Serious"
-		},
-		"Taylor (Trainer #225 Mon #2)": {
-			"ability": "Shed Skin",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 27,
-			"moves": [
-				"Harden",
-				"Poison Sting",
-				"(No Move)",
-				"(No Move)"
-			],
-			"nature": "Serious"
 		}
 	},
 	"Castform": {
-		"Angelica (Trainer #436 Mon #1)": {
-			"ability": "Forecast",
-			"ivs": {
-				"at": 6,
-				"df": 6,
-				"hp": 6,
-				"sa": 6,
-				"sd": 6,
-				"sp": 6
-			},
-			"level": 30,
-			"moves": [
-				"Rain Dance",
-				"Weather Ball",
-				"Thunder",
-				"Water Pulse"
-			],
-			"nature": "Serious"
-		},
 		"Kayley (Trainer #505 Mon #1)": {
 			"ability": "Forecast",
 			"ivs": {
@@ -4068,7 +4436,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 38,
+			"level": 42,
 			"moves": [
 				"Sunny Day",
 				"Weather Ball",
@@ -4142,9 +4510,9 @@ var SETDEX_ADV = {
 		}
 	},
 	"Charizard": {
-		"Brooke (Trainer #94 Mon #3)": {
+		"Brendan (Trainer #522 Mon #4)": {
 			"ability": "Blaze",
-			"item": "Charcoal",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -4153,16 +4521,16 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 38,
+			"level": 63,
 			"moves": [
-				"Flamethrower",
+				"Fire Blast",
 				"Aerial Ace",
-				"Dragon Rage",
-				"Bite"
+				"Earthquake",
+				"Thunderpunch"
 			],
 			"nature": "Serious"
 		},
-		"Lenny (Trainer #628 Mon #3)": {
+		"Brooke (Trainer #94 Mon #3)": {
 			"ability": "Blaze",
 			"item": "Charcoal",
 			"ivs": {
@@ -4176,7 +4544,107 @@ var SETDEX_ADV = {
 			"level": 42,
 			"moves": [
 				"Flamethrower",
+				"Aerial Ace",
+				"Dragon Rage",
+				"Bite"
+			],
+			"nature": "Serious"
+		},
+		"Cole (Trainer #201 Mon #4)": {
+			"ability": "Blaze",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Flamethrower",
+				"Aerial Ace",
+				"Earthquake",
+				"Thunderpunch"
+			],
+			"nature": "Serious"
+		},
+		"Edwardo (Trainer #404 Mon #2)": {
+			"ability": "Blaze",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Flamethrower",
+				"Aerial Ace",
+				"Bite",
+				"Dragon Claw"
+			],
+			"nature": "Serious"
+		},
+		"Flannery (Trainer #268 Mon #1)": {
+			"ability": "Blaze",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Heat Wave",
+				"Aerial Ace",
+				"Solarbeam",
+				"Earthquake"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #628 Mon #3)": {
+			"ability": "Blaze",
+			"item": "Charcoal",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 44,
+			"moves": [
+				"Flamethrower",
 				"Wing Attack",
+				"Earthquake",
+				"Thunderpunch"
+			],
+			"nature": "Serious"
+		},
+		"May (Trainer #531 Mon #4)": {
+			"ability": "Blaze",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Fire Blast",
+				"Aerial Ace",
 				"Earthquake",
 				"Thunderpunch"
 			],
@@ -4193,7 +4661,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 47,
 			"moves": [
 				"Thunderpunch",
 				"Earthquake",
@@ -4236,7 +4704,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Psychic",
 				"Hypnosis",
@@ -4261,6 +4729,26 @@ var SETDEX_ADV = {
 				"Heal Bell",
 				"Psychic",
 				"Signal Beam"
+			],
+			"nature": "Serious"
+		},
+		"Walter (Trainer #254 Mon #1)": {
+			"ability": "Levitate",
+			"item": "Focus Band",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Thunder Wave",
+				"Extrasensory",
+				"Reflect",
+				"Light Screen"
 			],
 			"nature": "Serious"
 		}
@@ -4385,6 +4873,66 @@ var SETDEX_ADV = {
 		}
 	},
 	"Claydol": {
+		"Beau (Trainer #212 Mon #2)": {
+			"ability": "Levitate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Earthquake",
+				"Psychic",
+				"Shadow Ball",
+				"Signal Beam"
+			],
+			"nature": "Serious"
+		},
+		"Cristin (Trainer #767 Mon #5)": {
+			"ability": "Levitate",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Earthquake",
+				"Psychic",
+				"Shadow Ball",
+				"Cosmic Power"
+			],
+			"nature": "Serious"
+		},
+		"Darius (Trainer #803 Mon #3)": {
+			"ability": "Levitate",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Earthquake",
+				"Psychic",
+				"Shadow Ball",
+				"Cosmic Power"
+			],
+			"nature": "Serious"
+		},
 		"Dianne (Trainer #417 Mon #1)": {
 			"ability": "Levitate",
 			"item": "????????",
@@ -4435,12 +4983,52 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 43,
+			"level": 45,
 			"moves": [
 				"Earthquake",
 				"Psychic",
 				"Shadow Ball",
 				"Signal Beam"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #596 Mon #1)": {
+			"ability": "Levitate",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Earthquake",
+				"Psychic",
+				"Explosion",
+				"Signal Beam"
+			],
+			"nature": "Serious"
+		},
+		"Jace (Trainer #204 Mon #2)": {
+			"ability": "Levitate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Earthquake",
+				"Psychic",
+				"Shadow Ball",
+				"Ice Beam"
 			],
 			"nature": "Serious"
 		},
@@ -4596,12 +5184,52 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Hyper Voice",
 				"Moonlight",
 				"Magical Leaf",
 				"Seismic Toss"
+			],
+			"nature": "Serious"
+		},
+		"Lorenzo (Trainer #553 Mon #3)": {
+			"ability": "Cute Charm",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Return",
+				"Cosmic Power",
+				"Meteor Mash",
+				"Moonlight"
+			],
+			"nature": "Serious"
+		},
+		"Tammy (Trainer #107 Mon #3)": {
+			"ability": "Cute Charm",
+			"item": "Sitrus Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Sweet Kiss",
+				"Seismic Toss",
+				"Moonlight",
+				"Wish"
 			],
 			"nature": "Serious"
 		}
@@ -4627,26 +5255,69 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		}
 	},
-	"Combusken": {
-		"Brendan (Trainer #525 Mon #3)": {
-			"ability": "Blaze",
+	"Cloyster": {
+		"Alexia (Trainer #90 Mon #1)": {
+			"ability": "Shell Armor",
+			"item": "Sitrus Berry",
 			"ivs": {
-				"at": 18,
-				"df": 18,
-				"hp": 18,
-				"sa": 18,
-				"sd": 18,
-				"sp": 18
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
 			},
-			"level": 31,
+			"level": 51,
 			"moves": [
-				"Aerial Ace",
-				"Sand-Attack",
-				"Flame Wheel",
-				"Double Kick"
+				"Surf",
+				"Ice Beam",
+				"Explosion",
+				"Clamp"
 			],
 			"nature": "Serious"
 		},
+		"Grunt (Trainer #145 Mon #6)": {
+			"ability": "Shell Armor",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Explosion",
+				"-"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #17 Mon #3)": {
+			"ability": "Shell Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Ice Beam",
+				"Surf",
+				"Explosion",
+				"Clamp"
+			],
+			"nature": "Serious"
+		}
+	},
+	"Combusken": {
 		"Brendan (Trainer #662 Mon #4)": {
 			"ability": "Blaze",
 			"ivs": {
@@ -4663,25 +5334,6 @@ var SETDEX_ADV = {
 				"Aerial Ace",
 				"Sand-Attack",
 				"Flame Wheel"
-			],
-			"nature": "Serious"
-		},
-		"May (Trainer #534 Mon #3)": {
-			"ability": "Blaze",
-			"ivs": {
-				"at": 18,
-				"df": 18,
-				"hp": 18,
-				"sa": 18,
-				"sd": 18,
-				"sp": 18
-			},
-			"level": 31,
-			"moves": [
-				"Aerial Ace",
-				"Sand-Attack",
-				"Flame Wheel",
-				"Double Kick"
 			],
 			"nature": "Serious"
 		},
@@ -4747,6 +5399,66 @@ var SETDEX_ADV = {
 		}
 	},
 	"Corsola": {
+		"Bryan (Trainer #744 Mon #3)": {
+			"ability": "Natural Cure",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 49,
+			"moves": [
+				"Rock Slide",
+				"Surf",
+				"Recover",
+				"Ice Beam"
+			],
+			"nature": "Serious"
+		},
+		"Eric (Trainer #632 Mon #2)": {
+			"ability": "Natural Cure",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 43,
+			"moves": [
+				"Rock Slide",
+				"Surf",
+				"Ice Beam",
+				"Mirror Coat"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #19 Mon #5)": {
+			"ability": "Natural Cure",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Ancientpower",
+				"Surf",
+				"Ice Beam",
+				"Mirror Coat"
+			],
+			"nature": "Serious"
+		},
 		"Marc (Trainer #571 Mon #3)": {
 			"ability": "Natural Cure",
 			"item": "Lum Berry",
@@ -4769,6 +5481,86 @@ var SETDEX_ADV = {
 		}
 	},
 	"Cradily": {
+		"Barny (Trainer #343 Mon #3)": {
+			"ability": "Suction Cups",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 55,
+			"moves": [
+				"Giga Drain",
+				"Toxic",
+				"Recover",
+				"Ancientpower"
+			],
+			"nature": "Serious"
+		},
+		"Beau (Trainer #212 Mon #3)": {
+			"ability": "Suction Cups",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Giga Drain",
+				"Ancientpower",
+				"Recover",
+				"Earthquake"
+			],
+			"nature": "Serious"
+		},
+		"Dusty (Trainer #44 Mon #2)": {
+			"ability": "Suction Cups",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Rock Slide",
+				"Giga Drain",
+				"Recover",
+				"Mirror Coat"
+			],
+			"nature": "Serious"
+		},
+		"Flint (Trainer #654 Mon #6)": {
+			"ability": "Suction Cups",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Giga Drain",
+				"Ingrain",
+				"Toxic",
+				"Recover"
+			],
+			"nature": "Serious"
+		},
 		"Steven (Trainer #804 Mon #4)": {
 			"ability": "Suction Cups",
 			"item": "????????",
@@ -4791,6 +5583,46 @@ var SETDEX_ADV = {
 		}
 	},
 	"Crawdaunt": {
+		"Berke (Trainer #74 Mon #2)": {
+			"ability": "Shell Armor",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Crabhammer",
+				"Crunch",
+				"X-Scissor",
+				"Superpower"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #26 Mon #1)": {
+			"ability": "Shell Armor",
+			"item": "Brightpowder",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Crabhammer",
+				"Crunch",
+				"Sludge Bomb",
+				"Body Slam"
+			],
+			"nature": "Serious"
+		},
 		"Juan (Trainer #272 Mon #4)": {
 			"ability": "Shell Armor",
 			"item": "????????",
@@ -4807,7 +5639,7 @@ var SETDEX_ADV = {
 				"Water Pulse",
 				"Crabhammer",
 				"Taunt",
-				"Hidden Power Rock"
+				"Hidden Power~2"
 			],
 			"nature": "Serious"
 		},
@@ -4926,9 +5758,89 @@ var SETDEX_ADV = {
 			"level": 41,
 			"moves": [
 				"Confuse Ray",
-				"Sludge",
 				"Aerial Ace",
+				"Sludge Bomb",
 				"Bite"
+			],
+			"nature": "Serious"
+		},
+		"Celia (Trainer #743 Mon #3)": {
+			"ability": "Inner Focus",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 49,
+			"moves": [
+				"Aerial Ace",
+				"Sludge Bomb",
+				"Giga Drain",
+				"Hydro Pump"
+			],
+			"nature": "Serious"
+		},
+		"Edwardo (Trainer #404 Mon #4)": {
+			"ability": "Inner Focus",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Sludge Bomb",
+				"Aerial Ace",
+				"Hypnosis",
+				"Giga Drain"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #760 Mon #1)": {
+			"ability": "Inner Focus",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Aerial Ace",
+				"Sludge Bomb",
+				"Confuse Ray",
+				"Giga Drain"
+			],
+			"nature": "Serious"
+		},
+		"Marcel (Trainer #11 Mon #2)": {
+			"ability": "Inner Focus",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Aerial Ace",
+				"Sludge Bomb",
+				"Confuse Ray",
+				"Heat Wave"
 			],
 			"nature": "Serious"
 		},
@@ -4946,8 +5858,28 @@ var SETDEX_ADV = {
 			"moves": [
 				"Air Cutter",
 				"Confuse Ray",
-				"Sludge",
-				"Aerial Ace"
+				"Aerial Ace",
+				"Sludge Bomb"
+			],
+			"nature": "Serious"
+		},
+		"Randall (Trainer #71 Mon #3)": {
+			"ability": "Inner Focus",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Aerial Ace",
+				"Sludge Bomb",
+				"Giga Drain",
+				"Heat Wave"
 			],
 			"nature": "Serious"
 		}
@@ -5109,9 +6041,9 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Mary (Trainer #89 Mon #1)": {
+		"Mary (Trainer #89 Mon #5)": {
 			"ability": "Cute Charm",
-			"item": "????????",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -5120,12 +6052,12 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 26,
+			"level": 51,
 			"moves": [
-				"Feint Attack",
-				"Shock Wave",
-				"-",
-				"-"
+				"Fake Out",
+				"Hyper Voice",
+				"Thunder Wave",
+				"Shadow Ball"
 			],
 			"nature": "Serious"
 		},
@@ -5329,7 +6261,173 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		}
 	},
+	"Ditto": {
+		"Brent (Trainer #223 Mon #1)": {
+			"ability": "Limber",
+			"ivs": {
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"level": 1,
+			"moves": [
+				"Transform"
+			],
+			"nature": "Serious"
+		},
+		"Colin (Trainer #405 Mon #1)": {
+			"ability": "Limber",
+			"ivs": {
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"level": 1,
+			"moves": [
+				"Transform"
+			],
+			"nature": "Serious"
+		},
+		"Donald (Trainer #224 Mon #1)": {
+			"ability": "Limber",
+			"ivs": {
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"level": 1,
+			"moves": [
+				"Transform"
+			],
+			"nature": "Serious"
+		},
+		"Gabrielle (Trainer #9 Mon #1)": {
+			"ability": "Limber",
+			"ivs": {
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"level": 1,
+			"moves": [
+				"Transform"
+			],
+			"nature": "Serious"
+		},
+		"Jennifer (Trainer #95 Mon #1)": {
+			"ability": "Limber",
+			"ivs": {
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"level": 1,
+			"moves": [
+				"Transform"
+			],
+			"nature": "Serious"
+		},
+		"Nolan (Trainer #342 Mon #1)": {
+			"ability": "Limber",
+			"ivs": {
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"level": 1,
+			"moves": [
+				"Transform"
+			],
+			"nature": "Serious"
+		},
+		"Perry (Trainer #398 Mon #1)": {
+			"ability": "Limber",
+			"ivs": {
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"level": 1,
+			"moves": [
+				"Transform"
+			],
+			"nature": "Serious"
+		},
+		"Robert (Trainer #406 Mon #1)": {
+			"ability": "Limber",
+			"ivs": {
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"level": 1,
+			"moves": [
+				"Transform"
+			],
+			"nature": "Serious"
+		},
+		"Taylor (Trainer #225 Mon #1)": {
+			"ability": "Limber",
+			"ivs": {
+				"at": 0,
+				"df": 0,
+				"hp": 0,
+				"sa": 0,
+				"sd": 0,
+				"sp": 0
+			},
+			"level": 1,
+			"moves": [
+				"Transform"
+			],
+			"nature": "Serious"
+		}
+	},
 	"Dodrio": {
+		"Chester (Trainer #408 Mon #1)": {
+			"ability": "Early Bird",
+			"item": "Sharp Beak",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 59,
+			"moves": [
+				"Drill Peck",
+				"Tri Attack",
+				"Steel Wing",
+				"Facade"
+			],
+			"nature": "Serious"
+		},
 		"Dylan (Trainer #367 Mon #1)": {
 			"ability": "Early Bird",
 			"ivs": {
@@ -5368,6 +6466,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Flint (Trainer #654 Mon #5)": {
+			"ability": "Early Bird",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Drill Peck",
+				"Steel Wing",
+				"Pursuit",
+				"Hidden Power ground"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #338 Mon #2)": {
 			"ability": "Early Bird",
 			"item": "Scope Lens",
@@ -5379,12 +6497,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 40,
+			"level": 43,
 			"moves": [
 				"Tri Attack",
 				"Drill Peck",
 				"Steel Wing",
 				"Pursuit"
+			],
+			"nature": "Serious"
+		},
+		"Jeff (Trainer #202 Mon #3)": {
+			"ability": "Early Bird",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 44,
+			"moves": [
+				"Drill Peck",
+				"Tri Attack",
+				"Steel Wing",
+				"Quick Attack"
 			],
 			"nature": "Serious"
 		},
@@ -5544,44 +6682,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Edwardo (Trainer #404 Mon #1)": {
-			"ability": "Early Bird",
-			"ivs": {
-				"at": 18,
-				"df": 18,
-				"hp": 18,
-				"sa": 18,
-				"sd": 18,
-				"sp": 18
-			},
-			"level": 29,
-			"moves": [
-				"Aerial Ace",
-				"Tri Attack",
-				"Rage",
-				"Pursuit"
-			],
-			"nature": "Serious"
-		},
-		"Jared (Trainer #401 Mon #1)": {
-			"ability": "Early Bird",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 27,
-			"moves": [
-				"Aerial Ace",
-				"Tri Attack",
-				"Rage",
-				"Pursuit"
-			],
-			"nature": "Serious"
-		},
 		"Kyra (Trainer #748 Mon #1)": {
 			"ability": "Early Bird",
 			"ivs": {
@@ -5641,6 +6741,66 @@ var SETDEX_ADV = {
 		}
 	},
 	"Donphan": {
+		"Ashley (Trainer #655 Mon #1)": {
+			"ability": "Battle Armor",
+			"item": "Focus Band",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Sludge Bomb",
+				"Body Slam"
+			],
+			"nature": "Serious"
+		},
+		"Drew (Trainer #211 Mon #1)": {
+			"ability": "Battle Armor",
+			"item": "Sitrus Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Body Slam",
+				"Superpower"
+			],
+			"nature": "Serious"
+		},
+		"Eric (Trainer #632 Mon #3)": {
+			"ability": "Battle Armor",
+			"item": "Salac Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 43,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Flail",
+				"Superpower"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #338 Mon #1)": {
 			"ability": "Battle Armor",
 			"item": "Salac Berry",
@@ -5652,11 +6812,31 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 40,
+			"level": 43,
 			"moves": [
 				"Earthquake",
 				"Rock Slide",
 				"Superpower",
+				"Flail"
+			],
+			"nature": "Serious"
+		},
+		"Marcel (Trainer #11 Mon #3)": {
+			"ability": "Battle Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Body Slam",
 				"Flail"
 			],
 			"nature": "Serious"
@@ -5705,8 +6885,48 @@ var SETDEX_ADV = {
 		}
 	},
 	"Dragonite": {
+		"Flannery (Trainer #268 Mon #6)": {
+			"ability": "Inner Focus",
+			"item": "Charcoal",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Dragon Claw",
+				"Aerial Ace",
+				"Heat Wave",
+				"Earthquake"
+			],
+			"nature": "Serious"
+		},
+		"Winona (Trainer #270 Mon #4)": {
+			"ability": "Inner Focus",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Dragon Claw",
+				"Aerial Ace",
+				"Extremespeed",
+				"Earthquake"
+			],
+			"nature": "Serious"
+		},
 		"Winona (Trainer #793 Mon #4)": {
-			"ability": "Thick Fat",
+			"ability": "Inner Focus",
 			"item": "Sitrus Berry",
 			"ivs": {
 				"at": 31,
@@ -5791,6 +7011,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Dugtrio": {
+		"Axle (Trainer #203 Mon #4)": {
+			"ability": "Arena Trap",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Earthquake",
+				"Aerial Ace",
+				"Rock Slide",
+				"Sand Tomb"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #143 Mon #2)": {
 			"ability": "Arena Trap",
 			"item": "Scope Lens",
@@ -5802,12 +7042,92 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 40,
+			"level": 43,
 			"moves": [
 				"Earthquake",
 				"Aerial Ace",
 				"Slash",
 				"-"
+			],
+			"nature": "Serious"
+		},
+		"Heidi (Trainer #469 Mon #2)": {
+			"ability": "Arena Trap",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Earthquake",
+				"Rock Tomb",
+				"Slash",
+				"Sludge Bomb"
+			],
+			"nature": "Serious"
+		},
+		"Humberto (Trainer #402 Mon #2)": {
+			"ability": "Arena Trap",
+			"item": "Soft Sand",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Sludge Bomb",
+				"Tri Attack"
+			],
+			"nature": "Serious"
+		},
+		"Norman (Trainer #269 Mon #5)": {
+			"ability": "Arena Trap",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 52,
+			"moves": [
+				"Earthquake",
+				"Aerial Ace",
+				"Hidden Power Bug",
+				"Rock Slide"
+			],
+			"nature": "Serious"
+		},
+		"Randall (Trainer #71 Mon #4)": {
+			"ability": "Arena Trap",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Sand Tomb",
+				"Sludge Bomb"
 			],
 			"nature": "Serious"
 		},
@@ -5822,7 +7142,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 42,
 			"moves": [
 				"Earthquake",
 				"Aerial Ace",
@@ -5832,7 +7152,49 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		}
 	},
+	"Dunsparce": {
+		"Cole (Trainer #201 Mon #3)": {
+			"ability": "Serene Grace",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Glare",
+				"Rock Slide",
+				"Headbutt",
+				"-"
+			],
+			"nature": "Serious"
+		}
+	},
 	"Dusclops": {
+		"Parker (Trainer #72 Mon #4)": {
+			"ability": "Pressure",
+			"item": "Sitrus Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Confuse Ray",
+				"Pain Split",
+				"Will-O-Wisp",
+				"Shadow Punch"
+			],
+			"nature": "Serious"
+		},
 		"Phoebe (Trainer #262 Mon #1)": {
 			"ability": "Pressure",
 			"item": "????????",
@@ -5891,6 +7253,26 @@ var SETDEX_ADV = {
 				"Toxic"
 			],
 			"nature": "Serious"
+		},
+		"Tammy (Trainer #107 Mon #2)": {
+			"ability": "Pressure",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Shadow Ball",
+				"Will-O-Wisp",
+				"Pain Split",
+				"Focus Punch"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Duskull": {
@@ -5924,25 +7306,6 @@ var SETDEX_ADV = {
 				"sp": 0
 			},
 			"level": 30,
-			"moves": [
-				"Pursuit",
-				"Confuse Ray",
-				"Astonish",
-				"Foresight"
-			],
-			"nature": "Serious"
-		},
-		"Tammy (Trainer #107 Mon #1)": {
-			"ability": "Levitate",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 29,
 			"moves": [
 				"Pursuit",
 				"Confuse Ray",
@@ -6144,28 +7507,29 @@ var SETDEX_ADV = {
 				"Moonlight"
 			],
 			"nature": "Serious"
-		},
-		"Taylor (Trainer #225 Mon #3)": {
-			"ability": "Shield Dust",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 27,
-			"moves": [
-				"Signal Beam",
-				"Sludge",
-				"Psychic",
-				"Moonlight"
-			],
-			"nature": "Serious"
 		}
 	},
 	"Electabuzz": {
+		"Dalton (Trainer #196 Mon #2)": {
+			"ability": "Static",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 58,
+			"moves": [
+				"Thunderbolt",
+				"Fire Punch",
+				"Ice Punch",
+				"Psychic"
+			],
+			"nature": "Serious"
+		},
 		"Takao (Trainer #179 Mon #1)": {
 			"ability": "Static",
 			"item": "Lum Berry",
@@ -6208,25 +7572,6 @@ var SETDEX_ADV = {
 		}
 	},
 	"Electrike": {
-		"Deandre (Trainer #715 Mon #3)": {
-			"ability": "Static",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 14,
-			"moves": [
-				"Bite",
-				"Quick Attack",
-				"Thunder Wave",
-				"Thundershock"
-			],
-			"nature": "Serious"
-		},
 		"Demetrius (Trainer #375 Mon #2)": {
 			"ability": "Static",
 			"ivs": {
@@ -6240,7 +7585,7 @@ var SETDEX_ADV = {
 			"level": 25,
 			"moves": [
 				"Spark",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Shock Wave",
 				"Bite"
 			],
@@ -6260,7 +7605,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Roar",
 				"Spark",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Shock Wave"
 			],
 			"nature": "Serious"
@@ -6280,7 +7625,7 @@ var SETDEX_ADV = {
 				"Thunderbolt",
 				"Roar",
 				"Spark",
-				"Odor Sleuth"
+				"Weather Ball"
 			],
 			"nature": "Serious"
 		},
@@ -6299,7 +7644,7 @@ var SETDEX_ADV = {
 				"Thunderbolt",
 				"Roar",
 				"Spark",
-				"Odor Sleuth"
+				"Weather Ball"
 			],
 			"nature": "Serious"
 		},
@@ -6374,7 +7719,7 @@ var SETDEX_ADV = {
 			"level": 25,
 			"moves": [
 				"Spark",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Shock Wave",
 				"Bite"
 			],
@@ -6393,28 +7738,9 @@ var SETDEX_ADV = {
 			"level": 25,
 			"moves": [
 				"Spark",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Shock Wave",
 				"Bite"
-			],
-			"nature": "Serious"
-		},
-		"Wilton (Trainer #78 Mon #1)": {
-			"ability": "Static",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 17,
-			"moves": [
-				"Shock Wave",
-				"Bite",
-				"Quick Attack",
-				"Thunder Wave"
 			],
 			"nature": "Serious"
 		},
@@ -6431,7 +7757,7 @@ var SETDEX_ADV = {
 			"level": 26,
 			"moves": [
 				"Spark",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Shock Wave",
 				"Bite"
 			],
@@ -6439,6 +7765,106 @@ var SETDEX_ADV = {
 		}
 	},
 	"Electrode": {
+		"Brendan (Trainer #522 Mon #3)": {
+			"ability": "Static",
+			"item": "Magnet",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Thunder",
+				"Explosion",
+				"Signal Beam",
+				"Double-Edge"
+			],
+			"nature": "Serious"
+		},
+		"Brendan (Trainer #525 Mon #3)": {
+			"ability": "Static",
+			"item": "Magnet",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Thunder",
+				"Explosion",
+				"Signal Beam",
+				"Double-Edge"
+			],
+			"nature": "Serious"
+		},
+		"Brendan (Trainer #528 Mon #3)": {
+			"ability": "Static",
+			"item": "Magnet",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Thunder",
+				"Explosion",
+				"Signal Beam",
+				"Double-Edge"
+			],
+			"nature": "Serious"
+		},
+		"Dalton (Trainer #196 Mon #1)": {
+			"ability": "Static",
+			"item": "Silk Scarf",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 58,
+			"moves": [
+				"Thunderbolt",
+				"Signal Beam",
+				"Thunder Wave",
+				"Explosion"
+			],
+			"nature": "Serious"
+		},
+		"Ethan (Trainer #216 Mon #2)": {
+			"ability": "Static",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 44,
+			"moves": [
+				"Thunderbolt",
+				"Explosion",
+				"Signal Beam",
+				"Thunder Wave"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #143 Mon #3)": {
 			"ability": "Static",
 			"item": "Magnet",
@@ -6450,7 +7876,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 40,
+			"level": 43,
 			"moves": [
 				"Thunderbolt",
 				"Toxic",
@@ -6470,12 +7896,72 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 40,
+			"level": 43,
 			"moves": [
 				"Thunderbolt",
 				"Selfdestruct",
 				"Mirror Coat",
 				"-"
+			],
+			"nature": "Serious"
+		},
+		"May (Trainer #531 Mon #3)": {
+			"ability": "Static",
+			"item": "Magnet",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Thunder",
+				"Explosion",
+				"Signal Beam",
+				"Double-Edge"
+			],
+			"nature": "Serious"
+		},
+		"May (Trainer #534 Mon #3)": {
+			"ability": "Static",
+			"item": "Magnet",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Thunder",
+				"Explosion",
+				"Signal Beam",
+				"Double-Edge"
+			],
+			"nature": "Serious"
+		},
+		"May (Trainer #537 Mon #3)": {
+			"ability": "Static",
+			"item": "Magnet",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Thunder",
+				"Explosion",
+				"Signal Beam",
+				"Double-Edge"
 			],
 			"nature": "Serious"
 		},
@@ -6602,7 +8088,7 @@ var SETDEX_ADV = {
 		},
 		"Wattson (Trainer #267 Mon #4)": {
 			"ability": "Static",
-			"item": "Sitrus Berry",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -6633,7 +8119,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Psychic",
 				"Signal Beam",
@@ -6653,7 +8139,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Psychic",
 				"Signal Beam",
@@ -6673,12 +8159,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Psychic",
 				"Signal Beam",
 				"Bite",
 				"Quick Attack"
+			],
+			"nature": "Serious"
+		},
+		"Flint (Trainer #654 Mon #2)": {
+			"ability": "Synchronize",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Psychic",
+				"Bite",
+				"Signal Beam",
+				"Sing"
 			],
 			"nature": "Serious"
 		},
@@ -6693,7 +8199,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Psychic",
 				"Signal Beam",
@@ -6713,7 +8219,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Psychic",
 				"Signal Beam",
@@ -6733,12 +8239,34 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Psychic",
 				"Signal Beam",
 				"Bite",
 				"Quick Attack"
+			],
+			"nature": "Serious"
+		}
+	},
+	"Exeggutor": {
+		"Clarissa (Trainer #435 Mon #2)": {
+			"ability": "Chlorophyll",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Solarbeam",
+				"Psychic",
+				"Sleep Powder",
+				"Explosion"
 			],
 			"nature": "Serious"
 		}
@@ -6760,6 +8288,26 @@ var SETDEX_ADV = {
 				"Body Slam",
 				"Extrasensory",
 				"Brick Break"
+			],
+			"nature": "Serious"
+		},
+		"Dalton (Trainer #196 Mon #3)": {
+			"ability": "Soundproof",
+			"item": "Silk Scarf",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 58,
+			"moves": [
+				"Hyper Voice",
+				"Surf",
+				"Fire Blast",
+				"Shadow Ball"
 			],
 			"nature": "Serious"
 		},
@@ -6820,6 +8368,46 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Grunt (Trainer #17 Mon #4)": {
+			"ability": "Soundproof",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Hyper Voice",
+				"Fire Blast",
+				"Surf",
+				"Extrasensory"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #628 Mon #5)": {
+			"ability": "Soundproof",
+			"item": "Brightpowder",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 44,
+			"moves": [
+				"Hyper Voice",
+				"Surf",
+				"Fire Blast",
+				"Thunder"
+			],
+			"nature": "Serious"
+		},
 		"Karen (Trainer #285 Mon #2)": {
 			"ability": "Soundproof",
 			"ivs": {
@@ -6850,7 +8438,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 42,
 			"moves": [
 				"Hyper Voice",
 				"Flamethrower",
@@ -6861,6 +8449,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Farfetch'D": {
+		"Berke (Trainer #74 Mon #5)": {
+			"ability": "Inner Focus",
+			"item": "Stick",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Sky Attack",
+				"Slash",
+				"Leaf Blade",
+				"Quick Attack"
+			],
+			"nature": "Serious"
+		},
 		"Maria (Trainer #369 Mon #2)": {
 			"ability": "Inner Focus",
 			"ivs": {
@@ -6943,23 +8551,66 @@ var SETDEX_ADV = {
 				"Attract"
 			],
 			"nature": "Serious"
-		},
-		"Chris (Trainer #693 Mon #3)": {
-			"ability": "Swift Swim",
+		}
+	},
+	"Feraligatr": {
+		"Brendan (Trainer #522 Mon #5)": {
+			"ability": "Torrent",
+			"item": "Lum Berry",
 			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
 			},
-			"level": 26,
+			"level": 63,
 			"moves": [
-				"Bounce",
-				"Tackle",
-				"Flail",
-				"(No Move)"
+				"Surf",
+				"Superpower",
+				"Aerial Ace",
+				"Dragon Dance"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #579 Mon #5)": {
+			"ability": "Torrent",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Aerial Ace",
+				"Double-Edge"
+			],
+			"nature": "Serious"
+		},
+		"May (Trainer #531 Mon #5)": {
+			"ability": "Torrent",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Surf",
+				"Superpower",
+				"Aerial Ace",
+				"Dragon Dance"
 			],
 			"nature": "Serious"
 		}
@@ -7007,9 +8658,9 @@ var SETDEX_ADV = {
 		}
 	},
 	"Flareon": {
-		"Grunt (Trainer #326 Mon #4)": {
-			"ability": "Flame Body",
-			"item": "Scope Lens",
+		"Clarissa (Trainer #435 Mon #1)": {
+			"ability": "Drought",
+			"item": "Quick Claw",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -7018,17 +8669,57 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 40,
+			"level": 61,
+			"moves": [
+				"Flamethrower",
+				"Bite",
+				"Double-Edge",
+				"Superpower"
+			],
+			"nature": "Serious"
+		},
+		"Maxie (Trainer #601 Mon #1)": {
+			"ability": "Drought",
+			"item": "Charcoal",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 47,
 			"moves": [
 				"Overheat",
-				"Bite",
-				"Quick Attack",
-				"Double-Edge"
+				"Double-Edge",
+				"Solarbeam",
+				"Bite"
 			],
 			"nature": "Serious"
 		}
 	},
 	"Flygon": {
+		"Beau (Trainer #212 Mon #4)": {
+			"ability": "Levitate",
+			"item": "Miracle Seed",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Earthquake",
+				"Ancientpower",
+				"Giga Drain",
+				"Flamethrower"
+			],
+			"nature": "Serious"
+		},
 		"Drake (Trainer #264 Mon #4)": {
 			"ability": "Levitate",
 			"item": "????????",
@@ -7048,9 +8739,109 @@ var SETDEX_ADV = {
 				"Earthquake"
 			],
 			"nature": "Serious"
+		},
+		"Winona (Trainer #270 Mon #1)": {
+			"ability": "Levitate",
+			"item": "Miracle Seed",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Earthquake",
+				"Dragon Claw",
+				"Giga Drain",
+				"Heat Wave"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Forretress": {
+		"Beau (Trainer #212 Mon #1)": {
+			"ability": "Battle Armor",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Iron Head",
+				"Selfdestruct",
+				"Giga Drain",
+				"Spikes"
+			],
+			"nature": "Serious"
+		},
+		"Brendan (Trainer #522 Mon #1)": {
+			"ability": "Battle Armor",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Spikes",
+				"Signal Beam",
+				"Iron Head",
+				"Earthquake"
+			],
+			"nature": "Serious"
+		},
+		"Brendan (Trainer #525 Mon #1)": {
+			"ability": "Battle Armor",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Spikes",
+				"Signal Beam",
+				"Iron Head",
+				"Earthquake"
+			],
+			"nature": "Serious"
+		},
+		"Brendan (Trainer #528 Mon #1)": {
+			"ability": "Battle Armor",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Spikes",
+				"Signal Beam",
+				"Iron Head",
+				"Earthquake"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #146 Mon #2)": {
 			"ability": "Battle Armor",
 			"item": "Lum Berry",
@@ -7082,12 +8873,92 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 36,
+			"level": 41,
 			"moves": [
 				"Signal Beam",
 				"Explosion",
 				"Giga Drain",
 				"Take Down"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #31 Mon #5)": {
+			"ability": "Battle Armor",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Iron Head",
+				"Signal Beam",
+				"Hidden Power Ground",
+				"Explosion"
+			],
+			"nature": "Serious"
+		},
+		"May (Trainer #531 Mon #1)": {
+			"ability": "Battle Armor",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Spikes",
+				"Signal Beam",
+				"Iron Head",
+				"Earthquake"
+			],
+			"nature": "Serious"
+		},
+		"May (Trainer #534 Mon #1)": {
+			"ability": "Battle Armor",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Spikes",
+				"Signal Beam",
+				"Iron Head",
+				"Earthquake"
+			],
+			"nature": "Serious"
+		},
+		"May (Trainer #537 Mon #1)": {
+			"ability": "Battle Armor",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Spikes",
+				"Signal Beam",
+				"Iron Head",
+				"Earthquake"
 			],
 			"nature": "Serious"
 		}
@@ -7115,6 +8986,46 @@ var SETDEX_ADV = {
 		}
 	},
 	"Gardevoir": {
+		"Grunt (Trainer #247 Mon #4)": {
+			"ability": "Trace",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Psychic",
+				"Thunderbolt",
+				"Fire Punch",
+				"Ice Punch"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #416 Mon #4)": {
+			"ability": "Trace",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Psychic",
+				"Magical Leaf",
+				"Shadow Ball",
+				"Ice Punch"
+			],
+			"nature": "Serious"
+		},
 		"Katelynn (Trainer #325 Mon #1)": {
 			"ability": "Trace",
 			"ivs": {
@@ -7134,9 +9045,9 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Tabitha (Trainer #597 Mon #5)": {
+		"Marcel (Trainer #11 Mon #1)": {
 			"ability": "Trace",
-			"item": "Twistedspoon",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -7145,7 +9056,27 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 44,
+			"level": 65,
+			"moves": [
+				"Psychic",
+				"Hypnosis",
+				"Thunder Wave",
+				"Thunderbolt"
+			],
+			"nature": "Serious"
+		},
+		"Tabitha (Trainer #597 Mon #5)": {
+			"ability": "Trace",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 46,
 			"moves": [
 				"Psychic",
 				"Thunderbolt",
@@ -7262,12 +9193,72 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 41,
+			"level": 44,
 			"moves": [
 				"Mean Look",
 				"Perish Song",
 				"Substitute",
 				"Thunderbolt"
+			],
+			"nature": "Serious"
+		},
+		"Kate & Joy (Trainer #286 Mon #1)": {
+			"ability": "Levitate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Thunderbolt",
+				"Thunderpunch",
+				"Shock Wave",
+				"Imprison"
+			],
+			"nature": "Serious"
+		},
+		"Maxie (Trainer #601 Mon #5)": {
+			"ability": "Levitate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 47,
+			"moves": [
+				"Thunderbolt",
+				"Giga Drain",
+				"Explosion",
+				"Fire Punch"
+			],
+			"nature": "Serious"
+		},
+		"Winona (Trainer #270 Mon #3)": {
+			"ability": "Levitate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Psychic",
+				"Shadow Ball",
+				"Ice Punch",
+				"Giga Drain"
 			],
 			"nature": "Serious"
 		}
@@ -7289,25 +9280,6 @@ var SETDEX_ADV = {
 				"Rock Slide",
 				"Magnitude",
 				"Secret Power"
-			],
-			"nature": "Serious"
-		},
-		"Eric (Trainer #632 Mon #1)": {
-			"ability": "Rock Head",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 20,
-			"moves": [
-				"Rock Slide",
-				"Magnitude",
-				"Secret Power",
-				"Rock Throw"
 			],
 			"nature": "Serious"
 		},
@@ -7500,7 +9472,7 @@ var SETDEX_ADV = {
 				"Psychic",
 				"Crunch",
 				"Body Slam",
-				"Odor Sleuth"
+				"Weather Ball"
 			],
 			"nature": "Serious"
 		},
@@ -7519,7 +9491,7 @@ var SETDEX_ADV = {
 				"Psychic",
 				"Crunch",
 				"Body Slam",
-				"Odor Sleuth"
+				"Weather Ball"
 			],
 			"nature": "Serious"
 		},
@@ -7538,7 +9510,7 @@ var SETDEX_ADV = {
 				"Psychic",
 				"Crunch",
 				"Body Slam",
-				"Odor Sleuth"
+				"Weather Ball"
 			],
 			"nature": "Serious"
 		}
@@ -7584,9 +9556,9 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Grunt (Trainer #206 Mon #1)": {
+		"Grunt (Trainer #17 Mon #2)": {
 			"ability": "Intimidate",
-			"item": "????????",
+			"item": "Salac Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -7595,17 +9567,57 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 41,
+			"level": 61,
+			"moves": [
+				"Ice Beam",
+				"Earthquake",
+				"Iron Head",
+				"Explosion"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #206 Mon #1)": {
+			"ability": "Intimidate",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 42,
 			"moves": [
 				"Explosion",
-				"Rock Tomb",
-				"Recover",
-				"Will-O-Wisp"
+				"Ice Beam",
+				"Iron Head",
+				"Shadow Ball"
 			],
 			"nature": "Serious"
 		}
 	},
 	"Gligar": {
+		"Branden (Trainer #745 Mon #3)": {
+			"ability": "Hyper Cutter",
+			"item": "Sharp Beak",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 49,
+			"moves": [
+				"Earthquake",
+				"Aerial Ace",
+				"X-Scissor",
+				"Swords Dance"
+			],
+			"nature": "Serious"
+		},
 		"Dylan (Trainer #364 Mon #3)": {
 			"ability": "Hyper Cutter",
 			"ivs": {
@@ -7620,7 +9632,8 @@ var SETDEX_ADV = {
 			"moves": [
 				"Quick Attack",
 				"Aerial Ace",
-				"Rock Tomb"
+				"Rock Tomb",
+				"-"
 			],
 			"nature": "Serious"
 		},
@@ -7635,7 +9648,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 42,
 			"moves": [
 				"Aerial Ace",
 				"Earthquake",
@@ -7655,7 +9668,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Swords Dance",
 				"Earthquake",
@@ -7682,25 +9695,6 @@ var SETDEX_ADV = {
 				"Stun Spore",
 				"Sludge",
 				"Magical Leaf"
-			],
-			"nature": "Serious"
-		},
-		"Catherine (Trainer #559 Mon #1)": {
-			"ability": "Chlorophyll",
-			"ivs": {
-				"at": 6,
-				"df": 6,
-				"hp": 6,
-				"sa": 6,
-				"sd": 6,
-				"sp": 6
-			},
-			"level": 26,
-			"moves": [
-				"Sludge",
-				"Magical Leaf",
-				"Sweet Scent",
-				"Toxic"
 			],
 			"nature": "Serious"
 		},
@@ -7871,8 +9865,8 @@ var SETDEX_ADV = {
 			"level": 35,
 			"moves": [
 				"Confuse Ray",
-				"Sludge",
 				"Aerial Ace",
+				"Sludge",
 				"Bite"
 			],
 			"nature": "Serious"
@@ -7889,8 +9883,8 @@ var SETDEX_ADV = {
 			},
 			"level": 34,
 			"moves": [
-				"Sludge",
 				"Aerial Ace",
+				"Sludge",
 				"Bite",
 				"Wing Attack"
 			],
@@ -7909,8 +9903,8 @@ var SETDEX_ADV = {
 			"level": 40,
 			"moves": [
 				"Confuse Ray",
-				"Sludge",
 				"Aerial Ace",
+				"Sludge",
 				"Bite"
 			],
 			"nature": "Serious"
@@ -7926,7 +9920,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 39,
+			"level": 42,
 			"moves": [
 				"Aerial Ace",
 				"Poison Fang",
@@ -8202,28 +10196,49 @@ var SETDEX_ADV = {
 				"Water Sport"
 			],
 			"nature": "Serious"
-		},
-		"Rachel (Trainer #761 Mon #1)": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 26,
-			"moves": [
-				"Secret Power",
-				"Water Pulse",
-				"Supersonic",
-				"Water Sport"
-			],
-			"nature": "Serious"
 		}
 	},
 	"Golduck": {
+		"Ethan (Trainer #216 Mon #1)": {
+			"ability": "Swift Swim",
+			"item": "Mystic Water",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 44,
+			"moves": [
+				"Hydro Pump",
+				"Ice Beam",
+				"Psychic",
+				"Hypnosis"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #559 Mon #1)": {
+			"ability": "Swift Swim",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Surf",
+				"Psychic",
+				"Hypnosis",
+				"Ice Beam"
+			],
+			"nature": "Serious"
+		},
 		"Ned (Trainer #340 Mon #3)": {
 			"ability": "Swift Swim",
 			"item": "Sitrus Berry",
@@ -8265,6 +10280,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Golem": {
+		"Eli (Trainer #501 Mon #4)": {
+			"ability": "Rock Head",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Double-Edge",
+				"Explosion"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #579 Mon #3)": {
 			"ability": "Rock Head",
 			"item": "Silk Scarf",
@@ -8276,10 +10311,30 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 43,
+			"level": 45,
 			"moves": [
 				"Earthquake",
 				"Ancientpower",
+				"Double-Edge",
+				"Explosion"
+			],
+			"nature": "Serious"
+		},
+		"Heidi (Trainer #469 Mon #4)": {
+			"ability": "Rock Head",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
 				"Double-Edge",
 				"Explosion"
 			],
@@ -8395,7 +10450,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 42,
 			"moves": [
 				"Rock Slide",
 				"Earthquake",
@@ -8444,6 +10499,26 @@ var SETDEX_ADV = {
 				"Whirlpool"
 			],
 			"nature": "Serious"
+		},
+		"Grunt (Trainer #760 Mon #3)": {
+			"ability": "Swift Swim",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Surf",
+				"Psychic",
+				"Ice Beam",
+				"Bounce"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Granbull": {
@@ -8486,6 +10561,46 @@ var SETDEX_ADV = {
 				"Crunch"
 			],
 			"nature": "Serious"
+		},
+		"Grunt (Trainer #35 Mon #6)": {
+			"ability": "Intimidate",
+			"item": "Focus Band",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Return",
+				"Crunch",
+				"Counter",
+				"Thunder Wave"
+			],
+			"nature": "Serious"
+		},
+		"Lorenzo (Trainer #553 Mon #1)": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Return",
+				"Shadow Ball",
+				"Counter",
+				"Super Fang"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Graveler": {
@@ -8522,8 +10637,8 @@ var SETDEX_ADV = {
 			"moves": [
 				"Rock Blast",
 				"Body Slam",
-				"Selfdestruct",
-				"Rock Slide"
+				"Dig",
+				"Selfdestruct"
 			],
 			"nature": "Serious"
 		},
@@ -8539,10 +10654,10 @@ var SETDEX_ADV = {
 			},
 			"level": 28,
 			"moves": [
+				"Dig",
 				"Selfdestruct",
 				"Rock Slide",
-				"Magnitude",
-				"Secret Power"
+				"Magnitude"
 			],
 			"nature": "Serious"
 		},
@@ -8559,9 +10674,9 @@ var SETDEX_ADV = {
 			"level": 30,
 			"moves": [
 				"Body Slam",
+				"Dig",
 				"Selfdestruct",
-				"Rock Slide",
-				"Magnitude"
+				"Rock Slide"
 			],
 			"nature": "Serious"
 		},
@@ -8616,10 +10731,10 @@ var SETDEX_ADV = {
 			},
 			"level": 27,
 			"moves": [
+				"Dig",
 				"Selfdestruct",
 				"Rock Slide",
-				"Magnitude",
-				"Secret Power"
+				"Magnitude"
 			],
 			"nature": "Serious"
 		},
@@ -8635,10 +10750,10 @@ var SETDEX_ADV = {
 			},
 			"level": 27,
 			"moves": [
+				"Dig",
 				"Selfdestruct",
 				"Rock Slide",
-				"Magnitude",
-				"Secret Power"
+				"Magnitude"
 			],
 			"nature": "Serious"
 		},
@@ -8655,9 +10770,9 @@ var SETDEX_ADV = {
 			"level": 30,
 			"moves": [
 				"Body Slam",
+				"Dig",
 				"Selfdestruct",
-				"Rock Slide",
-				"Magnitude"
+				"Rock Slide"
 			],
 			"nature": "Serious"
 		},
@@ -8674,9 +10789,9 @@ var SETDEX_ADV = {
 			"level": 30,
 			"moves": [
 				"Body Slam",
+				"Dig",
 				"Selfdestruct",
-				"Rock Slide",
-				"Magnitude"
+				"Rock Slide"
 			],
 			"nature": "Serious"
 		},
@@ -8693,9 +10808,9 @@ var SETDEX_ADV = {
 			"level": 30,
 			"moves": [
 				"Body Slam",
+				"Dig",
 				"Selfdestruct",
-				"Rock Slide",
-				"Magnitude"
+				"Rock Slide"
 			],
 			"nature": "Serious"
 		},
@@ -8712,9 +10827,9 @@ var SETDEX_ADV = {
 			"level": 33,
 			"moves": [
 				"Body Slam",
+				"Dig",
 				"Selfdestruct",
-				"Rock Slide",
-				"Magnitude"
+				"Rock Slide"
 			],
 			"nature": "Serious"
 		},
@@ -8731,9 +10846,9 @@ var SETDEX_ADV = {
 			"level": 33,
 			"moves": [
 				"Body Slam",
+				"Dig",
 				"Selfdestruct",
-				"Rock Slide",
-				"Magnitude"
+				"Rock Slide"
 			],
 			"nature": "Serious"
 		},
@@ -8750,9 +10865,9 @@ var SETDEX_ADV = {
 			"level": 33,
 			"moves": [
 				"Body Slam",
+				"Dig",
 				"Selfdestruct",
-				"Rock Slide",
-				"Magnitude"
+				"Rock Slide"
 			],
 			"nature": "Serious"
 		},
@@ -8769,9 +10884,9 @@ var SETDEX_ADV = {
 			"level": 33,
 			"moves": [
 				"Body Slam",
+				"Dig",
 				"Selfdestruct",
-				"Rock Slide",
-				"Magnitude"
+				"Rock Slide"
 			],
 			"nature": "Serious"
 		}
@@ -8798,25 +10913,6 @@ var SETDEX_ADV = {
 		}
 	},
 	"Grovyle": {
-		"Brendan (Trainer #522 Mon #3)": {
-			"ability": "Overgrow",
-			"ivs": {
-				"at": 18,
-				"df": 18,
-				"hp": 18,
-				"sa": 18,
-				"sd": 18,
-				"sp": 18
-			},
-			"level": 31,
-			"moves": [
-				"Magical Leaf",
-				"Endeavor",
-				"Pursuit",
-				"Vine Whip"
-			],
-			"nature": "Serious"
-		},
 		"Brendan (Trainer #661 Mon #4)": {
 			"ability": "Overgrow",
 			"ivs": {
@@ -8828,25 +10924,6 @@ var SETDEX_ADV = {
 				"sp": 24
 			},
 			"level": 34,
-			"moves": [
-				"Magical Leaf",
-				"Endeavor",
-				"Pursuit",
-				"Vine Whip"
-			],
-			"nature": "Serious"
-		},
-		"May (Trainer #531 Mon #3)": {
-			"ability": "Overgrow",
-			"ivs": {
-				"at": 18,
-				"df": 18,
-				"hp": 18,
-				"sa": 18,
-				"sd": 18,
-				"sp": 18
-			},
-			"level": 31,
 			"moves": [
 				"Magical Leaf",
 				"Endeavor",
@@ -8918,6 +10995,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Grumpig": {
+		"Grunt (Trainer #35 Mon #3)": {
+			"ability": "Thick Fat",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Psychic",
+				"Body Slam",
+				"Signal Beam",
+				"Thunder Wave"
+			],
+			"nature": "Serious"
+		},
 		"Jocelyn (Trainer #425 Mon #3)": {
 			"ability": "Thick Fat",
 			"item": "Twistedspoon",
@@ -8999,6 +11096,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Gyarados": {
+		"Barny (Trainer #343 Mon #4)": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 55,
+			"moves": [
+				"Bounce",
+				"Hydro Pump",
+				"Outrage",
+				"Thrash"
+			],
+			"nature": "Serious"
+		},
 		"Barry (Trainer #163 Mon #1)": {
 			"ability": "Intimidate",
 			"ivs": {
@@ -9209,6 +11326,46 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Grunt (Trainer #17 Mon #1)": {
+			"ability": "Intimidate",
+			"item": "Focus Band",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Bounce",
+				"Dive",
+				"Hyper Beam",
+				"Flail"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #416 Mon #1)": {
+			"ability": "Intimidate",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Hidden Power Flying",
+				"Surf",
+				"Double-Edge",
+				"Crunch"
+			],
+			"nature": "Serious"
+		},
 		"Jack (Trainer #172 Mon #1)": {
 			"ability": "Intimidate",
 			"ivs": {
@@ -9225,6 +11382,46 @@ var SETDEX_ADV = {
 				"Bite",
 				"Bubblebeam",
 				"(No Move)"
+			],
+			"nature": "Serious"
+		},
+		"Kate & Joy (Trainer #286 Mon #2)": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Hidden Power~ Flying",
+				"Double-Edge",
+				"Hydro Pump",
+				"Dragon Dance"
+			],
+			"nature": "Serious"
+		},
+		"Keegan (Trainer #205 Mon #1)": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Earthquake",
+				"Dragon Dance",
+				"Hidden Power Flying",
+				"Hydro Pump"
 			],
 			"nature": "Serious"
 		},
@@ -9380,6 +11577,26 @@ var SETDEX_ADV = {
 				"Surf"
 			],
 			"nature": "Serious"
+		},
+		"Winona (Trainer #270 Mon #2)": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Hidden Power Flying",
+				"Hydro Pump",
+				"Earthquake",
+				"Double-Edge"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Hariyama": {
@@ -9397,7 +11614,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Tackle",
 				"Focus Energy",
-				"Arm Thrust",
+				"Bullet Punch",
 				"-"
 			],
 			"nature": "Serious"
@@ -9598,6 +11815,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Grunt (Trainer #19 Mon #2)": {
+			"ability": "Thick Fat",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Cross Chop",
+				"Knock Off",
+				"Whirlwind",
+				"Counter"
+			],
+			"nature": "Serious"
+		},
 		"Isaac (Trainer #542 Mon #6)": {
 			"ability": "Thick Fat",
 			"ivs": {
@@ -9613,7 +11850,7 @@ var SETDEX_ADV = {
 				"Whirlwind",
 				"Fake Out",
 				"Vital Throw",
-				"Arm Thrust"
+				"Bullet Punch"
 			],
 			"nature": "Serious"
 		},
@@ -9632,7 +11869,7 @@ var SETDEX_ADV = {
 				"Whirlwind",
 				"Fake Out",
 				"Vital Throw",
-				"Arm Thrust"
+				"Bullet Punch"
 			],
 			"nature": "Serious"
 		},
@@ -9652,6 +11889,26 @@ var SETDEX_ADV = {
 				"Whirlwind",
 				"Fake Out",
 				"Vital Throw"
+			],
+			"nature": "Serious"
+		},
+		"Jeff (Trainer #202 Mon #2)": {
+			"ability": "Thick Fat",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 44,
+			"moves": [
+				"Cross Chop",
+				"Rock Slide",
+				"Body Slam",
+				"Shadow Punch"
 			],
 			"nature": "Serious"
 		},
@@ -9807,6 +12064,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Mary (Trainer #89 Mon #4)": {
+			"ability": "Thick Fat",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Vital Throw",
+				"Rock Slide",
+				"Shadow Punch",
+				"Fake Out"
+			],
+			"nature": "Serious"
+		},
 		"Reyna (Trainer #509 Mon #2)": {
 			"ability": "Thick Fat",
 			"ivs": {
@@ -9898,7 +12175,7 @@ var SETDEX_ADV = {
 				"Whirlwind",
 				"Fake Out",
 				"Vital Throw",
-				"Arm Thrust"
+				"Bullet Punch"
 			],
 			"nature": "Serious"
 		},
@@ -9914,7 +12191,7 @@ var SETDEX_ADV = {
 			},
 			"level": 33,
 			"moves": [
-				"Arm Thrust",
+				"Bullet Punch",
 				"Knock Off",
 				"Sand-Attack",
 				"Dig"
@@ -9933,7 +12210,7 @@ var SETDEX_ADV = {
 			},
 			"level": 36,
 			"moves": [
-				"Arm Thrust",
+				"Bullet Punch",
 				"Knock Off",
 				"Sand-Attack",
 				"Dig"
@@ -9952,7 +12229,7 @@ var SETDEX_ADV = {
 			},
 			"level": 39,
 			"moves": [
-				"Arm Thrust",
+				"Bullet Punch",
 				"Belly Drum",
 				"Sand-Attack",
 				"Dig"
@@ -9971,7 +12248,7 @@ var SETDEX_ADV = {
 			},
 			"level": 42,
 			"moves": [
-				"Arm Thrust",
+				"Bullet Punch",
 				"Belly Drum",
 				"Sand-Attack",
 				"Dig"
@@ -9989,7 +12266,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 39,
+			"level": 42,
 			"moves": [
 				"Fake Out",
 				"Cross Chop",
@@ -10014,25 +12291,6 @@ var SETDEX_ADV = {
 				"Knock Off",
 				"Whirlwind",
 				"Fake Out"
-			],
-			"nature": "Serious"
-		},
-		"Zander (Trainer #31 Mon #1)": {
-			"ability": "Thick Fat",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 31,
-			"moves": [
-				"Knock Off",
-				"Whirlwind",
-				"Fake Out",
-				"Vital Throw"
 			],
 			"nature": "Serious"
 		}
@@ -10060,9 +12318,9 @@ var SETDEX_ADV = {
 		}
 	},
 	"Heracross": {
-		"Brawly (Trainer #266 Mon #5)": {
+		"Callie (Trainer #763 Mon #2)": {
 			"ability": "Swarm",
-			"item": "Salac Berry",
+			"item": "Chesto Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -10071,12 +12329,12 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 33,
+			"level": 65,
 			"moves": [
+				"Brick Break",
 				"Megahorn",
-				"Reversal",
-				"Substitute",
-				"Rock Slide"
+				"Rock Slide",
+				"Earthquake"
 			],
 			"nature": "Serious"
 		},
@@ -10097,6 +12355,26 @@ var SETDEX_ADV = {
 				"Megahorn",
 				"Body Slam",
 				"-"
+			],
+			"nature": "Serious"
+		},
+		"Gerald (Trainer #648 Mon #3)": {
+			"ability": "Swarm",
+			"item": "Black Belt",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Megahorn",
+				"Swords Dance",
+				"Facade",
+				"Brick Break"
 			],
 			"nature": "Serious"
 		}
@@ -10286,6 +12564,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Grunt (Trainer #35 Mon #5)": {
+			"ability": "Intimidate",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Brick Break",
+				"Rock Slide",
+				"Mach Punch",
+				"Aerial Ace"
+			],
+			"nature": "Serious"
+		},
 		"Takao (Trainer #179 Mon #5)": {
 			"ability": "Intimidate",
 			"item": "Lum Berry",
@@ -10303,6 +12601,28 @@ var SETDEX_ADV = {
 				"Quick Attack",
 				"Rolling Kick",
 				"Counter"
+			],
+			"nature": "Serious"
+		}
+	},
+	"Ho-Oh": {
+		"Winona (Trainer #270 Mon #5)": {
+			"ability": "Pressure",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Sacred Fire",
+				"Aerial Ace",
+				"Thunderbolt",
+				"Recover"
 			],
 			"nature": "Serious"
 		}
@@ -10427,6 +12747,46 @@ var SETDEX_ADV = {
 		}
 	},
 	"Houndoom": {
+		"Darius (Trainer #803 Mon #2)": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Flamethrower",
+				"Crunch",
+				"Poison Fang",
+				"Pursuit"
+			],
+			"nature": "Serious"
+		},
+		"Flannery (Trainer #268 Mon #3)": {
+			"ability": "Intimidate",
+			"item": "Charcoal",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Overheat",
+				"Crunch",
+				"Solarbeam",
+				"Hidden Power Electric"
+			],
+			"nature": "Serious"
+		},
 		"Flannery (Trainer #785 Mon #3)": {
 			"ability": "Intimidate",
 			"item": "????????",
@@ -10458,12 +12818,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 41,
+			"level": 44,
 			"moves": [
 				"Overheat",
 				"Crunch",
 				"Will-O-Wisp",
 				"Body Slam"
+			],
+			"nature": "Serious"
+		},
+		"Jody (Trainer #91 Mon #2)": {
+			"ability": "Intimidate",
+			"item": "Charcoal",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Overheat",
+				"Crunch",
+				"Pursuit",
+				"Will-O-Wisp"
 			],
 			"nature": "Serious"
 		},
@@ -10478,7 +12858,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 44,
+			"level": 46,
 			"moves": [
 				"Fire Blast",
 				"Crunch",
@@ -10533,6 +12913,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Hypno": {
+		"Gerald (Trainer #648 Mon #4)": {
+			"ability": "Insomnia",
+			"item": "Twistedspoon",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Psychic",
+				"Hypnosis",
+				"Dream Eater",
+				"Ice Punch"
+			],
+			"nature": "Serious"
+		},
 		"Tate&Liza (Trainer #796 Mon #1)": {
 			"ability": "Insomnia",
 			"item": "????????",
@@ -10592,25 +12992,6 @@ var SETDEX_ADV = {
 				"Quick Attack",
 				"Water Pulse",
 				"-"
-			],
-			"nature": "Serious"
-		},
-		"Greg (Trainer #619 Mon #2)": {
-			"ability": "Oblivious",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 25,
-			"moves": [
-				"Signal Beam",
-				"Encore",
-				"Wish",
-				"Moonlight"
 			],
 			"nature": "Serious"
 		},
@@ -10708,6 +13089,26 @@ var SETDEX_ADV = {
 				"Wish"
 			],
 			"nature": "Serious"
+		},
+		"Parker (Trainer #72 Mon #5)": {
+			"ability": "Oblivious",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Confuse Ray",
+				"Seismic Toss",
+				"Encore",
+				"Wish"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Jigglypuff": {
@@ -10733,6 +13134,46 @@ var SETDEX_ADV = {
 		}
 	},
 	"Jolteon": {
+		"Grunt (Trainer #400 Mon #1)": {
+			"ability": "Static",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Thunder",
+				"Signal Beam",
+				"Hidden Power Water",
+				"Bite"
+			],
+			"nature": "Serious"
+		},
+		"Randall (Trainer #71 Mon #2)": {
+			"ability": "Static",
+			"item": "Magnet",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Thunderbolt",
+				"Signal Beam",
+				"Bite",
+				"Thunder Wave"
+			],
+			"nature": "Serious"
+		},
 		"Wattson (Trainer #267 Mon #6)": {
 			"ability": "Static",
 			"item": "Magnet",
@@ -10755,6 +13196,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Jumpluff": {
+		"Edwardo (Trainer #404 Mon #5)": {
+			"ability": "Chlorophyll",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Leech Seed",
+				"Substitute",
+				"Giga Drain",
+				"Aerial Ace"
+			],
+			"nature": "Serious"
+		},
 		"Travis (Trainer #218 Mon #1)": {
 			"ability": "Chlorophyll",
 			"item": "Leftovers",
@@ -10766,12 +13227,134 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 42,
 			"moves": [
+				"Aerial Ace",
+				"Giga Drain",
 				"Leech Seed",
-				"Substitute",
-				"Protect",
-				"-"
+				"Substitute"
+			],
+			"nature": "Serious"
+		}
+	},
+	"Jynx": {
+		"Brendan (Trainer #522 Mon #2)": {
+			"ability": "Oblivious",
+			"item": "Twistedspoon",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Psychic",
+				"Ice Beam",
+				"Sing",
+				"Substitute"
+			],
+			"nature": "Serious"
+		},
+		"Brendan (Trainer #525 Mon #2)": {
+			"ability": "Oblivious",
+			"item": "Twistedspoon",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Psychic",
+				"Ice Beam",
+				"Sing",
+				"Substitute"
+			],
+			"nature": "Serious"
+		},
+		"Brendan (Trainer #528 Mon #2)": {
+			"ability": "Oblivious",
+			"item": "Twistedspoon",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Psychic",
+				"Ice Beam",
+				"Sing",
+				"Substitute"
+			],
+			"nature": "Serious"
+		},
+		"May (Trainer #531 Mon #2)": {
+			"ability": "Oblivious",
+			"item": "Twistedspoon",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Psychic",
+				"Ice Beam",
+				"Sing",
+				"Substitute"
+			],
+			"nature": "Serious"
+		},
+		"May (Trainer #534 Mon #2)": {
+			"ability": "Oblivious",
+			"item": "Twistedspoon",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Psychic",
+				"Ice Beam",
+				"Sing",
+				"Substitute"
+			],
+			"nature": "Serious"
+		},
+		"May (Trainer #537 Mon #2)": {
+			"ability": "Oblivious",
+			"item": "Twistedspoon",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Psychic",
+				"Ice Beam",
+				"Sing",
+				"Substitute"
 			],
 			"nature": "Serious"
 		}
@@ -10819,6 +13402,66 @@ var SETDEX_ADV = {
 		}
 	},
 	"Kabutops": {
+		"Darius (Trainer #803 Mon #4)": {
+			"ability": "Battle Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Rock Slide",
+				"Surf",
+				"Aerial Ace",
+				"X-Scissor"
+			],
+			"nature": "Serious"
+		},
+		"Dusty (Trainer #44 Mon #1)": {
+			"ability": "Battle Armor",
+			"item": "Hard Stone",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Rock Slide",
+				"Surf",
+				"X-Scissor",
+				"Aerial Ace"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #18 Mon #4)": {
+			"ability": "Battle Armor",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Ancientpower",
+				"Surf",
+				"X-Scissor",
+				"Ice Beam"
+			],
+			"nature": "Serious"
+		},
 		"Roxanne (Trainer #771 Mon #3)": {
 			"ability": "Battle Armor",
 			"item": "Sitrus Berry",
@@ -11090,25 +13733,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Kayla (Trainer #247 Mon #3)": {
-			"ability": "Synchronize",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 26,
-			"moves": [
-				"Role Play",
-				"Shadow Ball",
-				"Psybeam",
-				"Disable"
-			],
-			"nature": "Serious"
-		},
 		"Maura (Trainer #246 Mon #1)": {
 			"ability": "Synchronize",
 			"ivs": {
@@ -11168,6 +13792,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Kangaskhan": {
+		"Callie (Trainer #763 Mon #4)": {
+			"ability": "Early Bird",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Fake Out",
+				"Crush Claw",
+				"Earthquake",
+				"Shadow Ball"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #214 Mon #1)": {
 			"ability": "Early Bird",
 			"item": "Scope Lens",
@@ -11179,32 +13823,12 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 41,
+			"level": 44,
 			"moves": [
 				"Fake Out",
 				"Crush Claw",
 				"Rock Slide",
 				"Superpower"
-			],
-			"nature": "Serious"
-		},
-		"Maxie (Trainer #601 Mon #1)": {
-			"ability": "Early Bird",
-			"item": "Lum Berry",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 45,
-			"moves": [
-				"Fake Out",
-				"Crush Claw",
-				"Superpower",
-				"Earthquake"
 			],
 			"nature": "Serious"
 		},
@@ -11270,22 +13894,23 @@ var SETDEX_ADV = {
 		}
 	},
 	"Kecleon": {
-		"Gerald (Trainer #648 Mon #1)": {
+		"Eli (Trainer #501 Mon #2)": {
 			"ability": "Color Change",
+			"item": "Lum Berry",
 			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
 			},
-			"level": 23,
+			"level": 45,
 			"moves": [
+				"Dizzy Punch",
+				"Rock Slide",
 				"Flamethrower",
-				"Fury Swipes",
-				"Feint Attack",
-				"Bind"
+				"Aerial Ace"
 			],
 			"nature": "Serious"
 		},
@@ -11502,6 +14127,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Grunt (Trainer #552 Mon #1)": {
+			"ability": "Swift Swim",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Surf",
+				"Dragonbreath",
+				"Ice Beam",
+				"Double-Edge"
+			],
+			"nature": "Serious"
+		},
 		"Juan (Trainer #272 Mon #5)": {
 			"ability": "Swift Swim",
 			"item": "Chesto Berry",
@@ -11602,6 +14247,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Shelly (Trainer #32 Mon #5)": {
+			"ability": "Swift Swim",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 64,
+			"moves": [
+				"Surf",
+				"Double-Edge",
+				"Hidden Power Electric",
+				"Toxic"
+			],
+			"nature": "Serious"
+		},
 		"Thalia (Trainer #847 Mon #3)": {
 			"ability": "Swift Swim",
 			"ivs": {
@@ -11643,6 +14308,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Grunt (Trainer #145 Mon #3)": {
+			"ability": "Shell Armor",
+			"item": "Focus Band",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Crabhammer",
+				"X-Scissor",
+				"Earthquake",
+				"Megahorn"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #20 Mon #3)": {
 			"ability": "Shell Armor",
 			"item": "Lum Berry",
@@ -11654,12 +14339,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 36,
+			"level": 41,
 			"moves": [
 				"Crabhammer",
 				"Mud Shot",
 				"Crush Claw",
 				"X-Scissor"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #400 Mon #2)": {
+			"ability": "Shell Armor",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Crabhammer",
+				"X-Scissor",
+				"Mud Shot",
+				"Crush Claw"
 			],
 			"nature": "Serious"
 		}
@@ -11945,7 +14650,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 39,
+			"level": 42,
 			"moves": [
 				"Selfdestruct",
 				"-",
@@ -12260,44 +14965,6 @@ var SETDEX_ADV = {
 				"Psybeam"
 			],
 			"nature": "Serious"
-		},
-		"Riley (Trainer #653 Mon #2)": {
-			"ability": "Levitate",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 28,
-			"moves": [
-				"Tackle",
-				"Selfdestruct",
-				"Sludge",
-				"Smokescreen"
-			],
-			"nature": "Serious"
-		},
-		"Takashi (Trainer #416 Mon #2)": {
-			"ability": "Levitate",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 25,
-			"moves": [
-				"Sludge",
-				"Smog",
-				"Secret Power",
-				"Psybeam"
-			],
-			"nature": "Serious"
 		}
 	},
 	"Kyogre": {
@@ -12428,7 +15095,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Rock Slide",
 				"Iron Tail",
@@ -12439,6 +15106,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Lanturn": {
+		"Ashley (Trainer #655 Mon #6)": {
+			"ability": "Volt Absorb",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Surf",
+				"Thunderbolt",
+				"Ice Beam",
+				"Confuse Ray"
+			],
+			"nature": "Serious"
+		},
 		"Dianne (Trainer #417 Mon #2)": {
 			"ability": "Volt Absorb",
 			"item": "????????",
@@ -12456,6 +15143,26 @@ var SETDEX_ADV = {
 				"Earthquake",
 				"-",
 				"-"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #247 Mon #5)": {
+			"ability": "Volt Absorb",
+			"item": "Brightpowder",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Surf",
+				"Thunderbolt",
+				"Ice Beam",
+				"Confuse Ray"
 			],
 			"nature": "Serious"
 		},
@@ -12682,7 +15389,7 @@ var SETDEX_ADV = {
 				"Growl",
 				"Tail Whip",
 				"Headbutt",
-				"Odor Sleuth"
+				"Weather Ball~3"
 			],
 			"nature": "Serious"
 		},
@@ -12701,7 +15408,7 @@ var SETDEX_ADV = {
 				"Growl",
 				"Tail Whip",
 				"Headbutt",
-				"Odor Sleuth"
+				"Weather Ball~3"
 			],
 			"nature": "Serious"
 		},
@@ -12725,6 +15432,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Berke (Trainer #74 Mon #1)": {
+			"ability": "Guts",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Slash",
+				"Shadow Ball",
+				"Quick Attack",
+				"Belly Drum"
+			],
+			"nature": "Serious"
+		},
 		"Calvin (Trainer #330 Mon #2)": {
 			"ability": "Guts",
 			"ivs": {
@@ -12738,7 +15465,7 @@ var SETDEX_ADV = {
 			"level": 29,
 			"moves": [
 				"Dig",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power",
 				"Headbutt"
 			],
@@ -12757,7 +15484,7 @@ var SETDEX_ADV = {
 			"level": 32,
 			"moves": [
 				"Dig",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power",
 				"Headbutt"
 			],
@@ -12776,7 +15503,7 @@ var SETDEX_ADV = {
 			},
 			"level": 27,
 			"moves": [
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power",
 				"Headbutt",
 				"Snore"
@@ -12797,7 +15524,7 @@ var SETDEX_ADV = {
 			"level": 30,
 			"moves": [
 				"Dig",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power",
 				"Headbutt"
 			],
@@ -12817,7 +15544,7 @@ var SETDEX_ADV = {
 			"level": 33,
 			"moves": [
 				"Dig",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power",
 				"Headbutt"
 			],
@@ -12838,8 +15565,48 @@ var SETDEX_ADV = {
 			"moves": [
 				"Fury Swipes",
 				"Mud Sport",
-				"Odor Sleuth",
+				"Weather Ball~3",
 				"Sand-Attack"
+			],
+			"nature": "Serious"
+		},
+		"Deandre (Trainer #715 Mon #1)": {
+			"ability": "Guts",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 59,
+			"moves": [
+				"Belly Drum",
+				"Extremespeed",
+				"Shadow Ball",
+				"Hidden Power Fighting"
+			],
+			"nature": "Serious"
+		},
+		"Ethan (Trainer #216 Mon #3)": {
+			"ability": "Guts",
+			"item": "Sitrus Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 44,
+			"moves": [
+				"Belly Drum",
+				"Double-Edge",
+				"Facade",
+				"Dig"
 			],
 			"nature": "Serious"
 		},
@@ -12856,7 +15623,7 @@ var SETDEX_ADV = {
 			"level": 29,
 			"moves": [
 				"Dig",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power",
 				"Headbutt"
 			],
@@ -12875,7 +15642,7 @@ var SETDEX_ADV = {
 			"level": 31,
 			"moves": [
 				"Dig",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power",
 				"Headbutt"
 			],
@@ -12894,9 +15661,29 @@ var SETDEX_ADV = {
 			"level": 34,
 			"moves": [
 				"Dig",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power",
 				"Headbutt"
+			],
+			"nature": "Serious"
+		},
+		"Flint (Trainer #654 Mon #3)": {
+			"ability": "Guts",
+			"item": "Silk Scarf",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Double-Edge",
+				"Extremespeed",
+				"Shadow Ball",
+				"Hidden Power Ground"
 			],
 			"nature": "Serious"
 		},
@@ -12913,7 +15700,7 @@ var SETDEX_ADV = {
 			"level": 33,
 			"moves": [
 				"Dig",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power",
 				"Headbutt"
 			],
@@ -12933,7 +15720,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Body Slam",
 				"Dig",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power"
 			],
 			"nature": "Serious"
@@ -12952,7 +15739,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Body Slam",
 				"Dig",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power"
 			],
 			"nature": "Serious"
@@ -12969,7 +15756,7 @@ var SETDEX_ADV = {
 			},
 			"level": 22,
 			"moves": [
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power",
 				"Headbutt",
 				"Snore"
@@ -12988,7 +15775,7 @@ var SETDEX_ADV = {
 			},
 			"level": 25,
 			"moves": [
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power",
 				"Headbutt",
 				"Snore"
@@ -13007,7 +15794,7 @@ var SETDEX_ADV = {
 			},
 			"level": 28,
 			"moves": [
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power",
 				"Headbutt",
 				"Snore"
@@ -13027,28 +15814,8 @@ var SETDEX_ADV = {
 			"level": 31,
 			"moves": [
 				"Dig",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power",
-				"Headbutt"
-			],
-			"nature": "Serious"
-		},
-		"Norman (Trainer #269 Mon #3)": {
-			"ability": "Guts",
-			"item": "????????",
-			"ivs": {
-				"at": 24,
-				"df": 24,
-				"hp": 24,
-				"sa": 24,
-				"sd": 24,
-				"sp": 24
-			},
-			"level": 29,
-			"moves": [
-				"Slash",
-				"Belly Drum",
-				"Facade",
 				"Headbutt"
 			],
 			"nature": "Serious"
@@ -13143,7 +15910,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Headbutt",
 				"Sand-Attack",
-				"Odor Sleuth",
+				"Weather Ball~3",
 				"Fury Swipes"
 			],
 			"nature": "Serious"
@@ -13162,7 +15929,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Headbutt",
 				"Sand-Attack",
-				"Odor Sleuth",
+				"Weather Ball~3",
 				"Fury Swipes"
 			],
 			"nature": "Serious"
@@ -13181,7 +15948,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Headbutt",
 				"Sand-Attack",
-				"Odor Sleuth",
+				"Weather Ball~3",
 				"Fury Swipes"
 			],
 			"nature": "Serious"
@@ -13219,7 +15986,7 @@ var SETDEX_ADV = {
 			},
 			"level": 27,
 			"moves": [
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power",
 				"Headbutt",
 				"Snore"
@@ -13240,7 +16007,7 @@ var SETDEX_ADV = {
 			"level": 30,
 			"moves": [
 				"Dig",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power",
 				"Headbutt"
 			],
@@ -13260,7 +16027,7 @@ var SETDEX_ADV = {
 			"level": 33,
 			"moves": [
 				"Dig",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power",
 				"Headbutt"
 			],
@@ -13281,70 +16048,13 @@ var SETDEX_ADV = {
 			"moves": [
 				"Fury Swipes",
 				"Mud Sport",
-				"Odor Sleuth",
+				"Weather Ball~3",
 				"Sand-Attack"
 			],
 			"nature": "Serious"
 		}
 	},
 	"Lombre": {
-		"Brendan (Trainer #525 Mon #2)": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 29,
-			"moves": [
-				"Bubblebeam",
-				"Fake Out",
-				"Nature Power",
-				"Bullet Seed"
-			],
-			"nature": "Serious"
-		},
-		"Brendan (Trainer #528 Mon #1)": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 29,
-			"moves": [
-				"Bubblebeam",
-				"Fake Out",
-				"Nature Power",
-				"Bullet Seed"
-			],
-			"nature": "Serious"
-		},
-		"Celia (Trainer #743 Mon #2)": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 22,
-			"moves": [
-				"Fake Out",
-				"Nature Power",
-				"Bullet Seed",
-				"Water Gun"
-			],
-			"nature": "Serious"
-		},
 		"Edwin (Trainer #515 Mon #1)": {
 			"ability": "Swift Swim",
 			"ivs": {
@@ -13516,101 +16226,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Jenna (Trainer #560 Mon #2)": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 6,
-				"df": 6,
-				"hp": 6,
-				"sa": 6,
-				"sd": 6,
-				"sp": 6
-			},
-			"level": 28,
-			"moves": [
-				"Bubblebeam",
-				"Fake Out",
-				"Nature Power",
-				"Bullet Seed"
-			],
-			"nature": "Serious"
-		},
-		"Lorenzo (Trainer #553 Mon #3)": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 6,
-				"df": 6,
-				"hp": 6,
-				"sa": 6,
-				"sd": 6,
-				"sp": 6
-			},
-			"level": 28,
-			"moves": [
-				"Bubblebeam",
-				"Fake Out",
-				"Nature Power",
-				"Bullet Seed"
-			],
-			"nature": "Serious"
-		},
-		"May (Trainer #531 Mon #2)": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 29,
-			"moves": [
-				"Bubblebeam",
-				"Fake Out",
-				"Nature Power",
-				"Bullet Seed"
-			],
-			"nature": "Serious"
-		},
-		"May (Trainer #534 Mon #2)": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 29,
-			"moves": [
-				"Bubblebeam",
-				"Fake Out",
-				"Nature Power",
-				"Bullet Seed"
-			],
-			"nature": "Serious"
-		},
-		"May (Trainer #537 Mon #1)": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 29,
-			"moves": [
-				"Bubblebeam",
-				"Fake Out",
-				"Nature Power",
-				"Bullet Seed"
-			],
-			"nature": "Serious"
-		},
 		"Olivia (Trainer #130 Mon #3)": {
 			"ability": "Swift Swim",
 			"ivs": {
@@ -13689,44 +16304,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Gabrielle (Trainer #9 Mon #4)": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 26,
-			"moves": [
-				"Bubblebeam",
-				"Bullet Seed",
-				"Nature Power",
-				"Water Gun"
-			],
-			"nature": "Serious"
-		},
-		"Jenna (Trainer #560 Mon #1)": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 6,
-				"df": 6,
-				"hp": 6,
-				"sa": 6,
-				"sd": 6,
-				"sp": 6
-			},
-			"level": 28,
-			"moves": [
-				"Bubblebeam",
-				"Bullet Seed",
-				"Nature Power",
-				"Water Gun"
-			],
-			"nature": "Serious"
-		},
 		"May (Trainer #768 Mon #1)": {
 			"ability": "Swift Swim",
 			"ivs": {
@@ -13768,25 +16345,6 @@ var SETDEX_ADV = {
 		}
 	},
 	"Loudred": {
-		"Cristin (Trainer #767 Mon #1)": {
-			"ability": "Soundproof",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 29,
-			"moves": [
-				"Extrasensory",
-				"Brick Break",
-				"Bite",
-				"Secret Power"
-			],
-			"nature": "Serious"
-		},
 		"Cristin (Trainer #828 Mon #1)": {
 			"ability": "Soundproof",
 			"ivs": {
@@ -14245,6 +16803,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"George (Trainer #73 Mon #1)": {
+			"ability": "Swift Swim",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Giga Drain",
+				"Surf",
+				"Leech Seed",
+				"Protect"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #21 Mon #5)": {
 			"ability": "Swift Swim",
 			"item": "Miracle Seed",
@@ -14256,12 +16834,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 36,
+			"level": 41,
 			"moves": [
 				"Fake Out",
 				"Surf",
 				"Ice Beam",
 				"Leech Seed"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #761 Mon #1)": {
+			"ability": "Swift Swim",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Surf",
+				"Giga Drain",
+				"Ice Beam",
+				"Thunderpunch"
 			],
 			"nature": "Serious"
 		},
@@ -14382,7 +16980,69 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		}
 	},
+	"Lugia": {
+		"Winona (Trainer #270 Mon #6)": {
+			"ability": "Pressure",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Aeroblast",
+				"Psychic",
+				"Hydro Pump",
+				"Recover"
+			],
+			"nature": "Serious"
+		}
+	},
 	"Lunatone": {
+		"Celia (Trainer #743 Mon #4)": {
+			"ability": "Levitate",
+			"item": "Sitrus Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 49,
+			"moves": [
+				"Rock Slide",
+				"Psychic",
+				"Moonlight",
+				"Hypnosis"
+			],
+			"nature": "Serious"
+		},
+		"Eric (Trainer #632 Mon #1)": {
+			"ability": "Levitate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 43,
+			"moves": [
+				"Psychic",
+				"Rock Slide",
+				"Moonlight",
+				"Cosmic Power"
+			],
+			"nature": "Serious"
+		},
 		"Jacki (Trainer #249 Mon #2)": {
 			"ability": "Levitate",
 			"ivs": {
@@ -14708,7 +17368,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 36,
+			"level": 41,
 			"moves": [
 				"Surf",
 				"Flail",
@@ -14986,6 +17646,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Berke (Trainer #74 Mon #4)": {
+			"ability": "Guts",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Cross Chop",
+				"Rock Slide",
+				"Fire Blast",
+				"Facade"
+			],
+			"nature": "Serious"
+		},
 		"Brawly (Trainer #266 Mon #6)": {
 			"ability": "Guts",
 			"item": "Sitrus Berry",
@@ -15086,6 +17766,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Daisuke (Trainer #189 Mon #1)": {
+			"ability": "Guts",
+			"item": "Black Belt",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Cross Chop",
+				"Rock Slide",
+				"Counter",
+				"Fire Punch"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #472 Mon #3)": {
 			"ability": "Guts",
 			"item": "Scope Lens",
@@ -15097,7 +17797,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 40,
+			"level": 43,
 			"moves": [
 				"Dynamicpunch",
 				"Mega Kick",
@@ -15163,6 +17863,26 @@ var SETDEX_ADV = {
 				"Seismic Toss"
 			],
 			"nature": "Serious"
+		},
+		"Walter (Trainer #254 Mon #2)": {
+			"ability": "Guts",
+			"item": "Black Belt",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Dynamicpunch",
+				"Rock Slide",
+				"Bulk Up",
+				"Facade"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Machoke": {
@@ -15177,7 +17897,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 42,
 			"moves": [
 				"Vital Throw",
 				"Rock Slide",
@@ -15782,26 +18502,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Brice (Trainer #626 Mon #3)": {
-			"ability": "Guts",
-			"item": "????????",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 37,
-			"moves": [
-				"Foresight",
-				"Vital Throw",
-				"Revenge",
-				"Mega Kick"
-			],
-			"nature": "Serious"
-		},
 		"Cory (Trainer #740 Mon #2)": {
 			"ability": "Guts",
 			"ivs": {
@@ -15875,25 +18575,6 @@ var SETDEX_ADV = {
 				"Revenge",
 				"Vital Throw",
 				"Foresight"
-			],
-			"nature": "Serious"
-		},
-		"Daisuke (Trainer #189 Mon #1)": {
-			"ability": "Guts",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 19,
-			"moves": [
-				"Foresight",
-				"Seismic Toss",
-				"Karate Chop",
-				"Tackle"
 			],
 			"nature": "Serious"
 		},
@@ -16219,7 +18900,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 40,
+			"level": 43,
 			"moves": [
 				"Heat Wave",
 				"Ancientpower",
@@ -16230,7 +18911,7 @@ var SETDEX_ADV = {
 		},
 		"Grunt (Trainer #579 Mon #4)": {
 			"ability": "Flame Body",
-			"item": "Silk Scarf",
+			"item": "Quick Claw",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -16239,7 +18920,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 43,
+			"level": 45,
 			"moves": [
 				"Heat Wave",
 				"Ancientpower",
@@ -16259,12 +18940,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 42,
 			"moves": [
 				"Flamethrower",
 				"Ancientpower",
 				"Recover",
 				"Will-O-Wisp"
+			],
+			"nature": "Serious"
+		},
+		"Jeff (Trainer #202 Mon #4)": {
+			"ability": "Flame Body",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 44,
+			"moves": [
+				"Heat Wave",
+				"Ancientpower",
+				"Explosion",
+				"Fire Spin"
 			],
 			"nature": "Serious"
 		},
@@ -16302,8 +19003,7 @@ var SETDEX_ADV = {
 			},
 			"level": 5,
 			"moves": [
-				"Flail",
-				"(No Move)"
+				"Flail"
 			],
 			"nature": "Serious"
 		},
@@ -16326,25 +19026,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Chris (Trainer #693 Mon #1)": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 29,
-			"moves": [
-				"Tackle",
-				"Flail",
-				"(No Move)",
-				"(No Move)"
-			],
-			"nature": "Serious"
-		},
 		"Darian (Trainer #696 Mon #1)": {
 			"ability": "Swift Swim",
 			"ivs": {
@@ -16357,8 +19038,7 @@ var SETDEX_ADV = {
 			},
 			"level": 9,
 			"moves": [
-				"Flail",
-				"(No Move)"
+				"Flail"
 			],
 			"nature": "Serious"
 		},
@@ -16374,8 +19054,7 @@ var SETDEX_ADV = {
 			},
 			"level": 5,
 			"moves": [
-				"Flail",
-				"(No Move)"
+				"Flail"
 			],
 			"nature": "Serious"
 		},
@@ -16391,8 +19070,7 @@ var SETDEX_ADV = {
 			},
 			"level": 6,
 			"moves": [
-				"Flail",
-				"(No Move)"
+				"Flail"
 			],
 			"nature": "Serious"
 		},
@@ -16408,8 +19086,7 @@ var SETDEX_ADV = {
 			},
 			"level": 7,
 			"moves": [
-				"Flail",
-				"(No Move)"
+				"Flail"
 			],
 			"nature": "Serious"
 		},
@@ -16472,6 +19149,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Magmar": {
+		"Axle (Trainer #203 Mon #2)": {
+			"ability": "Flame Body",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Flamethrower",
+				"Thunderpunch",
+				"Cross Chop",
+				"Toxic"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #326 Mon #2)": {
 			"ability": "Flame Body",
 			"item": "Scope Lens",
@@ -16483,7 +19180,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 40,
+			"level": 43,
 			"moves": [
 				"Fire Blast",
 				"Cross Chop",
@@ -16503,12 +19200,52 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 42,
 			"moves": [
 				"Flamethrower",
 				"Thunderpunch",
 				"Brick Break",
 				"Fire Spin"
+			],
+			"nature": "Serious"
+		},
+		"Jace (Trainer #204 Mon #1)": {
+			"ability": "Flame Body",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Flamethrower",
+				"Thunderpunch",
+				"Cross Chop",
+				"Psychic"
+			],
+			"nature": "Serious"
+		},
+		"Marcel (Trainer #11 Mon #4)": {
+			"ability": "Flame Body",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Flamethrower",
+				"Cross Chop",
+				"Thunderpunch",
+				"Hyper Beam"
 			],
 			"nature": "Serious"
 		},
@@ -16683,25 +19420,6 @@ var SETDEX_ADV = {
 				"Spark",
 				"Thunder Wave",
 				"Sonicboom"
-			],
-			"nature": "Serious"
-		},
-		"Dalton (Trainer #196 Mon #1)": {
-			"ability": "Magnet Pull",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 15,
-			"moves": [
-				"Supersonic",
-				"Thundershock",
-				"Tackle",
-				"Metal Sound"
 			],
 			"nature": "Serious"
 		},
@@ -17031,6 +19749,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Daisuke (Trainer #189 Mon #3)": {
+			"ability": "Magnet Pull",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Thunderbolt",
+				"Substitute",
+				"Toxic",
+				"Protect"
+			],
+			"nature": "Serious"
+		},
 		"Dalton (Trainer #199 Mon #1)": {
 			"ability": "Magnet Pull",
 			"ivs": {
@@ -17183,7 +19921,7 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Lenny (Trainer #628 Mon #4)": {
+		"Grunt (Trainer #26 Mon #6)": {
 			"ability": "Magnet Pull",
 			"item": "Leftovers",
 			"ivs": {
@@ -17194,12 +19932,52 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 62,
+			"moves": [
+				"Thunderbolt",
+				"Substitute",
+				"Toxic",
+				"Double-Edge"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #628 Mon #4)": {
+			"ability": "Magnet Pull",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 44,
 			"moves": [
 				"Thunderbolt",
 				"Hidden Power Grass",
 				"Toxic",
 				"Protect"
+			],
+			"nature": "Serious"
+		},
+		"Jody (Trainer #91 Mon #3)": {
+			"ability": "Magnet Pull",
+			"item": "Magnet",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Thunder",
+				"Signal Beam",
+				"Tri Attack",
+				"Thunder Wave"
 			],
 			"nature": "Serious"
 		},
@@ -17413,7 +20191,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Tackle",
 				"Focus Energy",
-				"Arm Thrust",
+				"Bullet Punch",
 				"-"
 			],
 			"nature": "Serious"
@@ -17432,7 +20210,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Tackle",
 				"Focus Energy",
-				"Arm Thrust",
+				"Bullet Punch",
 				"-"
 			],
 			"nature": "Serious"
@@ -17451,27 +20229,8 @@ var SETDEX_ADV = {
 			"moves": [
 				"Tackle",
 				"Focus Energy",
-				"Arm Thrust",
+				"Bullet Punch",
 				"-"
-			],
-			"nature": "Serious"
-		},
-		"Callie (Trainer #763 Mon #2)": {
-			"ability": "Thick Fat",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 28,
-			"moves": [
-				"Knock Off",
-				"Whirlwind",
-				"Fake Out",
-				"Vital Throw"
 			],
 			"nature": "Serious"
 		},
@@ -17488,7 +20247,7 @@ var SETDEX_ADV = {
 			"level": 18,
 			"moves": [
 				"Vital Throw",
-				"Arm Thrust",
+				"Bullet Punch",
 				"Sand-Attack",
 				"Smellingsalt"
 			],
@@ -17509,7 +20268,7 @@ var SETDEX_ADV = {
 				"Whirlwind",
 				"Fake Out",
 				"Vital Throw",
-				"Arm Thrust"
+				"Bullet Punch"
 			],
 			"nature": "Serious"
 		},
@@ -17566,7 +20325,7 @@ var SETDEX_ADV = {
 				"Whirlwind",
 				"Fake Out",
 				"Vital Throw",
-				"Arm Thrust"
+				"Bullet Punch"
 			],
 			"nature": "Serious"
 		},
@@ -17585,7 +20344,7 @@ var SETDEX_ADV = {
 				"Whirlwind",
 				"Fake Out",
 				"Vital Throw",
-				"Arm Thrust"
+				"Bullet Punch"
 			],
 			"nature": "Serious"
 		},
@@ -17623,7 +20382,7 @@ var SETDEX_ADV = {
 				"Whirlwind",
 				"Fake Out",
 				"Vital Throw",
-				"Arm Thrust"
+				"Bullet Punch"
 			],
 			"nature": "Serious"
 		},
@@ -17640,7 +20399,7 @@ var SETDEX_ADV = {
 			"level": 15,
 			"moves": [
 				"Vital Throw",
-				"Arm Thrust",
+				"Bullet Punch",
 				"Sand-Attack",
 				"Smellingsalt"
 			],
@@ -17660,7 +20419,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Fake Out",
 				"Vital Throw",
-				"Arm Thrust",
+				"Bullet Punch",
 				"Sand-Attack"
 			],
 			"nature": "Serious"
@@ -17684,25 +20443,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Wilton (Trainer #78 Mon #3)": {
-			"ability": "Thick Fat",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 17,
-			"moves": [
-				"Vital Throw",
-				"Arm Thrust",
-				"Sand-Attack",
-				"Smellingsalt"
-			],
-			"nature": "Serious"
-		},
 		"Wilton (Trainer #84 Mon #3)": {
 			"ability": "Thick Fat",
 			"ivs": {
@@ -17718,7 +20458,7 @@ var SETDEX_ADV = {
 				"Whirlwind",
 				"Fake Out",
 				"Vital Throw",
-				"Arm Thrust"
+				"Bullet Punch"
 			],
 			"nature": "Serious"
 		},
@@ -17775,7 +20515,7 @@ var SETDEX_ADV = {
 				"Whirlwind",
 				"Fake Out",
 				"Vital Throw",
-				"Arm Thrust"
+				"Bullet Punch"
 			],
 			"nature": "Serious"
 		}
@@ -17815,7 +20555,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Roar",
 				"Spark",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Thunder Wave"
 			],
 			"nature": "Serious"
@@ -17832,7 +20572,7 @@ var SETDEX_ADV = {
 			},
 			"level": 24,
 			"moves": [
-				"Odor Sleuth",
+				"Weather Ball",
 				"Thunder Wave",
 				"Bite",
 				"Quick Attack"
@@ -17851,9 +20591,29 @@ var SETDEX_ADV = {
 			},
 			"level": 24,
 			"moves": [
-				"Odor Sleuth",
+				"Weather Ball",
 				"Thunder Wave",
 				"Bite",
+				"Quick Attack"
+			],
+			"nature": "Serious"
+		},
+		"Deandre (Trainer #715 Mon #2)": {
+			"ability": "Static",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 59,
+			"moves": [
+				"Thunderbolt",
+				"Flamethrower",
+				"Crunch",
 				"Quick Attack"
 			],
 			"nature": "Serious"
@@ -17872,7 +20632,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Roar",
 				"Spark",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Thunder Wave"
 			],
 			"nature": "Serious"
@@ -17890,7 +20650,7 @@ var SETDEX_ADV = {
 			"level": 26,
 			"moves": [
 				"Spark",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Thunder Wave",
 				"Bite"
 			],
@@ -17911,7 +20671,7 @@ var SETDEX_ADV = {
 				"Thunderbolt",
 				"Roar",
 				"Spark",
-				"Odor Sleuth"
+				"Weather Ball"
 			],
 			"nature": "Serious"
 		},
@@ -18002,12 +20762,52 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 44,
 			"moves": [
 				"Thunderbolt",
 				"Flamethrower",
 				"Crunch",
 				"Hidden Power Ice"
+			],
+			"nature": "Serious"
+		},
+		"Jace (Trainer #204 Mon #3)": {
+			"ability": "Static",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Thunderbolt",
+				"Flamethrower",
+				"Iron Tail",
+				"Bite"
+			],
+			"nature": "Serious"
+		},
+		"Keegan (Trainer #205 Mon #3)": {
+			"ability": "Static",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Thunderbolt",
+				"Crunch",
+				"Overheat",
+				"Quick Attack"
 			],
 			"nature": "Serious"
 		},
@@ -18030,41 +20830,23 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Leonel (Trainer #762 Mon #1)": {
+		"Leonel (Trainer #762 Mon #3)": {
 			"ability": "Static",
+			"item": "Lum Berry",
 			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
 			},
-			"level": 30,
+			"level": 65,
 			"moves": [
 				"Thunder",
-				"Quick Attack",
-				"Thunder Wave",
-				"-"
-			],
-			"nature": "Serious"
-		},
-		"Marcel (Trainer #11 Mon #1)": {
-			"ability": "Static",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 29,
-			"moves": [
-				"Spark",
-				"Odor Sleuth",
-				"Thunder Wave",
-				"Bite"
+				"Crunch",
+				"Flamethrower",
+				"Quick Attack"
 			],
 			"nature": "Serious"
 		},
@@ -18126,25 +20908,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Walter (Trainer #254 Mon #1)": {
-			"ability": "Static",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 29,
-			"moves": [
-				"Spark",
-				"Odor Sleuth",
-				"Thunder Wave",
-				"Bite"
-			],
-			"nature": "Serious"
-		},
 		"Walter (Trainer #257 Mon #1)": {
 			"ability": "Static",
 			"ivs": {
@@ -18159,7 +20922,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Roar",
 				"Spark",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Thunder Wave"
 			],
 			"nature": "Serious"
@@ -18178,7 +20941,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Quick Attack",
 				"Spark",
-				"Odor Sleuth",
+				"Weather Ball~3",
 				"Roar"
 			],
 			"nature": "Serious"
@@ -18197,7 +20960,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Quick Attack",
 				"Spark",
-				"Odor Sleuth",
+				"Weather Ball~3",
 				"-"
 			],
 			"nature": "Serious"
@@ -18216,7 +20979,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Quick Attack",
 				"Spark",
-				"Odor Sleuth",
+				"Weather Ball~3",
 				"Roar"
 			],
 			"nature": "Serious"
@@ -18314,7 +21077,7 @@ var SETDEX_ADV = {
 			"level": 29,
 			"moves": [
 				"Spark",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Thunder Wave",
 				"Bite"
 			],
@@ -18334,7 +21097,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Roar",
 				"Spark",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Thunder Wave"
 			],
 			"nature": "Serious"
@@ -18353,7 +21116,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Roar",
 				"Spark",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Thunder Wave"
 			],
 			"nature": "Serious"
@@ -18377,6 +21140,108 @@ var SETDEX_ADV = {
 				"Karate Chop",
 				"Rock Slide",
 				"Bulk Up"
+			],
+			"nature": "Serious"
+		}
+	},
+	"Mantine": {
+		"Ashley (Trainer #655 Mon #5)": {
+			"ability": "Swift Swim",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Hydro Pump",
+				"Ice Beam",
+				"Confuse Ray",
+				"Aerial Ace"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #145 Mon #1)": {
+			"ability": "Swift Swim",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Aerial Ace",
+				"Surf",
+				"Swagger",
+				"Rock Tomb"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #247 Mon #2)": {
+			"ability": "Swift Swim",
+			"item": "Focus Band",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Aerial Ace",
+				"Surf",
+				"Toxic",
+				"Confuse Ray"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #400 Mon #4)": {
+			"ability": "Swift Swim",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Surf",
+				"Aerial Ace",
+				"Ice Beam",
+				"Double-Edge"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #596 Mon #2)": {
+			"ability": "Swift Swim",
+			"item": "Brightpowder",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Hydro Pump",
+				"Aerial Ace",
+				"Confuse Ray",
+				"Earthquake"
 			],
 			"nature": "Serious"
 		}
@@ -18442,25 +21307,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Becky (Trainer #470 Mon #2)": {
-			"ability": "Huge Power",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 22,
-			"moves": [
-				"Rollout",
-				"Bubblebeam",
-				"Tail Whip",
-				"Defense Curl"
-			],
-			"nature": "Serious"
-		},
 		"Bethany (Trainer #301 Mon #2)": {
 			"ability": "Huge Power",
 			"item": "Oran Berry",
@@ -18478,25 +21324,6 @@ var SETDEX_ADV = {
 				"Double-Edge",
 				"Waterfall",
 				"Body Slam"
-			],
-			"nature": "Serious"
-		},
-		"Celia (Trainer #743 Mon #1)": {
-			"ability": "Huge Power",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 22,
-			"moves": [
-				"Waterfall",
-				"Body Slam",
-				"Water Pulse",
-				"Ice Punch"
 			],
 			"nature": "Serious"
 		},
@@ -18988,12 +21815,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 42,
 			"moves": [
 				"Bonemerang",
 				"Double-Edge",
 				"Rock Tomb",
 				"-"
+			],
+			"nature": "Serious"
+		},
+		"Bryant (Trainer #746 Mon #3)": {
+			"ability": "Rock Head",
+			"item": "Thick Club",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Bonemerang",
+				"Rock Slide",
+				"Double-Edge",
+				"Flamethrower"
 			],
 			"nature": "Serious"
 		},
@@ -19017,6 +21864,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Cristin (Trainer #767 Mon #2)": {
+			"ability": "Rock Head",
+			"item": "Thick Club",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Double-Edge",
+				"Swords Dance"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #206 Mon #5)": {
 			"ability": "Rock Head",
 			"item": "Thick Club",
@@ -19028,7 +21895,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 41,
+			"level": 42,
 			"moves": [
 				"Bonemerang",
 				"Double-Edge",
@@ -19039,25 +21906,6 @@ var SETDEX_ADV = {
 		}
 	},
 	"Marshtomp": {
-		"Brendan (Trainer #528 Mon #3)": {
-			"ability": "Torrent",
-			"ivs": {
-				"at": 18,
-				"df": 18,
-				"hp": 18,
-				"sa": 18,
-				"sd": 18,
-				"sp": 18
-			},
-			"level": 31,
-			"moves": [
-				"Bubblebeam",
-				"Foresight",
-				"Mud Shot",
-				"Bide"
-			],
-			"nature": "Serious"
-		},
 		"Brendan (Trainer #663 Mon #4)": {
 			"ability": "Torrent",
 			"ivs": {
@@ -19070,29 +21918,10 @@ var SETDEX_ADV = {
 			},
 			"level": 34,
 			"moves": [
-				"Rock Slide",
 				"Bubblebeam",
-				"Foresight",
-				"Mud Shot"
-			],
-			"nature": "Serious"
-		},
-		"May (Trainer #537 Mon #3)": {
-			"ability": "Torrent",
-			"ivs": {
-				"at": 18,
-				"df": 18,
-				"hp": 18,
-				"sa": 18,
-				"sd": 18,
-				"sp": 18
-			},
-			"level": 31,
-			"moves": [
-				"Bubblebeam",
-				"Foresight",
 				"Mud Shot",
-				"Bide"
+				"(No Move)",
+				"(No Move)"
 			],
 			"nature": "Serious"
 		},
@@ -19108,15 +21937,55 @@ var SETDEX_ADV = {
 			},
 			"level": 34,
 			"moves": [
-				"Rock Slide",
 				"Bubblebeam",
-				"Foresight",
-				"Mud Shot"
+				"Mud Shot",
+				"(No Move)",
+				"(No Move)"
 			],
 			"nature": "Serious"
 		}
 	},
 	"Masquerain": {
+		"Chester (Trainer #408 Mon #3)": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 59,
+			"moves": [
+				"Aerial Ace",
+				"Silver Wind",
+				"Giga Drain",
+				"Ice Beam"
+			],
+			"nature": "Serious"
+		},
+		"Edwardo (Trainer #404 Mon #1)": {
+			"ability": "Intimidate",
+			"item": "Brightpowder",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Aerial Ace",
+				"Silver Wind",
+				"Giga Drain",
+				"Hydro Pump"
+			],
+			"nature": "Serious"
+		},
 		"Jeffrey (Trainer #229 Mon #3)": {
 			"ability": "Intimidate",
 			"ivs": {
@@ -19208,12 +22077,52 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 42,
 			"moves": [
 				"Ancientpower",
 				"Brick Break",
 				"Super Fang",
 				"Crunch"
+			],
+			"nature": "Serious"
+		},
+		"Cristin (Trainer #767 Mon #4)": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Super Fang",
+				"Iron Head",
+				"Crunch",
+				"Brick Break"
+			],
+			"nature": "Serious"
+		},
+		"Drew (Trainer #211 Mon #2)": {
+			"ability": "Intimidate",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Iron Head",
+				"Crunch",
+				"Super Fang",
+				"Slash"
 			],
 			"nature": "Serious"
 		},
@@ -19289,7 +22198,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Baton Pass",
 				"Feint Attack",
-				"Hidden Power Steel",
+				"Hidden Power~14",
 				"Bite"
 			],
 			"nature": "Serious"
@@ -19356,6 +22265,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Callie (Trainer #763 Mon #1)": {
+			"ability": "Pure Power",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Brick Break",
+				"Psychic",
+				"Fake Out",
+				"Bullet Punch"
+			],
+			"nature": "Serious"
+		},
 		"Cyndy (Trainer #432 Mon #1)": {
 			"ability": "Pure Power",
 			"ivs": {
@@ -19413,6 +22342,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Grunt (Trainer #31 Mon #4)": {
+			"ability": "Pure Power",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Brick Break",
+				"Shadow Ball",
+				"Substitute",
+				"Rock Slide"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #629 Mon #4)": {
 			"ability": "Pure Power",
 			"item": "Scope Lens",
@@ -19424,7 +22373,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 44,
 			"moves": [
 				"Fake Out",
 				"Rock Slide",
@@ -19739,25 +22688,6 @@ var SETDEX_ADV = {
 				"Light Screen",
 				"Reflect",
 				"Focus Punch"
-			],
-			"nature": "Serious"
-		},
-		"Callie (Trainer #763 Mon #1)": {
-			"ability": "Pure Power",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 28,
-			"moves": [
-				"Rock Slide",
-				"Mind Reader",
-				"Fake Out",
-				"Detect"
 			],
 			"nature": "Serious"
 		},
@@ -20087,7 +23017,69 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		}
 	},
+	"Meganium": {
+		"Brendan (Trainer #525 Mon #6)": {
+			"ability": "Thick Fat",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Giga Drain",
+				"Sludge Bomb",
+				"Double-Edge",
+				"Rock Slide"
+			],
+			"nature": "Serious"
+		},
+		"May (Trainer #534 Mon #6)": {
+			"ability": "Thick Fat",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Giga Drain",
+				"Sludge Bomb",
+				"Double-Edge",
+				"Rock Slide"
+			],
+			"nature": "Serious"
+		}
+	},
 	"Metagross": {
+		"Bryan (Trainer #744 Mon #5)": {
+			"ability": "Battle Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 50,
+			"moves": [
+				"Meteor Mash",
+				"Thunderpunch",
+				"Psychic",
+				"Body Slam"
+			],
+			"nature": "Serious"
+		},
 		"Steven (Trainer #804 Mon #6)": {
 			"ability": "Battle Armor",
 			"item": "Sitrus Berry",
@@ -20372,12 +23364,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 36,
+			"level": 41,
 			"moves": [
 				"Crunch",
 				"Poison Fang",
 				"Take Down",
 				"Quick Attack"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #552 Mon #3)": {
+			"ability": "Intimidate",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Crunch",
+				"Poison Fang",
+				"Iron Tail",
+				"Super Fang"
 			],
 			"nature": "Serious"
 		},
@@ -20609,25 +23621,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Shelly (Trainer #32 Mon #2)": {
-			"ability": "Intimidate",
-			"ivs": {
-				"at": 6,
-				"df": 6,
-				"hp": 6,
-				"sa": 6,
-				"sd": 6,
-				"sp": 6
-			},
-			"level": 28,
-			"moves": [
-				"Crunch",
-				"Yawn",
-				"Roar",
-				"Heal Bell"
-			],
-			"nature": "Serious"
-		},
 		"Shelly (Trainer #33 Mon #2)": {
 			"ability": "Intimidate",
 			"ivs": {
@@ -20707,6 +23700,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Milotic": {
+		"George (Trainer #73 Mon #4)": {
+			"ability": "Marvel Scale",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Recover",
+				"Refresh"
+			],
+			"nature": "Serious"
+		},
 		"Wallace (Trainer #335 Mon #6)": {
 			"ability": "Marvel Scale",
 			"item": "Sitrus Berry",
@@ -20729,6 +23742,66 @@ var SETDEX_ADV = {
 		}
 	},
 	"Miltank": {
+		"Alexia (Trainer #90 Mon #4)": {
+			"ability": "Thick Fat",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Body Slam",
+				"Seismic Toss",
+				"Rock Slide",
+				"Milk Drink"
+			],
+			"nature": "Serious"
+		},
+		"Brawly (Trainer #266 Mon #2)": {
+			"ability": "Thick Fat",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 33,
+			"moves": [
+				"Brick Break",
+				"Body Slam",
+				"Bulk Up",
+				"Milk Drink"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #247 Mon #6)": {
+			"ability": "Thick Fat",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Double-Edge",
+				"Brick Break",
+				"Earthquake",
+				"Belly Drum"
+			],
+			"nature": "Serious"
+		},
 		"Isabel (Trainer #302 Mon #2)": {
 			"ability": "Thick Fat",
 			"item": "Sitrus Berry",
@@ -20740,12 +23813,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Double-Edge",
 				"Defense Curl",
 				"Rollout",
 				"-"
+			],
+			"nature": "Serious"
+		},
+		"Leonel (Trainer #762 Mon #5)": {
+			"ability": "Thick Fat",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Return",
+				"Seismic Toss",
+				"Thunder",
+				"Milk Drink"
 			],
 			"nature": "Serious"
 		}
@@ -20947,7 +24040,7 @@ var SETDEX_ADV = {
 		},
 		"Wattson (Trainer #267 Mon #3)": {
 			"ability": "Static",
-			"item": "Sitrus Berry",
+			"item": "Magnet",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -20966,9 +24059,31 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		}
 	},
-	"Moltres": {
-		"Maxie (Trainer #601 Mon #6)": {
-			"ability": "Pressure",
+	"Misdreavus": {
+		"Bryan (Trainer #744 Mon #1)": {
+			"ability": "Levitate",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 49,
+			"moves": [
+				"Shadow Ball",
+				"Thunderbolt",
+				"Hypnosis",
+				"Dream Eater"
+			],
+			"nature": "Serious"
+		}
+	},
+	"Mr. Mime": {
+		"Parker (Trainer #72 Mon #6)": {
+			"ability": "Soundproof",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -20978,17 +24093,15 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 51,
 			"moves": [
-				"Overheat",
-				"Hidden Power Electric",
-				"Will-O-Wisp",
-				"Aerial Ace"
+				"Teeter Dance",
+				"Psychic",
+				"Thunder Wave",
+				"Thunderbolt"
 			],
 			"nature": "Serious"
-		}
-	},
-	"Mr. Mime": {
+		},
 		"Tyra & Ivy (Trainer #679 Mon #1)": {
 			"ability": "Soundproof",
 			"item": "Lum Berry",
@@ -21000,7 +24113,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 39,
+			"level": 42,
 			"moves": [
 				"Teeter Dance",
 				"Psychic",
@@ -21023,8 +24136,7 @@ var SETDEX_ADV = {
 			},
 			"level": 5,
 			"moves": [
-				"Tackle",
-				"(No Move)"
+				"Tackle"
 			],
 			"nature": "Serious"
 		},
@@ -21059,8 +24171,7 @@ var SETDEX_ADV = {
 			},
 			"level": 5,
 			"moves": [
-				"Tackle",
-				"(No Move)"
+				"Tackle"
 			],
 			"nature": "Serious"
 		},
@@ -21104,6 +24215,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Branden (Trainer #745 Mon #4)": {
+			"ability": "Poison Point",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 49,
+			"moves": [
+				"Sludge Bomb",
+				"Brick Break",
+				"Fire Blast",
+				"Thunderbolt"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #146 Mon #4)": {
 			"ability": "Poison Point",
 			"item": "Quick Claw",
@@ -21121,6 +24252,46 @@ var SETDEX_ADV = {
 				"Rock Slide",
 				"Brick Break",
 				"Explosion"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #31 Mon #1)": {
+			"ability": "Poison Point",
+			"item": "Brightpowder",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Sludge Bomb",
+				"Giga Drain",
+				"Flamethrower",
+				"Brick Break"
+			],
+			"nature": "Serious"
+		},
+		"Walter (Trainer #254 Mon #3)": {
+			"ability": "Poison Point",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Sludge Bomb",
+				"Toxic",
+				"Mean Look",
+				"Brick Break"
 			],
 			"nature": "Serious"
 		}
@@ -21163,44 +24334,6 @@ var SETDEX_ADV = {
 				"Wish",
 				"Confuse Ray",
 				"Psychic"
-			],
-			"nature": "Serious"
-		},
-		"Colin (Trainer #405 Mon #2)": {
-			"ability": "Synchronize",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 28,
-			"moves": [
-				"Psychic",
-				"Aerial Ace",
-				"Night Shade",
-				"Psybeam"
-			],
-			"nature": "Serious"
-		},
-		"Kayla (Trainer #247 Mon #2)": {
-			"ability": "Synchronize",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 26,
-			"moves": [
-				"Psychic",
-				"Aerial Ace",
-				"Night Shade",
-				"Psybeam"
 			],
 			"nature": "Serious"
 		},
@@ -21301,6 +24434,66 @@ var SETDEX_ADV = {
 		}
 	},
 	"Nidoking": {
+		"Becky (Trainer #470 Mon #1)": {
+			"ability": "Poison Point",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Earthquake",
+				"Poison Tail",
+				"Fire Blast",
+				"Thunderbolt"
+			],
+			"nature": "Serious"
+		},
+		"Clarissa (Trainer #435 Mon #3)": {
+			"ability": "Poison Point",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Earthquake",
+				"Poison Tail",
+				"Flamethrower",
+				"Megahorn"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #18 Mon #2)": {
+			"ability": "Poison Point",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Earthquake",
+				"Poison Tail",
+				"Megahorn",
+				"Thunderbolt"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #214 Mon #4)": {
 			"ability": "Poison Point",
 			"item": "Lum Berry",
@@ -21312,7 +24505,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 41,
+			"level": 44,
 			"moves": [
 				"Earthquake",
 				"Megahorn",
@@ -21323,7 +24516,27 @@ var SETDEX_ADV = {
 		}
 	},
 	"Nidoqueen": {
-		"Lenny (Trainer #628 Mon #1)": {
+		"Dusty (Trainer #44 Mon #3)": {
+			"ability": "Poison Point",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Earthquake",
+				"Poison Tail",
+				"Iron Tail",
+				"Ice Beam"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #628 Mon #1)": {
 			"ability": "Poison Point",
 			"item": "Scope Lens",
 			"ivs": {
@@ -21334,12 +24547,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 44,
 			"moves": [
 				"Earthquake",
 				"Flamethrower",
 				"Rock Slide",
 				"Poison Tail"
+			],
+			"nature": "Serious"
+		},
+		"Lorenzo (Trainer #553 Mon #2)": {
+			"ability": "Poison Point",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Earthquake",
+				"Poison Tail",
+				"Flamethrower",
+				"Ice Beam"
 			],
 			"nature": "Serious"
 		}
@@ -21366,47 +24599,27 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		}
 	},
-	"Nincada": {
-		"Doug (Trainer #618 Mon #1)": {
-			"ability": "Compoundeyes",
+	"Ninetales": {
+		"Eli (Trainer #501 Mon #1)": {
+			"ability": "Pressure",
+			"item": "Lum Berry",
 			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
 			},
-			"level": 28,
+			"level": 45,
 			"moves": [
-				"Aerial Ace",
-				"Giga Drain",
-				"Metal Claw",
-				"Mud-Slap"
+				"Flamethrower",
+				"Extrasensory",
+				"Hypnosis",
+				"Quick Attack"
 			],
 			"nature": "Serious"
 		},
-		"Riley (Trainer #653 Mon #1)": {
-			"ability": "Compoundeyes",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 28,
-			"moves": [
-				"Leech Life",
-				"Fury Swipes",
-				"Mind Reader",
-				"Dig"
-			],
-			"nature": "Serious"
-		}
-	},
-	"Ninetales": {
 		"Grunt (Trainer #146 Mon #3)": {
 			"ability": "Pressure",
 			"item": "Charcoal",
@@ -21427,6 +24640,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Grunt (Trainer #326 Mon #4)": {
+			"ability": "Pressure",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 43,
+			"moves": [
+				"Overheat",
+				"Bite",
+				"Quick Attack",
+				"Extrasensory"
+			],
+			"nature": "Serious"
+		},
 		"Julie (Trainer #100 Mon #2)": {
 			"ability": "Pressure",
 			"ivs": {
@@ -21439,31 +24672,52 @@ var SETDEX_ADV = {
 			},
 			"level": 42,
 			"moves": [
+				"Will-O-Wisp",
 				"Extrasensory",
-				"Confuse Ray",
-				"Bite",
-				"Hypnosis"
+				"Safeguard",
+				"Flamethrower"
+			],
+			"nature": "Serious"
+		},
+		"Keegan (Trainer #205 Mon #4)": {
+			"ability": "Pressure",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Flamethrower",
+				"Extrasensory",
+				"Hypnosis",
+				"Confuse Ray"
 			],
 			"nature": "Serious"
 		}
 	},
 	"Ninjask": {
-		"Doug (Trainer #618 Mon #2)": {
+		"Branden (Trainer #745 Mon #1)": {
 			"ability": "Speed Boost",
+			"item": "Leftovers",
 			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
 			},
-			"level": 28,
+			"level": 49,
 			"moves": [
-				"Air Cutter",
-				"Agility",
-				"Giga Drain",
-				"Silver Wind"
+				"Protect",
+				"Substitute",
+				"Aerial Ace",
+				"Signal Beam"
 			],
 			"nature": "Serious"
 		},
@@ -21581,6 +24835,46 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Jared (Trainer #401 Mon #2)": {
+			"ability": "Speed Boost",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Signal Beam",
+				"Aerial Ace",
+				"Toxic",
+				"Substitute"
+			],
+			"nature": "Serious"
+		},
+		"Jeffrey (Trainer #226 Mon #1)": {
+			"ability": "Speed Boost",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Protect",
+				"Substitute",
+				"Swords Dance",
+				"Baton Pass"
+			],
+			"nature": "Serious"
+		},
 		"Keigo (Trainer #652 Mon #2)": {
 			"ability": "Speed Boost",
 			"ivs": {
@@ -21600,25 +24894,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Kent (Trainer #620 Mon #1)": {
-			"ability": "Speed Boost",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 25,
-			"moves": [
-				"Air Cutter",
-				"Agility",
-				"Giga Drain",
-				"Silver Wind"
-			],
-			"nature": "Serious"
-		},
 		"Lao (Trainer #419 Mon #1)": {
 			"ability": "Speed Boost",
 			"item": "Lum Berry",
@@ -21630,7 +24905,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 39,
+			"level": 42,
 			"moves": [
 				"X-Scissor",
 				"Aerial Ace",
@@ -21658,22 +24933,23 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Takashi (Trainer #416 Mon #1)": {
+		"Randall (Trainer #71 Mon #1)": {
 			"ability": "Speed Boost",
+			"item": "Lum Berry",
 			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
 			},
-			"level": 25,
+			"level": 51,
 			"moves": [
-				"Air Cutter",
-				"Agility",
-				"Giga Drain",
-				"Silver Wind"
+				"X-Scissor",
+				"Aerial Ace",
+				"Toxic",
+				"Substitute"
 			],
 			"nature": "Serious"
 		},
@@ -21698,6 +24974,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Noctowl": {
+		"Jared (Trainer #401 Mon #4)": {
+			"ability": "Insomnia",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Aerial Ace",
+				"Double-Edge",
+				"Extrasensory",
+				"Hypnosis"
+			],
+			"nature": "Serious"
+		},
 		"Joey (Trainer #322 Mon #3)": {
 			"ability": "Insomnia",
 			"item": "Sitrus Berry",
@@ -21836,6 +25132,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Brice (Trainer #626 Mon #3)": {
+			"ability": "Battle Armor",
+			"item": "Silk Scarf",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 42,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Selfdestruct",
+				"-"
+			],
+			"nature": "Serious"
+		},
 		"Marc (Trainer #571 Mon #1)": {
 			"ability": "Battle Armor",
 			"item": "Lum Berry",
@@ -21957,25 +25273,6 @@ var SETDEX_ADV = {
 		}
 	},
 	"Numel": {
-		"Axle (Trainer #203 Mon #1)": {
-			"ability": "Oblivious",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 23,
-			"moves": [
-				"Magnitude",
-				"Flame Wheel",
-				"Stomp",
-				"Ember"
-			],
-			"nature": "Serious"
-		},
 		"Brooke (Trainer #101 Mon #2)": {
 			"ability": "Oblivious",
 			"ivs": {
@@ -22030,102 +25327,6 @@ var SETDEX_ADV = {
 				"Double-Edge",
 				"Body Slam",
 				"Magnitude"
-			],
-			"nature": "Serious"
-		},
-		"Bryant (Trainer #746 Mon #1)": {
-			"ability": "Oblivious",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 18,
-			"moves": [
-				"Magnitude",
-				"Flame Wheel",
-				"Stomp",
-				"Ember"
-			],
-			"nature": "Serious"
-		},
-		"Cole (Trainer #201 Mon #1)": {
-			"ability": "Oblivious",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 23,
-			"moves": [
-				"Magnitude",
-				"Flame Wheel",
-				"Stomp",
-				"Ember"
-			],
-			"nature": "Serious"
-		},
-		"Dayton (Trainer #760 Mon #2)": {
-			"ability": "Oblivious",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 25,
-			"moves": [
-				"Body Slam",
-				"Magnitude",
-				"Flame Wheel",
-				"Stomp"
-			],
-			"nature": "Serious"
-		},
-		"Eli (Trainer #501 Mon #1)": {
-			"ability": "Oblivious",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 23,
-			"moves": [
-				"Magnitude",
-				"Flame Wheel",
-				"Stomp",
-				"Ember"
-			],
-			"nature": "Serious"
-		},
-		"Flannery (Trainer #268 Mon #1)": {
-			"ability": "Oblivious",
-			"item": "????????",
-			"ivs": {
-				"at": 24,
-				"df": 24,
-				"hp": 24,
-				"sa": 24,
-				"sd": 24,
-				"sp": 24
-			},
-			"level": 24,
-			"moves": [
-				"Overheat",
-				"Take Down",
-				"Magnitude",
-				"Sunny Day"
 			],
 			"nature": "Serious"
 		},
@@ -22531,44 +25732,6 @@ var SETDEX_ADV = {
 		}
 	},
 	"Nuzleaf": {
-		"Branden (Trainer #745 Mon #2)": {
-			"ability": "Chlorophyll",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 22,
-			"moves": [
-				"Feint Attack",
-				"Nature Power",
-				"Mega Drain",
-				"Bullet Seed"
-			],
-			"nature": "Serious"
-		},
-		"Charlotte (Trainer #714 Mon #1)": {
-			"ability": "Chlorophyll",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 19,
-			"moves": [
-				"Feint Attack",
-				"Nature Power",
-				"Mega Drain",
-				"Bullet Seed"
-			],
-			"nature": "Serious"
-		},
 		"Edwin (Trainer #515 Mon #2)": {
 			"ability": "Chlorophyll",
 			"ivs": {
@@ -22663,44 +25826,6 @@ var SETDEX_ADV = {
 				"Nature Power"
 			],
 			"nature": "Serious"
-		},
-		"Jenna (Trainer #560 Mon #3)": {
-			"ability": "Chlorophyll",
-			"ivs": {
-				"at": 6,
-				"df": 6,
-				"hp": 6,
-				"sa": 6,
-				"sd": 6,
-				"sp": 6
-			},
-			"level": 28,
-			"moves": [
-				"Giga Drain",
-				"Feint Attack",
-				"Nature Power",
-				"Mega Drain"
-			],
-			"nature": "Serious"
-		},
-		"Lorenzo (Trainer #553 Mon #2)": {
-			"ability": "Chlorophyll",
-			"ivs": {
-				"at": 6,
-				"df": 6,
-				"hp": 6,
-				"sa": 6,
-				"sd": 6,
-				"sp": 6
-			},
-			"level": 28,
-			"moves": [
-				"Giga Drain",
-				"Feint Attack",
-				"Nature Power",
-				"Mega Drain"
-			],
-			"nature": "Serious"
 		}
 	},
 	"Octillery": {
@@ -22715,12 +25840,52 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 44,
 			"moves": [
 				"Water Spout",
 				"Ice Beam",
 				"Octazooka",
 				"Flamethrower"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #761 Mon #4)": {
+			"ability": "Suction Cups",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Octazooka",
+				"Psychic",
+				"Signal Beam",
+				"Water Spout"
+			],
+			"nature": "Serious"
+		},
+		"Keegan (Trainer #205 Mon #5)": {
+			"ability": "Suction Cups",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Octazooka",
+				"Flamethrower",
+				"Ice Beam",
+				"Signal Beam"
 			],
 			"nature": "Serious"
 		}
@@ -22807,6 +25972,66 @@ var SETDEX_ADV = {
 		}
 	},
 	"Omastar": {
+		"Celia (Trainer #743 Mon #2)": {
+			"ability": "Shell Armor",
+			"item": "Mystic Water",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 49,
+			"moves": [
+				"Surf",
+				"Ancientpower",
+				"Ice Beam",
+				"Whirlpool"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #31 Mon #3)": {
+			"ability": "Shell Armor",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Muddy Water",
+				"Rock Slide",
+				"Ice Beam",
+				"-"
+			],
+			"nature": "Serious"
+		},
+		"Jody (Trainer #91 Mon #5)": {
+			"ability": "Shell Armor",
+			"item": "Mystic Water",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Hydro Pump",
+				"Rock Slide",
+				"Ice Beam",
+				"Bite"
+			],
+			"nature": "Serious"
+		},
 		"Roxanne (Trainer #772 Mon #1)": {
 			"ability": "Shell Armor",
 			"item": "????????",
@@ -23006,44 +26231,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Brendan (Trainer #522 Mon #2)": {
-			"ability": "Keen Eye",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 29,
-			"moves": [
-				"Air Cutter",
-				"Quick Attack",
-				"Wing Attack",
-				"Supersonic"
-			],
-			"nature": "Serious"
-		},
-		"Brendan (Trainer #525 Mon #1)": {
-			"ability": "Keen Eye",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 29,
-			"moves": [
-				"Air Cutter",
-				"Quick Attack",
-				"Wing Attack",
-				"Supersonic"
-			],
-			"nature": "Serious"
-		},
 		"Brendan (Trainer #661 Mon #3)": {
 			"ability": "Keen Eye",
 			"ivs": {
@@ -23170,7 +26357,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Surf",
 				"Wing Attack",
@@ -23255,6 +26442,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Deandre (Trainer #715 Mon #3)": {
+			"ability": "Keen Eye",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 59,
+			"moves": [
+				"Surf",
+				"Aerial Ace",
+				"Shock Wave",
+				"Ice Beam"
+			],
+			"nature": "Serious"
+		},
 		"Edgar (Trainer #79 Mon #2)": {
 			"ability": "Keen Eye",
 			"ivs": {
@@ -23271,25 +26478,6 @@ var SETDEX_ADV = {
 				"Hydro Pump",
 				"Water Pulse",
 				"Air Cutter"
-			],
-			"nature": "Serious"
-		},
-		"Edwardo (Trainer #404 Mon #2)": {
-			"ability": "Keen Eye",
-			"ivs": {
-				"at": 18,
-				"df": 18,
-				"hp": 18,
-				"sa": 18,
-				"sd": 18,
-				"sp": 18
-			},
-			"level": 29,
-			"moves": [
-				"Air Cutter",
-				"Quick Attack",
-				"Wing Attack",
-				"Supersonic"
 			],
 			"nature": "Serious"
 		},
@@ -23347,6 +26535,26 @@ var SETDEX_ADV = {
 				"Ice Beam",
 				"Hydro Pump",
 				"Water Pulse"
+			],
+			"nature": "Serious"
+		},
+		"Humberto (Trainer #402 Mon #5)": {
+			"ability": "Keen Eye",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Hydro Pump",
+				"Aerial Ace",
+				"Ice Beam",
+				"Sludge Bomb"
 			],
 			"nature": "Serious"
 		},
@@ -23437,25 +26645,6 @@ var SETDEX_ADV = {
 				"sp": 5
 			},
 			"level": 31,
-			"moves": [
-				"Air Cutter",
-				"Quick Attack",
-				"Wing Attack",
-				"Supersonic"
-			],
-			"nature": "Serious"
-		},
-		"May (Trainer #534 Mon #1)": {
-			"ability": "Keen Eye",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 29,
 			"moves": [
 				"Air Cutter",
 				"Quick Attack",
@@ -23597,26 +26786,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Winona (Trainer #270 Mon #3)": {
-			"ability": "Keen Eye",
-			"item": "????????",
-			"ivs": {
-				"at": 26,
-				"df": 26,
-				"hp": 26,
-				"sa": 26,
-				"sd": 26,
-				"sp": 26
-			},
-			"level": 30,
-			"moves": [
-				"Water Gun",
-				"Supersonic",
-				"Protect",
-				"Aerial Ace"
-			],
-			"nature": "Serious"
-		},
 		"Winona (Trainer #790 Mon #3)": {
 			"ability": "Keen Eye",
 			"item": "????????",
@@ -23699,6 +26868,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Persian": {
+		"Randall (Trainer #71 Mon #5)": {
+			"ability": "Limber",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Fake Out",
+				"Return",
+				"Thunderbolt",
+				"Shadow Ball"
+			],
+			"nature": "Serious"
+		},
 		"Winston (Trainer #136 Mon #1)": {
 			"ability": "Limber",
 			"item": "Silk Scarf",
@@ -23753,12 +26942,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 42,
 			"moves": [
 				"Aerial Ace",
 				"Steel Wing",
 				"Heat Wave",
 				"Quick Attack"
+			],
+			"nature": "Serious"
+		},
+		"Humberto (Trainer #402 Mon #1)": {
+			"ability": "Keen Eye",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Aerial Ace",
+				"Double-Edge",
+				"Heat Wave",
+				"Steel Wing"
 			],
 			"nature": "Serious"
 		}
@@ -23796,7 +27005,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Thunderbolt",
 				"Surf",
@@ -23818,10 +27027,10 @@ var SETDEX_ADV = {
 			},
 			"level": 30,
 			"moves": [
-				"Thunderbolt",
 				"Spark",
 				"Seismic Toss",
-				"Thunderpunch"
+				"Thunder Wave",
+				"Swift"
 			],
 			"nature": "Serious"
 		},
@@ -23841,7 +27050,7 @@ var SETDEX_ADV = {
 				"Thunderbolt",
 				"Surf",
 				"Thunder Wave",
-				"Hidden Power Ice"
+				"Hidden Power~ Ice"
 			],
 			"nature": "Serious"
 		},
@@ -23878,7 +27087,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 42,
 			"moves": [
 				"Earthquake",
 				"Ancientpower",
@@ -23910,6 +27119,46 @@ var SETDEX_ADV = {
 		}
 	},
 	"Pinsir": {
+		"Ashley (Trainer #655 Mon #2)": {
+			"ability": "Intimidate",
+			"item": "Silverpowder",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"X-Scissor",
+				"Aerial Ace",
+				"Earthquake",
+				"Brick Break"
+			],
+			"nature": "Serious"
+		},
+		"Brawly (Trainer #266 Mon #5)": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 33,
+			"moves": [
+				"X-Scissor",
+				"Aerial Ace",
+				"Superpower",
+				"Rock Slide"
+			],
+			"nature": "Serious"
+		},
 		"Brendan (Trainer #521 Mon #2)": {
 			"ability": "Intimidate",
 			"item": "Sitrus Berry",
@@ -23921,7 +27170,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"X-Scissor",
 				"Earthquake",
@@ -23941,7 +27190,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"X-Scissor",
 				"Earthquake",
@@ -23961,12 +27210,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"X-Scissor",
 				"Earthquake",
 				"Rock Slide",
 				"Quick Attack"
+			],
+			"nature": "Serious"
+		},
+		"Cole (Trainer #201 Mon #1)": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"X-Scissor",
+				"Rock Slide",
+				"Earthquake",
+				"Brick Break"
 			],
 			"nature": "Serious"
 		},
@@ -24000,11 +27269,51 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 41,
+			"level": 42,
 			"moves": [
 				"X-Scissor",
 				"Superpower",
 				"Rock Slide",
+				"Brick Break"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #26 Mon #5)": {
+			"ability": "Intimidate",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"X-Scissor",
+				"Aerial Ace",
+				"Earthquake",
+				"Swords Dance"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #559 Mon #3)": {
+			"ability": "Intimidate",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"X-Scissor",
+				"Rock Slide",
+				"Earthquake",
 				"Brick Break"
 			],
 			"nature": "Serious"
@@ -24020,7 +27329,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"X-Scissor",
 				"Earthquake",
@@ -24040,7 +27349,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"X-Scissor",
 				"Earthquake",
@@ -24060,7 +27369,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"X-Scissor",
 				"Earthquake",
@@ -24161,7 +27470,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Spark",
 				"Charge",
-				"Hidden Power~14",
+				"Hidden Power",
 				"Helping Hand"
 			],
 			"nature": "Serious"
@@ -24287,6 +27596,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Politoed": {
+		"Grunt (Trainer #400 Mon #3)": {
+			"ability": "Swift Swim",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Hydro Pump",
+				"Ice Beam",
+				"Hypnosis",
+				"Mud Shot"
+			],
+			"nature": "Serious"
+		},
 		"Juan (Trainer #801 Mon #3)": {
 			"ability": "Swift Swim",
 			"item": "????????",
@@ -24412,6 +27741,46 @@ var SETDEX_ADV = {
 				"Brick Break"
 			],
 			"nature": "Serious"
+		},
+		"Grunt (Trainer #552 Mon #5)": {
+			"ability": "Swift Swim",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Surf",
+				"Brick Break",
+				"Ice Beam",
+				"Hypnosis"
+			],
+			"nature": "Serious"
+		},
+		"Leonel (Trainer #762 Mon #4)": {
+			"ability": "Swift Swim",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Brick Break",
+				"Hypnosis"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Ponyta": {
@@ -24497,25 +27866,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Gabrielle (Trainer #9 Mon #2)": {
-			"ability": "Run Away",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 26,
-			"moves": [
-				"Crunch",
-				"Roar",
-				"Odor Sleuth",
-				"Secret Power"
-			],
-			"nature": "Serious"
-		},
 		"Grunt (Trainer #10 Mon #2)": {
 			"ability": "Run Away",
 			"ivs": {
@@ -24535,63 +27885,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Grunt (Trainer #17 Mon #2)": {
-			"ability": "Run Away",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 27,
-			"moves": [
-				"Crunch",
-				"Roar",
-				"Odor Sleuth",
-				"Secret Power"
-			],
-			"nature": "Serious"
-		},
-		"Grunt (Trainer #18 Mon #1)": {
-			"ability": "Run Away",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 27,
-			"moves": [
-				"Crunch",
-				"Roar",
-				"Odor Sleuth",
-				"Secret Power"
-			],
-			"nature": "Serious"
-		},
-		"Grunt (Trainer #19 Mon #1)": {
-			"ability": "Run Away",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 26,
-			"moves": [
-				"Crunch",
-				"Roar",
-				"Odor Sleuth",
-				"Secret Power"
-			],
-			"nature": "Serious"
-		},
 		"Grunt (Trainer #192 Mon #1)": {
 			"ability": "Run Away",
 			"ivs": {
@@ -24607,7 +27900,7 @@ var SETDEX_ADV = {
 				"Iron Tail",
 				"Crunch",
 				"Roar",
-				"Odor Sleuth"
+				"Weather Ball"
 			],
 			"nature": "Serious"
 		},
@@ -24626,7 +27919,7 @@ var SETDEX_ADV = {
 				"Iron Tail",
 				"Crunch",
 				"Roar",
-				"Odor Sleuth"
+				"Weather Ball"
 			],
 			"nature": "Serious"
 		},
@@ -24645,7 +27938,7 @@ var SETDEX_ADV = {
 				"Iron Tail",
 				"Crunch",
 				"Roar",
-				"Odor Sleuth"
+				"Weather Ball"
 			],
 			"nature": "Serious"
 		},
@@ -24662,7 +27955,7 @@ var SETDEX_ADV = {
 			"level": 22,
 			"moves": [
 				"Roar",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power",
 				"Bite"
 			],
@@ -24683,26 +27976,7 @@ var SETDEX_ADV = {
 				"Iron Tail",
 				"Crunch",
 				"Roar",
-				"Odor Sleuth"
-			],
-			"nature": "Serious"
-		},
-		"Grunt (Trainer #596 Mon #2)": {
-			"ability": "Run Away",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 27,
-			"moves": [
-				"Crunch",
-				"Roar",
-				"Odor Sleuth",
-				"Secret Power"
+				"Weather Ball"
 			],
 			"nature": "Serious"
 		},
@@ -24740,7 +28014,7 @@ var SETDEX_ADV = {
 				"Iron Tail",
 				"Crunch",
 				"Roar",
-				"Odor Sleuth"
+				"Weather Ball"
 			],
 			"nature": "Serious"
 		},
@@ -24759,7 +28033,7 @@ var SETDEX_ADV = {
 				"Iron Tail",
 				"Crunch",
 				"Roar",
-				"Odor Sleuth"
+				"Weather Ball"
 			],
 			"nature": "Serious"
 		},
@@ -24796,7 +28070,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Crunch",
 				"Roar",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power"
 			],
 			"nature": "Serious"
@@ -24814,7 +28088,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 38,
+			"level": 42,
 			"moves": [
 				"Tri Attack",
 				"Thunderbolt",
@@ -24822,9 +28096,49 @@ var SETDEX_ADV = {
 				"Recover"
 			],
 			"nature": "Serious"
+		},
+		"Norman (Trainer #269 Mon #2)": {
+			"ability": "Trace",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 52,
+			"moves": [
+				"Thunderbolt",
+				"Ice Beam",
+				"Recover",
+				"Thunder Wave"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Primeape": {
+		"Jenna (Trainer #560 Mon #1)": {
+			"ability": "Vital Spirit",
+			"item": "Focus Band",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Reversal",
+				"Rock Slide",
+				"Brick Break",
+				"-"
+			],
+			"nature": "Serious"
+		},
 		"Laura (Trainer #426 Mon #4)": {
 			"ability": "Vital Spirit",
 			"item": "Black Belt",
@@ -24888,6 +28202,48 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		}
 	},
+	"Quagsire": {
+		"Grunt (Trainer #26 Mon #2)": {
+			"ability": "Water Absorb",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Muddy Water",
+				"Ice Beam",
+				"Recover",
+				"Earthquake"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #552 Mon #2)": {
+			"ability": "Water Absorb",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Earthquake",
+				"Yawn"
+			],
+			"nature": "Serious"
+		}
+	},
 	"Quilava": {
 		"Cindy (Trainer #114 Mon #2)": {
 			"ability": "Blaze",
@@ -24910,6 +28266,28 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		}
 	},
+	"Qwilfish": {
+		"Grunt (Trainer #761 Mon #3)": {
+			"ability": "Swift Swim",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Sludge Bomb",
+				"Surf",
+				"Ice Beam",
+				"Explosion"
+			],
+			"nature": "Serious"
+		}
+	},
 	"Raichu": {
 		"Grunt (Trainer #21 Mon #4)": {
 			"ability": "Static",
@@ -24922,12 +28300,52 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 36,
+			"level": 41,
 			"moves": [
 				"Thunderbolt",
 				"Surf",
 				"Thunder Wave",
 				"Seismic Toss"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #761 Mon #2)": {
+			"ability": "Static",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Thunder",
+				"Surf",
+				"Hidden Power Ice",
+				"Quick Attack"
+			],
+			"nature": "Serious"
+		},
+		"Lorenzo (Trainer #553 Mon #4)": {
+			"ability": "Static",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Thunderbolt",
+				"Body Slam",
+				"Surf",
+				"Quick Attack"
 			],
 			"nature": "Serious"
 		},
@@ -25119,7 +28537,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Flamethrower",
 				"Megahorn",
@@ -25139,7 +28557,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Flamethrower",
 				"Megahorn",
@@ -25188,6 +28606,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Jeff (Trainer #202 Mon #1)": {
+			"ability": "Flame Body",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 44,
+			"moves": [
+				"Heat Wave",
+				"Bounce",
+				"Megahorn",
+				"Quick Attack"
+			],
+			"nature": "Serious"
+		},
 		"May (Trainer #530 Mon #4)": {
 			"ability": "Flame Body",
 			"item": "Lum Berry",
@@ -25199,7 +28637,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Flamethrower",
 				"Megahorn",
@@ -25208,7 +28646,7 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"May (Trainer #536 Mon #4)": {
+		"Randall (Trainer #71 Mon #6)": {
 			"ability": "Flame Body",
 			"item": "Lum Berry",
 			"ivs": {
@@ -25219,137 +28657,17 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 51,
 			"moves": [
 				"Flamethrower",
 				"Megahorn",
-				"Body Slam",
-				"Iron Tail"
+				"Iron Tail",
+				"Hypnosis"
 			],
 			"nature": "Serious"
 		}
 	},
 	"Rattata": {
-		"Bianca (Trainer #706 Mon #1)": {
-			"ability": "Guts",
-			"item": "Focus Band",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 1,
-			"moves": [
-				"Endeavor",
-				"Quick Attack",
-				"-",
-				"-"
-			],
-			"nature": "Serious"
-		},
-		"Bianca (Trainer #706 Mon #2)": {
-			"ability": "Guts",
-			"item": "Focus Band",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 1,
-			"moves": [
-				"Endeavor",
-				"Quick Attack",
-				"-",
-				"-"
-			],
-			"nature": "Serious"
-		},
-		"Bianca (Trainer #706 Mon #3)": {
-			"ability": "Guts",
-			"item": "Focus Band",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 1,
-			"moves": [
-				"Endeavor",
-				"Quick Attack",
-				"-",
-				"-"
-			],
-			"nature": "Serious"
-		},
-		"Bianca (Trainer #706 Mon #4)": {
-			"ability": "Guts",
-			"item": "Focus Band",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 1,
-			"moves": [
-				"Endeavor",
-				"Quick Attack",
-				"-",
-				"-"
-			],
-			"nature": "Serious"
-		},
-		"Bianca (Trainer #706 Mon #5)": {
-			"ability": "Guts",
-			"item": "Focus Band",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 1,
-			"moves": [
-				"Endeavor",
-				"Quick Attack",
-				"-",
-				"-"
-			],
-			"nature": "Serious"
-		},
-		"Bianca (Trainer #706 Mon #6)": {
-			"ability": "Guts",
-			"item": "Focus Band",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 1,
-			"moves": [
-				"Endeavor",
-				"Quick Attack",
-				"-",
-				"-"
-			],
-			"nature": "Serious"
-		},
 		"Melina (Trainer #755 Mon #2)": {
 			"ability": "Guts",
 			"item": "????????",
@@ -25372,6 +28690,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Relicanth": {
+		"Grunt (Trainer #400 Mon #5)": {
+			"ability": "Swift Swim",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Rock Slide",
+				"Surf",
+				"Earthquake",
+				"Double-Edge"
+			],
+			"nature": "Serious"
+		},
 		"Roxanne (Trainer #265 Mon #4)": {
 			"ability": "Swift Swim",
 			"item": "Sitrus Berry",
@@ -25391,9 +28729,49 @@ var SETDEX_ADV = {
 				"Rock Tomb"
 			],
 			"nature": "Serious"
+		},
+		"Shelly (Trainer #32 Mon #4)": {
+			"ability": "Swift Swim",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 64,
+			"moves": [
+				"Surf",
+				"Ancientpower",
+				"Earthquake",
+				"Double-Edge"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Rhydon": {
+		"Alexia (Trainer #90 Mon #5)": {
+			"ability": "Rock Head",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Double Kick",
+				"Thunderpunch"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #629 Mon #1)": {
 			"ability": "Rock Head",
 			"item": "Focus Band",
@@ -25405,7 +28783,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 44,
 			"moves": [
 				"Earthquake",
 				"Rock Slide",
@@ -25452,6 +28830,26 @@ var SETDEX_ADV = {
 				"Magnitude"
 			],
 			"nature": "Serious"
+		},
+		"Wilton (Trainer #78 Mon #3)": {
+			"ability": "Rock Head",
+			"item": "Hard Stone",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Rock Slide",
+				"Earthquake",
+				"Megahorn",
+				"Double-Edge"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Rhyhorn": {
@@ -25472,25 +28870,6 @@ var SETDEX_ADV = {
 				"Magnitude",
 				"Ice Beam",
 				"Rock Tomb"
-			],
-			"nature": "Serious"
-		},
-		"Mark (Trainer #145 Mon #1)": {
-			"ability": "Rock Head",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 31,
-			"moves": [
-				"Horn Drill",
-				"Rock Blast",
-				"Take Down",
-				"Rock Throw"
 			],
 			"nature": "Serious"
 		},
@@ -25610,25 +28989,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Catherine (Trainer #559 Mon #2)": {
-			"ability": "Poison Point",
-			"ivs": {
-				"at": 6,
-				"df": 6,
-				"hp": 6,
-				"sa": 6,
-				"sd": 6,
-				"sp": 6
-			},
-			"level": 26,
-			"moves": [
-				"Sludge",
-				"Synthesis",
-				"Magical Leaf",
-				"Stun Spore"
-			],
-			"nature": "Serious"
-		},
 		"Catherine (Trainer #562 Mon #2)": {
 			"ability": "Poison Point",
 			"ivs": {
@@ -25702,25 +29062,6 @@ var SETDEX_ADV = {
 				"Giga Drain",
 				"Grasswhistle",
 				"Sludge"
-			],
-			"nature": "Serious"
-		},
-		"Clarissa (Trainer #435 Mon #1)": {
-			"ability": "Poison Point",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 28,
-			"moves": [
-				"Sludge",
-				"Synthesis",
-				"Magical Leaf",
-				"Stun Spore"
 			],
 			"nature": "Serious"
 		},
@@ -25932,44 +29273,6 @@ var SETDEX_ADV = {
 				"Ingrain",
 				"Sweet Scent",
 				"Giga Drain"
-			],
-			"nature": "Serious"
-		},
-		"Rose (Trainer #37 Mon #1)": {
-			"ability": "Poison Point",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 14,
-			"moves": [
-				"Stun Spore",
-				"Synthesis",
-				"Mega Drain",
-				"Acid"
-			],
-			"nature": "Serious"
-		},
-		"Rose (Trainer #37 Mon #3)": {
-			"ability": "Poison Point",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 14,
-			"moves": [
-				"Stun Spore",
-				"Synthesis",
-				"Mega Drain",
-				"Acid"
 			],
 			"nature": "Serious"
 		},
@@ -26205,6 +29508,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Grunt (Trainer #18 Mon #6)": {
+			"ability": "Keen Eye",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Swagger",
+				"Recover",
+				"Dynamicpunch",
+				"Shadow Ball"
+			],
+			"nature": "Serious"
+		},
 		"Halle (Trainer #546 Mon #1)": {
 			"ability": "Keen Eye",
 			"ivs": {
@@ -26224,22 +29547,23 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Jennifer (Trainer #95 Mon #1)": {
+		"Jared (Trainer #401 Mon #6)": {
 			"ability": "Keen Eye",
+			"item": "Leftovers",
 			"ivs": {
-				"at": 24,
-				"df": 24,
-				"hp": 24,
-				"sa": 24,
-				"sd": 24,
-				"sp": 24
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
 			},
-			"level": 30,
+			"level": 62,
 			"moves": [
-				"Feint Attack",
-				"Secret Power",
-				"Fake Out",
-				"Fury Swipes"
+				"Shadow Ball",
+				"Mean Look",
+				"Seismic Toss",
+				"Recover"
 			],
 			"nature": "Serious"
 		},
@@ -26379,6 +29703,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Salamence": {
+		"Darius (Trainer #803 Mon #6)": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Aerial Ace",
+				"Dragon Claw",
+				"Flamethrower",
+				"Crunch"
+			],
+			"nature": "Serious"
+		},
 		"Drake (Trainer #264 Mon #5)": {
 			"ability": "Intimidate",
 			"item": "Sitrus Berry",
@@ -26396,6 +29740,26 @@ var SETDEX_ADV = {
 				"Dragon Claw",
 				"Rock Slide",
 				"Crunch"
+			],
+			"nature": "Serious"
+		},
+		"Maxie (Trainer #601 Mon #6)": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 47,
+			"moves": [
+				"Aerial Ace",
+				"Brick Break",
+				"Fire Blast",
+				"Dragon Claw"
 			],
 			"nature": "Serious"
 		}
@@ -26451,7 +29815,7 @@ var SETDEX_ADV = {
 			},
 			"level": 31,
 			"moves": [
-				"Rock Slide",
+				"Slash",
 				"Swift",
 				"Dig",
 				"Sand-Attack"
@@ -26470,7 +29834,7 @@ var SETDEX_ADV = {
 			},
 			"level": 31,
 			"moves": [
-				"Rock Slide",
+				"Slash",
 				"Swift",
 				"Dig",
 				"Sand-Attack"
@@ -26489,7 +29853,7 @@ var SETDEX_ADV = {
 			},
 			"level": 33,
 			"moves": [
-				"Rock Slide",
+				"Slash",
 				"Swift",
 				"Dig",
 				"Sand-Attack"
@@ -26508,7 +29872,7 @@ var SETDEX_ADV = {
 			},
 			"level": 33,
 			"moves": [
-				"Rock Slide",
+				"Slash",
 				"Swift",
 				"Dig",
 				"Sand-Attack"
@@ -26527,10 +29891,10 @@ var SETDEX_ADV = {
 			},
 			"level": 35,
 			"moves": [
-				"Rock Slide",
+				"Earthquake",
+				"Slash",
 				"Swift",
-				"Dig",
-				"Sand-Attack"
+				"Dig"
 			],
 			"nature": "Serious"
 		},
@@ -26546,67 +29910,10 @@ var SETDEX_ADV = {
 			},
 			"level": 35,
 			"moves": [
-				"Rock Slide",
-				"Swift",
-				"Dig",
-				"Sand-Attack"
-			],
-			"nature": "Serious"
-		},
-		"Beau (Trainer #212 Mon #2)": {
-			"ability": "Sand Veil",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 21,
-			"moves": [
-				"Poison Sting",
-				"Sand-Attack",
-				"Scratch",
-				"Dig"
-			],
-			"nature": "Serious"
-		},
-		"Becky (Trainer #470 Mon #1)": {
-			"ability": "Sand Veil",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 22,
-			"moves": [
-				"Sand-Attack",
-				"Poison Sting",
+				"Earthquake",
 				"Slash",
+				"Swift",
 				"Dig"
-			],
-			"nature": "Serious"
-		},
-		"Bryan (Trainer #744 Mon #1)": {
-			"ability": "Sand Veil",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 22,
-			"moves": [
-				"Dig",
-				"Sand-Attack",
-				"Poison Sting",
-				"Scratch"
 			],
 			"nature": "Serious"
 		},
@@ -26629,25 +29936,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Drew (Trainer #211 Mon #1)": {
-			"ability": "Sand Veil",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 23,
-			"moves": [
-				"Dig",
-				"Sand-Attack",
-				"Poison Sting",
-				"Slash"
-			],
-			"nature": "Serious"
-		},
 		"Ethan (Trainer #221 Mon #1)": {
 			"ability": "Sand Veil",
 			"ivs": {
@@ -26660,7 +29948,7 @@ var SETDEX_ADV = {
 			},
 			"level": 31,
 			"moves": [
-				"Rock Slide",
+				"Slash",
 				"Swift",
 				"Dig",
 				"Sand-Attack"
@@ -26686,25 +29974,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Heidi (Trainer #469 Mon #1)": {
-			"ability": "Sand Veil",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 22,
-			"moves": [
-				"Dig",
-				"Sand-Attack",
-				"Poison Sting",
-				"Slash"
-			],
-			"nature": "Serious"
-		},
 		"Kirk (Trainer #191 Mon #2)": {
 			"ability": "Sand Veil",
 			"item": "Oran Berry",
@@ -26721,6 +29990,7 @@ var SETDEX_ADV = {
 				"Dig",
 				"Brick Break",
 				"Rock Tomb",
+				"-"
 			],
 			"nature": "Serious"
 		},
@@ -26776,10 +30046,10 @@ var SETDEX_ADV = {
 			},
 			"level": 37,
 			"moves": [
-				"Body Slam",
+				"Earthquake",
 				"Slash",
-				"Dig",
-				"Sand-Attack"
+				"Swift",
+				"Dig"
 			],
 			"nature": "Serious"
 		},
@@ -26795,29 +30065,10 @@ var SETDEX_ADV = {
 			},
 			"level": 37,
 			"moves": [
-				"Body Slam",
+				"Earthquake",
 				"Slash",
-				"Dig",
-				"Sand-Attack"
-			],
-			"nature": "Serious"
-		},
-		"Bryan (Trainer #744 Mon #2)": {
-			"ability": "Sand Veil",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 22,
-			"moves": [
-				"Dig",
-				"Sand-Attack",
-				"Poison Sting",
-				"Sand-Attack"
+				"Swift",
+				"Dig"
 			],
 			"nature": "Serious"
 		},
@@ -26832,25 +30083,6 @@ var SETDEX_ADV = {
 				"sp": 6
 			},
 			"level": 27,
-			"moves": [
-				"Dig",
-				"Slash",
-				"Sand-Attack",
-				"Poison Sting"
-			],
-			"nature": "Serious"
-		},
-		"Dusty (Trainer #44 Mon #1)": {
-			"ability": "Sand Veil",
-			"ivs": {
-				"at": 6,
-				"df": 6,
-				"hp": 6,
-				"sa": 6,
-				"sd": 6,
-				"sp": 6
-			},
-			"level": 23,
 			"moves": [
 				"Dig",
 				"Slash",
@@ -26947,10 +30179,10 @@ var SETDEX_ADV = {
 			},
 			"level": 34,
 			"moves": [
-				"Body Slam",
+				"Earthquake",
 				"Slash",
-				"Dig",
-				"Sand-Attack"
+				"Swift",
+				"Dig"
 			],
 			"nature": "Serious"
 		},
@@ -26986,9 +30218,9 @@ var SETDEX_ADV = {
 			"level": 26,
 			"moves": [
 				"Slash",
+				"Swift",
 				"Dig",
-				"Sand-Attack",
-				"Poison Sting"
+				"Sand-Attack"
 			],
 			"nature": "Serious"
 		},
@@ -27005,9 +30237,9 @@ var SETDEX_ADV = {
 			"level": 42,
 			"moves": [
 				"Rock Slide",
-				"Body Slam",
+				"Earthquake",
 				"Slash",
-				"Dig"
+				"Swift"
 			],
 			"nature": "Serious"
 		},
@@ -27042,7 +30274,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Earthquake",
 				"Crush Claw",
@@ -27050,9 +30282,49 @@ var SETDEX_ADV = {
 				"-"
 			],
 			"nature": "Serious"
+		},
+		"Wilton (Trainer #78 Mon #1)": {
+			"ability": "Sand Veil",
+			"item": "Soft Sand",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Crush Claw",
+				"Aerial Ace"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Sceptile": {
+		"Berke (Trainer #74 Mon #3)": {
+			"ability": "Overgrow",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Leaf Blade",
+				"X-Scissor",
+				"Dragon Claw",
+				"Pursuit"
+			],
+			"nature": "Serious"
+		},
 		"Brendan (Trainer #521 Mon #6)": {
 			"ability": "Overgrow",
 			"item": "Lum Berry",
@@ -27064,12 +30336,52 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Leaf Blade",
 				"X-Scissor",
 				"Crush Claw",
 				"Crunch"
+			],
+			"nature": "Serious"
+		},
+		"Brendan (Trainer #522 Mon #6)": {
+			"ability": "Overgrow",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Leaf Blade",
+				"X-Scissor",
+				"Pursuit",
+				"Rock Slide"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #596 Mon #5)": {
+			"ability": "Overgrow",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Leaf Blade",
+				"X-Scissor",
+				"Dragon Claw",
+				"Crush Claw"
 			],
 			"nature": "Serious"
 		},
@@ -27084,7 +30396,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Leaf Blade",
 				"X-Scissor",
@@ -27092,9 +30404,191 @@ var SETDEX_ADV = {
 				"Crunch"
 			],
 			"nature": "Serious"
+		},
+		"May (Trainer #531 Mon #6)": {
+			"ability": "Overgrow",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Leaf Blade",
+				"X-Scissor",
+				"Pursuit",
+				"Rock Slide"
+			],
+			"nature": "Serious"
+		},
+		"Tabitha (Trainer #597 Mon #3)": {
+			"ability": "Overgrow",
+			"item": "Miracle Seed",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 46,
+			"moves": [
+				"Leaf Blade",
+				"Thunderpunch",
+				"Hidden Power Water",
+				"Crush Claw"
+			],
+			"nature": "Serious"
+		}
+	},
+	"Scizor": {
+		"Alexia (Trainer #90 Mon #2)": {
+			"ability": "Swarm",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"X-Scissor",
+				"Aerial Ace",
+				"Iron Head",
+				"Superpower"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #552 Mon #4)": {
+			"ability": "Swarm",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"X-Scissor",
+				"Iron Head",
+				"Quick Attack",
+				"Aerial Ace"
+			],
+			"nature": "Serious"
+		},
+		"Heidi (Trainer #469 Mon #3)": {
+			"ability": "Swarm",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Silver Wind",
+				"Steel Wing",
+				"Aerial Ace",
+				"Reversal"
+			],
+			"nature": "Serious"
+		},
+		"Leonel (Trainer #762 Mon #1)": {
+			"ability": "Swarm",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"X-Scissor",
+				"Aerial Ace",
+				"Steel Wing",
+				"Bullet Punch"
+			],
+			"nature": "Serious"
+		},
+		"Shelly (Trainer #32 Mon #3)": {
+			"ability": "Swarm",
+			"item": "Silverpowder",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 64,
+			"moves": [
+				"X-Scissor",
+				"Aerial Ace",
+				"Bullet Punch",
+				"Reversal"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Scyther": {
+		"Axle (Trainer #203 Mon #1)": {
+			"ability": "Swarm",
+			"item": "Choice Band",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"X-Scissor",
+				"Aerial Ace",
+				"Quick Attack",
+				"Steel Wing"
+			],
+			"nature": "Serious"
+		},
+		"Edwardo (Trainer #404 Mon #3)": {
+			"ability": "Swarm",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Aerial Ace",
+				"X-Scissor",
+				"Double-Edge",
+				"Quick Attack"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #472 Mon #2)": {
 			"ability": "Swarm",
 			"item": "Scope Lens",
@@ -27106,12 +30600,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 40,
+			"level": 43,
 			"moves": [
 				"X-Scissor",
 				"Aerial Ace",
 				"Steel Wing",
 				"Double-Edge"
+			],
+			"nature": "Serious"
+		},
+		"Mary (Trainer #89 Mon #3)": {
+			"ability": "Swarm",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Aerial Ace",
+				"X-Scissor",
+				"Steel Wing",
+				"Quick Attack"
 			],
 			"nature": "Serious"
 		}
@@ -27231,6 +30745,46 @@ var SETDEX_ADV = {
 				"Horn Drill",
 				"Double-Edge",
 				"Ice Beam"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #35 Mon #1)": {
+			"ability": "Swift Swim",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Waterfall",
+				"Megahorn",
+				"Body Slam",
+				"Ice Beam"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #559 Mon #4)": {
+			"ability": "Swift Swim",
+			"item": "King'S Rock",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Waterfall",
+				"Megahorn",
+				"Ice Beam",
+				"Psybeam"
 			],
 			"nature": "Serious"
 		},
@@ -27433,25 +30987,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Gabrielle (Trainer #9 Mon #5)": {
-			"ability": "Chlorophyll",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 26,
-			"moves": [
-				"Synthesis",
-				"Nature Power",
-				"Bullet Seed",
-				"Bide"
-			],
-			"nature": "Serious"
-		},
 		"Isaac (Trainer #538 Mon #4)": {
 			"ability": "Chlorophyll",
 			"item": "????????",
@@ -27469,25 +31004,6 @@ var SETDEX_ADV = {
 				"Explosion",
 				"Nature Power",
 				"-"
-			],
-			"nature": "Serious"
-		},
-		"Lorenzo (Trainer #553 Mon #1)": {
-			"ability": "Chlorophyll",
-			"ivs": {
-				"at": 6,
-				"df": 6,
-				"hp": 6,
-				"sa": 6,
-				"sd": 6,
-				"sp": 6
-			},
-			"level": 28,
-			"moves": [
-				"Synthesis",
-				"Nature Power",
-				"Bullet Seed",
-				"Bide"
 			],
 			"nature": "Serious"
 		}
@@ -27548,6 +31064,46 @@ var SETDEX_ADV = {
 				"Body Slam",
 				"Toxic",
 				"Bite"
+			],
+			"nature": "Serious"
+		},
+		"Jeff (Trainer #202 Mon #5)": {
+			"ability": "Shed Skin",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 44,
+			"moves": [
+				"Poison Tail",
+				"Flamethrower",
+				"Crunch",
+				"Giga Drain"
+			],
+			"nature": "Serious"
+		},
+		"Jenna (Trainer #560 Mon #2)": {
+			"ability": "Shed Skin",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Poison Tail",
+				"Flamethrower",
+				"Giga Drain",
+				"X-Scissor"
 			],
 			"nature": "Serious"
 		},
@@ -27735,12 +31291,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 36,
+			"level": 41,
 			"moves": [
 				"Surf",
 				"Ancientpower",
 				"Crunch",
 				"Poison Fang"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #760 Mon #2)": {
+			"ability": "Rough Skin",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Surf",
+				"Crunch",
+				"Poison Fang",
+				"Super Fang"
 			],
 			"nature": "Serious"
 		},
@@ -27955,6 +31531,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Shedinja": {
+		"Jeffrey (Trainer #226 Mon #2)": {
+			"ability": "Wonder Guard",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"X-Scissor",
+				"Shadow Ball",
+				"Swords Dance",
+				"Toxic"
+			],
+			"nature": "Serious"
+		},
 		"Jose (Trainer #617 Mon #2)": {
 			"ability": "Wonder Guard",
 			"item": "????????",
@@ -28028,7 +31624,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 42,
 			"moves": [
 				"Headbutt",
 				"Dragonbreath",
@@ -28055,6 +31651,26 @@ var SETDEX_ADV = {
 				"Feint Attack",
 				"Double Team",
 				"Swagger"
+			],
+			"nature": "Serious"
+		},
+		"Bryan (Trainer #744 Mon #2)": {
+			"ability": "Chlorophyll",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 49,
+			"moves": [
+				"Giga Drain",
+				"Feint Attack",
+				"Extrasensory",
+				"Pursuit"
 			],
 			"nature": "Serious"
 		},
@@ -28096,25 +31712,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Marcel (Trainer #11 Mon #2)": {
-			"ability": "Chlorophyll",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 29,
-			"moves": [
-				"Giga Drain",
-				"Feint Attack",
-				"Explosion",
-				"Extrasensory"
-			],
-			"nature": "Serious"
-		},
 		"Ruben (Trainer #671 Mon #1)": {
 			"ability": "Chlorophyll",
 			"ivs": {
@@ -28147,10 +31744,30 @@ var SETDEX_ADV = {
 			},
 			"level": 48,
 			"moves": [
-				"Hidden Power~12",
+				"Hidden Power Ice",
 				"Double Team",
 				"Swagger",
 				"Extrasensory"
+			],
+			"nature": "Serious"
+		},
+		"Tammy (Trainer #107 Mon #4)": {
+			"ability": "Chlorophyll",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Fake Out",
+				"Extrasensory",
+				"Swagger",
+				"Giga Drain"
 			],
 			"nature": "Serious"
 		},
@@ -28165,7 +31782,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Fake Out",
 				"Giga Drain",
@@ -28443,25 +32060,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Rose (Trainer #37 Mon #2)": {
-			"ability": "Effect Spore",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 14,
-			"moves": [
-				"Refresh",
-				"Poisonpowder",
-				"Mud-Slap",
-				"Mega Drain"
-			],
-			"nature": "Serious"
-		},
 		"Sheila (Trainer #125 Mon #1)": {
 			"ability": "Effect Spore",
 			"ivs": {
@@ -28502,6 +32100,86 @@ var SETDEX_ADV = {
 		}
 	},
 	"Shuckle": {
+		"Alexia (Trainer #90 Mon #6)": {
+			"ability": "Battle Armor",
+			"item": "Chesto Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Wrap",
+				"Toxic",
+				"Ancientpower",
+				"Rest"
+			],
+			"nature": "Serious"
+		},
+		"Clarissa (Trainer #435 Mon #4)": {
+			"ability": "Battle Armor",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Wrap",
+				"Earthquake",
+				"Safeguard",
+				"Toxic"
+			],
+			"nature": "Serious"
+		},
+		"Cristin (Trainer #767 Mon #3)": {
+			"ability": "Battle Armor",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Iron Defense",
+				"Toxic",
+				"Bind",
+				"Protect"
+			],
+			"nature": "Serious"
+		},
+		"Drew (Trainer #211 Mon #3)": {
+			"ability": "Battle Armor",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Wrap",
+				"Toxic",
+				"Ancientpower",
+				"Dig"
+			],
+			"nature": "Serious"
+		},
 		"Roxanne (Trainer #265 Mon #1)": {
 			"ability": "Battle Armor",
 			"item": "Sitrus Berry",
@@ -28562,25 +32240,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Tammy (Trainer #107 Mon #2)": {
-			"ability": "Insomnia",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 29,
-			"moves": [
-				"Secret Power",
-				"Pursuit",
-				"Night Shade",
-				"Astonish"
-			],
-			"nature": "Serious"
-		},
 		"Tasha (Trainer #109 Mon #1)": {
 			"ability": "Insomnia",
 			"ivs": {
@@ -28602,25 +32261,6 @@ var SETDEX_ADV = {
 		}
 	},
 	"Silcoon": {
-		"Donald (Trainer #224 Mon #2)": {
-			"ability": "Shed Skin",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 24,
-			"moves": [
-				"Harden",
-				"Poison Sting",
-				"(No Move)",
-				"(No Move)"
-			],
-			"nature": "Serious"
-		},
 		"Name Me (Trainer #40 Mon #1)": {
 			"ability": "Shed Skin",
 			"ivs": {
@@ -28676,7 +32316,27 @@ var SETDEX_ADV = {
 				"X-Scissor",
 				"Air Cutter",
 				"Steel Wing",
-				"Aerial Ace"
+				"Metal Claw"
+			],
+			"nature": "Serious"
+		},
+		"Becky (Trainer #470 Mon #3)": {
+			"ability": "Keen Eye",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Drill Peck",
+				"Iron Head",
+				"Recover",
+				"Toxic"
 			],
 			"nature": "Serious"
 		},
@@ -28691,7 +32351,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Spikes",
 				"Aerial Ace",
@@ -28711,7 +32371,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Spikes",
 				"Aerial Ace",
@@ -28731,7 +32391,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Spikes",
 				"Aerial Ace",
@@ -28753,9 +32413,9 @@ var SETDEX_ADV = {
 			"level": 43,
 			"moves": [
 				"Rock Slide",
-				"Recover",
 				"X-Scissor",
-				"Air Cutter"
+				"Air Cutter",
+				"Steel Wing"
 			],
 			"nature": "Serious"
 		},
@@ -28771,9 +32431,9 @@ var SETDEX_ADV = {
 			},
 			"level": 17,
 			"moves": [
-				"Aerial Ace",
 				"Metal Claw",
 				"Sand-Attack",
+				"Metal Sound",
 				"Peck"
 			],
 			"nature": "Serious"
@@ -28790,9 +32450,9 @@ var SETDEX_ADV = {
 			},
 			"level": 25,
 			"moves": [
-				"Aerial Ace",
 				"Metal Claw",
 				"Sand-Attack",
+				"Metal Sound",
 				"Peck"
 			],
 			"nature": "Serious"
@@ -28809,52 +32469,14 @@ var SETDEX_ADV = {
 			},
 			"level": 25,
 			"moves": [
-				"Aerial Ace",
 				"Metal Claw",
 				"Sand-Attack",
+				"Metal Sound",
 				"Peck"
 			],
 			"nature": "Serious"
 		},
-		"Humberto (Trainer #402 Mon #1)": {
-			"ability": "Keen Eye",
-			"ivs": {
-				"at": 30,
-				"df": 30,
-				"hp": 30,
-				"sa": 30,
-				"sd": 30,
-				"sp": 30
-			},
-			"level": 30,
-			"moves": [
-				"Air Cutter",
-				"Steel Wing",
-				"Aerial Ace",
-				"Metal Claw"
-			],
-			"nature": "Serious"
-		},
-		"Jared (Trainer #401 Mon #2)": {
-			"ability": "Keen Eye",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 27,
-			"moves": [
-				"Steel Wing",
-				"Aerial Ace",
-				"Metal Claw",
-				"Sand-Attack"
-			],
-			"nature": "Serious"
-		},
-		"Maxie (Trainer #601 Mon #2)": {
+		"George (Trainer #73 Mon #3)": {
 			"ability": "Keen Eye",
 			"item": "Leftovers",
 			"ivs": {
@@ -28865,11 +32487,31 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 51,
 			"moves": [
 				"Aerial Ace",
-				"Steel Wing",
-				"Hidden Power Ground",
+				"Iron Head",
+				"X-Scissor",
+				"Recover"
+			],
+			"nature": "Serious"
+		},
+		"Humberto (Trainer #402 Mon #4)": {
+			"ability": "Keen Eye",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Aerial Ace",
+				"Iron Tail",
+				"X-Scissor",
 				"Recover"
 			],
 			"nature": "Serious"
@@ -28885,7 +32527,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Spikes",
 				"Aerial Ace",
@@ -28905,7 +32547,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Spikes",
 				"Aerial Ace",
@@ -28925,7 +32567,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Spikes",
 				"Aerial Ace",
@@ -28971,26 +32613,6 @@ var SETDEX_ADV = {
 				"Aerial Ace",
 				"Spikes",
 				"Steel Wing"
-			],
-			"nature": "Serious"
-		},
-		"Winona (Trainer #270 Mon #4)": {
-			"ability": "Keen Eye",
-			"item": "????????",
-			"ivs": {
-				"at": 27,
-				"df": 27,
-				"hp": 27,
-				"sa": 27,
-				"sd": 27,
-				"sp": 27
-			},
-			"level": 31,
-			"moves": [
-				"Sand-Attack",
-				"Fury Attack",
-				"Steel Wing",
-				"Aerial Ace"
 			],
 			"nature": "Serious"
 		},
@@ -29235,25 +32857,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Gabrielle (Trainer #9 Mon #1)": {
-			"ability": "Cute Charm",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 26,
-			"moves": [
-				"Body Slam",
-				"Heal Bell",
-				"Fake Out",
-				"Teeter Dance"
-			],
-			"nature": "Serious"
-		},
 		"Lydia (Trainer #548 Mon #5)": {
 			"ability": "Cute Charm",
 			"ivs": {
@@ -29392,9 +32995,9 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Irene (Trainer #476 Mon #1)": {
+		"George (Trainer #73 Mon #6)": {
 			"ability": "Truant",
-			"item": "Choice Band",
+			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -29403,31 +33006,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 51,
 			"moves": [
 				"Hyper Beam",
-				"-",
-				"-",
-				"-"
+				"Earthquake",
+				"Shadow Ball",
+				"Slack Off"
 			],
 			"nature": "Serious"
 		},
-		"Kate & Joy (Trainer #286 Mon #2)": {
+		"Grunt (Trainer #628 Mon #2)": {
 			"ability": "Truant",
+			"item": "Leftovers",
 			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
 			},
-			"level": 32,
+			"level": 44,
 			"moves": [
-				"Focus Punch",
-				"Yawn",
-				"Slack Off",
-				"Feint Attack"
+				"Hyper Beam",
+				"Surf",
+				"Thunder",
+				"Pursuit"
 			],
 			"nature": "Serious"
 		},
@@ -29450,7 +33054,7 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Lenny (Trainer #628 Mon #2)": {
+		"Norman (Trainer #269 Mon #3)": {
 			"ability": "Truant",
 			"item": "Leftovers",
 			"ivs": {
@@ -29461,32 +33065,12 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 52,
 			"moves": [
-				"Hyper Beam",
-				"Surf",
-				"Thunder",
-				"Pursuit"
-			],
-			"nature": "Serious"
-		},
-		"Norman (Trainer #269 Mon #4)": {
-			"ability": "Truant",
-			"item": "Sitrus Berry",
-			"ivs": {
-				"at": 30,
-				"df": 30,
-				"hp": 30,
-				"sa": 30,
-				"sd": 30,
-				"sp": 30
-			},
-			"level": 31,
-			"moves": [
-				"Counter",
-				"Yawn",
-				"Facade",
-				"Feint Attack"
+				"Double-Edge",
+				"Bulk Up",
+				"Earthquake",
+				"Counter"
 			],
 			"nature": "Serious"
 		},
@@ -29690,10 +33274,12 @@ var SETDEX_ADV = {
 				"-"
 			],
 			"nature": "Serious"
-		},
-		"George (Trainer #73 Mon #1)": {
-			"ability": "Truant",
-			"item": "Sitrus Berry",
+		}
+	},
+	"Slowbro": {
+		"Grunt (Trainer #17 Mon #5)": {
+			"ability": "Own Tempo",
+			"item": "Quick Claw",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -29702,17 +33288,77 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 26,
+			"level": 61,
 			"moves": [
+				"Surf",
+				"Psychic",
+				"Fire Blast",
+				"Yawn"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #416 Mon #3)": {
+			"ability": "Own Tempo",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Surf",
+				"Psychic",
 				"Slack Off",
-				"Counter",
-				"Shadow Ball",
-				"-"
+				"Thunder Wave"
 			],
 			"nature": "Serious"
 		}
 	},
 	"Slowking": {
+		"Grunt (Trainer #31 Mon #6)": {
+			"ability": "Own Tempo",
+			"item": "Brightpowder",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Psychic",
+				"Surf",
+				"Future Sight",
+				"Fire Blast"
+			],
+			"nature": "Serious"
+		},
+		"Shelly (Trainer #32 Mon #2)": {
+			"ability": "Own Tempo",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 64,
+			"moves": [
+				"Surf",
+				"Psychic",
+				"Future Sight",
+				"Yawn"
+			],
+			"nature": "Serious"
+		},
 		"Tate&Liza (Trainer #797 Mon #3)": {
 			"ability": "Own Tempo",
 			"item": "????????",
@@ -29873,44 +33519,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Brendan (Trainer #522 Mon #1)": {
-			"ability": "Flame Body",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 29,
-			"moves": [
-				"Ancientpower",
-				"Will-O-Wisp",
-				"Recover",
-				"Rock Tomb"
-			],
-			"nature": "Serious"
-		},
-		"Brendan (Trainer #528 Mon #2)": {
-			"ability": "Flame Body",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 29,
-			"moves": [
-				"Ancientpower",
-				"Will-O-Wisp",
-				"Recover",
-				"Rock Tomb"
-			],
-			"nature": "Serious"
-		},
 		"Brendan (Trainer #599 Mon #1)": {
 			"ability": "Flame Body",
 			"ivs": {
@@ -29960,178 +33568,6 @@ var SETDEX_ADV = {
 				"sp": 18
 			},
 			"level": 32,
-			"moves": [
-				"Ancientpower",
-				"Will-O-Wisp",
-				"Recover",
-				"Rock Tomb"
-			],
-			"nature": "Serious"
-		},
-		"Bryant (Trainer #746 Mon #2)": {
-			"ability": "Flame Body",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 18,
-			"moves": [
-				"Will-O-Wisp",
-				"Recover",
-				"Rock Tomb",
-				"Flame Wheel"
-			],
-			"nature": "Serious"
-		},
-		"Dayton (Trainer #760 Mon #1)": {
-			"ability": "Flame Body",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 25,
-			"moves": [
-				"Will-O-Wisp",
-				"Recover",
-				"Rock Tomb",
-				"Flame Wheel"
-			],
-			"nature": "Serious"
-		},
-		"Flannery (Trainer #268 Mon #2)": {
-			"ability": "Flame Body",
-			"item": "????????",
-			"ivs": {
-				"at": 24,
-				"df": 24,
-				"hp": 24,
-				"sa": 24,
-				"sd": 24,
-				"sp": 24
-			},
-			"level": 24,
-			"moves": [
-				"Overheat",
-				"Smog",
-				"Light Screen",
-				"Sunny Day"
-			],
-			"nature": "Serious"
-		},
-		"Jace (Trainer #204 Mon #1)": {
-			"ability": "Flame Body",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 23,
-			"moves": [
-				"Will-O-Wisp",
-				"Recover",
-				"Rock Tomb",
-				"Flame Wheel"
-			],
-			"nature": "Serious"
-		},
-		"Jeff (Trainer #202 Mon #1)": {
-			"ability": "Flame Body",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 22,
-			"moves": [
-				"Will-O-Wisp",
-				"Recover",
-				"Rock Tomb",
-				"Flame Wheel"
-			],
-			"nature": "Serious"
-		},
-		"Jeff (Trainer #202 Mon #2)": {
-			"ability": "Flame Body",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 22,
-			"moves": [
-				"Will-O-Wisp",
-				"Recover",
-				"Rock Tomb",
-				"Flame Wheel"
-			],
-			"nature": "Serious"
-		},
-		"Keegan (Trainer #205 Mon #1)": {
-			"ability": "Flame Body",
-			"ivs": {
-				"at": 15,
-				"df": 15,
-				"hp": 15,
-				"sa": 15,
-				"sd": 15,
-				"sp": 15
-			},
-			"level": 23,
-			"moves": [
-				"Will-O-Wisp",
-				"Recover",
-				"Rock Tomb",
-				"Flame Wheel"
-			],
-			"nature": "Serious"
-		},
-		"May (Trainer #531 Mon #1)": {
-			"ability": "Flame Body",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 29,
-			"moves": [
-				"Ancientpower",
-				"Will-O-Wisp",
-				"Recover",
-				"Rock Tomb"
-			],
-			"nature": "Serious"
-		},
-		"May (Trainer #537 Mon #2)": {
-			"ability": "Flame Body",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 29,
 			"moves": [
 				"Ancientpower",
 				"Will-O-Wisp",
@@ -30191,12 +33627,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 36,
+			"level": 41,
 			"moves": [
 				"Calm Mind",
 				"Agility",
 				"Baton Pass",
 				"Spore"
+			],
+			"nature": "Serious"
+		},
+		"Jody (Trainer #91 Mon #6)": {
+			"ability": "Own Tempo",
+			"item": "Focus Band",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Psycho Boost",
+				"Flail",
+				"Explosion",
+				"Reversal"
 			],
 			"nature": "Serious"
 		}
@@ -30223,6 +33679,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Sneasel": {
+		"Grunt (Trainer #145 Mon #2)": {
+			"ability": "Inner Focus",
+			"item": "Brightpowder",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Aerial Ace",
+				"X-Scissor",
+				"Substitute",
+				"Swords Dance"
+			],
+			"nature": "Serious"
+		},
 		"Johnson (Trainer #754 Mon #2)": {
 			"ability": "Inner Focus",
 			"item": "Silk Scarf",
@@ -30245,7 +33721,7 @@ var SETDEX_ADV = {
 		}
 	},
 	"Snorlax": {
-		"Brawly (Trainer #266 Mon #2)": {
+		"George (Trainer #73 Mon #5)": {
 			"ability": "Thick Fat",
 			"item": "Leftovers",
 			"ivs": {
@@ -30256,12 +33732,52 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 33,
+			"level": 51,
 			"moves": [
-				"Brick Break",
 				"Body Slam",
-				"Curse",
+				"Shadow Ball",
+				"Earthquake",
 				"Rest"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #19 Mon #3)": {
+			"ability": "Thick Fat",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Body Slam",
+				"Shadow Ball",
+				"Ice Beam",
+				"Counter"
+			],
+			"nature": "Serious"
+		},
+		"Norman (Trainer #269 Mon #6)": {
+			"ability": "Thick Fat",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 53,
+			"moves": [
+				"Return",
+				"Fire Blast",
+				"Belly Drum",
+				"Earthquake"
 			],
 			"nature": "Serious"
 		}
@@ -30362,6 +33878,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Flannery (Trainer #268 Mon #2)": {
+			"ability": "Levitate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Rock Slide",
+				"Psychic",
+				"Flamethrower",
+				"Solarbeam"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #629 Mon #2)": {
 			"ability": "Levitate",
 			"item": "Quick Claw",
@@ -30373,7 +33909,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 44,
 			"moves": [
 				"Rock Slide",
 				"Flamethrower",
@@ -30715,6 +34251,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Drew (Trainer #211 Mon #4)": {
+			"ability": "Own Tempo",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Fake Out",
+				"Hyper Voice",
+				"Shadow Ball",
+				"Superpower"
+			],
+			"nature": "Serious"
+		},
 		"Gina & Mia (Trainer #483 Mon #2)": {
 			"ability": "Own Tempo",
 			"item": "Lum Berry",
@@ -30732,45 +34288,6 @@ var SETDEX_ADV = {
 				"Teeter Dance",
 				"Hypnosis",
 				"Assist"
-			],
-			"nature": "Serious"
-		},
-		"Kate & Joy (Trainer #286 Mon #1)": {
-			"ability": "Own Tempo",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 30,
-			"moves": [
-				"Hypnosis",
-				"Psybeam",
-				"Dizzy Punch",
-				"Teeter Dance"
-			],
-			"nature": "Serious"
-		},
-		"Norman (Trainer #269 Mon #1)": {
-			"ability": "Own Tempo",
-			"item": "????????",
-			"ivs": {
-				"at": 24,
-				"df": 24,
-				"hp": 24,
-				"sa": 24,
-				"sd": 24,
-				"sp": 24
-			},
-			"level": 27,
-			"moves": [
-				"Teeter Dance",
-				"Psybeam",
-				"Facade",
-				"Encore"
 			],
 			"nature": "Serious"
 		},
@@ -30856,7 +34373,7 @@ var SETDEX_ADV = {
 		},
 		"Parker (Trainer #72 Mon #1)": {
 			"ability": "Own Tempo",
-			"item": "????????",
+			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -30865,36 +34382,17 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 26,
+			"level": 51,
 			"moves": [
+				"Fake Out",
 				"Teeter Dance",
-				"Dizzy Punch",
-				"Focus Punch",
-				"-"
+				"Hyper Voice",
+				"Shadow Ball"
 			],
 			"nature": "Serious"
 		}
 	},
 	"Spoink": {
-		"Leah (Trainer #35 Mon #1)": {
-			"ability": "Thick Fat",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 31,
-			"moves": [
-				"Magic Coat",
-				"Confuse Ray",
-				"Bounce",
-				"Psybeam"
-			],
-			"nature": "Serious"
-		},
 		"Marlene (Trainer #752 Mon #2)": {
 			"ability": "Thick Fat",
 			"ivs": {
@@ -30908,7 +34406,7 @@ var SETDEX_ADV = {
 			"level": 18,
 			"moves": [
 				"Psybeam",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Psywave",
 				"Confusion"
 			],
@@ -31003,7 +34501,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 42,
 			"moves": [
 				"Double-Edge",
 				"Megahorn",
@@ -31014,6 +34512,46 @@ var SETDEX_ADV = {
 		}
 	},
 	"Starmie": {
+		"Flint (Trainer #654 Mon #4)": {
+			"ability": "Natural Cure",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Surf",
+				"Psychic",
+				"Thunderbolt",
+				"Ice Beam"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #559 Mon #2)": {
+			"ability": "Natural Cure",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Hydro Pump",
+				"Thunder",
+				"Psychic",
+				"Ice Beam"
+			],
+			"nature": "Serious"
+		},
 		"Isaiah (Trainer #381 Mon #1)": {
 			"ability": "Natural Cure",
 			"ivs": {
@@ -31125,6 +34663,26 @@ var SETDEX_ADV = {
 				"Hydro Pump",
 				"Recover",
 				"Psychic"
+			],
+			"nature": "Serious"
+		},
+		"Mary (Trainer #89 Mon #2)": {
+			"ability": "Natural Cure",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Shock Wave",
+				"Surf",
+				"Psychic",
+				"Ice Beam"
 			],
 			"nature": "Serious"
 		},
@@ -31664,6 +35222,66 @@ var SETDEX_ADV = {
 		}
 	},
 	"Steelix": {
+		"Ashley (Trainer #655 Mon #4)": {
+			"ability": "Rock Head",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Earthquake",
+				"Iron Tail",
+				"Rock Slide",
+				"Curse"
+			],
+			"nature": "Serious"
+		},
+		"Daisuke (Trainer #189 Mon #2)": {
+			"ability": "Rock Head",
+			"item": "Soft Sand",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Iron Tail",
+				"Double-Edge"
+			],
+			"nature": "Serious"
+		},
+		"Gerald (Trainer #648 Mon #2)": {
+			"ability": "Rock Head",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Iron Tail",
+				"Explosion"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #146 Mon #5)": {
 			"ability": "Rock Head",
 			"item": "Quick Claw",
@@ -31681,6 +35299,46 @@ var SETDEX_ADV = {
 				"Iron Tail",
 				"Rock Slide",
 				"Curse"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #247 Mon #3)": {
+			"ability": "Rock Head",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Earthquake",
+				"Iron Tail",
+				"Roar",
+				"Explosion"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #26 Mon #3)": {
+			"ability": "Rock Head",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Iron Tail",
+				"Swagger"
 			],
 			"nature": "Serious"
 		},
@@ -31706,6 +35364,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Sudowoodo": {
+		"Branden (Trainer #745 Mon #2)": {
+			"ability": "Rock Head",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 49,
+			"moves": [
+				"Rock Slide",
+				"Earthquake",
+				"Explosion",
+				"Double-Edge"
+			],
+			"nature": "Serious"
+		},
 		"Marc (Trainer #571 Mon #4)": {
 			"ability": "Rock Head",
 			"item": "Sitrus Berry",
@@ -31723,6 +35401,28 @@ var SETDEX_ADV = {
 				"Double-Edge",
 				"Earthquake",
 				"Ice Punch"
+			],
+			"nature": "Serious"
+		}
+	},
+	"Suicune": {
+		"Shelly (Trainer #32 Mon #6)": {
+			"ability": "Pressure",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Hydro Pump",
+				"Ice Beam",
+				"Extrasensory",
+				"Icy Wind"
 			],
 			"nature": "Serious"
 		}
@@ -31750,25 +35450,6 @@ var SETDEX_ADV = {
 		}
 	},
 	"Surskit": {
-		"Brent (Trainer #223 Mon #1)": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 26,
-			"moves": [
-				"Giga Drain",
-				"Aurora Beam",
-				"Mud Shot",
-				"Quick Attack"
-			],
-			"nature": "Serious"
-		},
 		"James (Trainer #624 Mon #1)": {
 			"ability": "Swift Swim",
 			"ivs": {
@@ -31804,63 +35485,6 @@ var SETDEX_ADV = {
 				"Giga Drain",
 				"Aurora Beam",
 				"Mud Shot"
-			],
-			"nature": "Serious"
-		},
-		"Jeffrey (Trainer #226 Mon #1)": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 27,
-			"moves": [
-				"Giga Drain",
-				"Aurora Beam",
-				"Mud Shot",
-				"Quick Attack"
-			],
-			"nature": "Serious"
-		},
-		"Jeffrey (Trainer #226 Mon #2)": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 27,
-			"moves": [
-				"Giga Drain",
-				"Aurora Beam",
-				"Mud Shot",
-				"Quick Attack"
-			],
-			"nature": "Serious"
-		},
-		"Jeffrey (Trainer #226 Mon #3)": {
-			"ability": "Swift Swim",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 27,
-			"moves": [
-				"Giga Drain",
-				"Aurora Beam",
-				"Mud Shot",
-				"Quick Attack"
 			],
 			"nature": "Serious"
 		},
@@ -32058,63 +35682,6 @@ var SETDEX_ADV = {
 		}
 	},
 	"Swablu": {
-		"Ashley (Trainer #655 Mon #1)": {
-			"ability": "Natural Cure",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 27,
-			"moves": [
-				"Body Slam",
-				"Refresh",
-				"Aerial Ace",
-				"Sing"
-			],
-			"nature": "Serious"
-		},
-		"Ashley (Trainer #655 Mon #2)": {
-			"ability": "Natural Cure",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 27,
-			"moves": [
-				"Body Slam",
-				"Refresh",
-				"Aerial Ace",
-				"Sing"
-			],
-			"nature": "Serious"
-		},
-		"Ashley (Trainer #655 Mon #3)": {
-			"ability": "Natural Cure",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 27,
-			"moves": [
-				"Body Slam",
-				"Refresh",
-				"Aerial Ace",
-				"Sing"
-			],
-			"nature": "Serious"
-		},
 		"Derek (Trainer #227 Mon #3)": {
 			"ability": "Natural Cure",
 			"ivs": {
@@ -32248,25 +35815,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Robert (Trainer #406 Mon #1)": {
-			"ability": "Natural Cure",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 29,
-			"moves": [
-				"Body Slam",
-				"Refresh",
-				"Aerial Ace",
-				"Sing"
-			],
-			"nature": "Serious"
-		},
 		"Robert (Trainer #409 Mon #2)": {
 			"ability": "Natural Cure",
 			"ivs": {
@@ -32304,26 +35852,6 @@ var SETDEX_ADV = {
 				"Refresh"
 			],
 			"nature": "Serious"
-		},
-		"Winona (Trainer #270 Mon #1)": {
-			"ability": "Natural Cure",
-			"item": "????????",
-			"ivs": {
-				"at": 26,
-				"df": 26,
-				"hp": 26,
-				"sa": 26,
-				"sd": 26,
-				"sp": 26
-			},
-			"level": 29,
-			"moves": [
-				"Perish Song",
-				"Mirror Move",
-				"Safeguard",
-				"Aerial Ace"
-			],
-			"nature": "Serious"
 		}
 	},
 	"Swalot": {
@@ -32338,7 +35866,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 36,
+			"level": 41,
 			"moves": [
 				"Ingrain",
 				"Spit Up",
@@ -32360,7 +35888,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Earthquake",
 				"Surf",
@@ -32369,7 +35897,7 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"May (Trainer #536 Mon #5)": {
+		"Brendan (Trainer #528 Mon #5)": {
 			"ability": "Torrent",
 			"item": "Lum Berry",
 			"ivs": {
@@ -32380,10 +35908,50 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 63,
+			"moves": [
+				"Muddy Water",
+				"Earthquake",
+				"Rock Slide",
+				"Ice Beam"
+			],
+			"nature": "Serious"
+		},
+		"May (Trainer #536 Mon #4)": {
+			"ability": "Torrent",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 41,
 			"moves": [
 				"Earthquake",
 				"Surf",
+				"Rock Slide",
+				"Ice Beam"
+			],
+			"nature": "Serious"
+		},
+		"May (Trainer #537 Mon #5)": {
+			"ability": "Torrent",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Muddy Water",
+				"Earthquake",
 				"Rock Slide",
 				"Ice Beam"
 			],
@@ -32543,25 +36111,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Chester (Trainer #408 Mon #2)": {
-			"ability": "Guts",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 25,
-			"moves": [
-				"Facade",
-				"Wing Attack",
-				"Quick Attack",
-				"Double-Edge"
-			],
-			"nature": "Serious"
-		},
 		"Coby (Trainer #709 Mon #2)": {
 			"ability": "Guts",
 			"ivs": {
@@ -32638,25 +36187,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Flint (Trainer #654 Mon #1)": {
-			"ability": "Guts",
-			"ivs": {
-				"at": 18,
-				"df": 18,
-				"hp": 18,
-				"sa": 18,
-				"sd": 18,
-				"sp": 18
-			},
-			"level": 29,
-			"moves": [
-				"Endeavor",
-				"Facade",
-				"Wing Attack",
-				"Quick Attack"
-			],
-			"nature": "Serious"
-		},
 		"Gabrielle (Trainer #842 Mon #6)": {
 			"ability": "Guts",
 			"ivs": {
@@ -32706,7 +36236,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 41,
+			"level": 42,
 			"moves": [
 				"Aerial Ace",
 				"Steel Wing",
@@ -32821,11 +36351,31 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Endeavor",
 				"Quick Attack",
 				"Aerial Ace",
+				"Steel Wing"
+			],
+			"nature": "Serious"
+		},
+		"Mary (Trainer #89 Mon #1)": {
+			"ability": "Guts",
+			"item": "Silk Scarf",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Aerial Ace",
+				"Return",
+				"Endeavor",
 				"Steel Wing"
 			],
 			"nature": "Serious"
@@ -32846,45 +36396,6 @@ var SETDEX_ADV = {
 				"Facade",
 				"Wing Attack",
 				"Quick Attack"
-			],
-			"nature": "Serious"
-		},
-		"Phil (Trainer #400 Mon #1)": {
-			"ability": "Guts",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 26,
-			"moves": [
-				"Facade",
-				"Wing Attack",
-				"Quick Attack",
-				"Double-Edge"
-			],
-			"nature": "Serious"
-		},
-		"Randall (Trainer #71 Mon #1)": {
-			"ability": "Guts",
-			"item": "????????",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 26,
-			"moves": [
-				"Quick Attack",
-				"Agility",
-				"Wing Attack",
-				"-"
 			],
 			"nature": "Serious"
 		},
@@ -32951,63 +36462,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Branden (Trainer #745 Mon #1)": {
-			"ability": "Guts",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 22,
-			"moves": [
-				"Facade",
-				"Wing Attack",
-				"Quick Attack",
-				"Swift"
-			],
-			"nature": "Serious"
-		},
-		"Chester (Trainer #408 Mon #1)": {
-			"ability": "Guts",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 25,
-			"moves": [
-				"Facade",
-				"Wing Attack",
-				"Quick Attack",
-				"Swift"
-			],
-			"nature": "Serious"
-		},
-		"Ethan (Trainer #216 Mon #2)": {
-			"ability": "Guts",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 20,
-			"moves": [
-				"Facade",
-				"Wing Attack",
-				"Quick Attack",
-				"Swift"
-			],
-			"nature": "Serious"
-		},
 		"Ethan (Trainer #219 Mon #2)": {
 			"ability": "Guts",
 			"ivs": {
@@ -33057,25 +36511,6 @@ var SETDEX_ADV = {
 				"sp": 2
 			},
 			"level": 33,
-			"moves": [
-				"Endeavor",
-				"Facade",
-				"Wing Attack",
-				"Quick Attack"
-			],
-			"nature": "Serious"
-		},
-		"Gabrielle (Trainer #9 Mon #6)": {
-			"ability": "Guts",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 26,
 			"moves": [
 				"Endeavor",
 				"Facade",
@@ -33147,6 +36582,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Tauros": {
+		"Darius (Trainer #803 Mon #1)": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Double-Edge",
+				"Earthquake",
+				"Iron Tail",
+				"Quick Attack"
+			],
+			"nature": "Serious"
+		},
 		"Jocelyn (Trainer #425 Mon #1)": {
 			"ability": "Intimidate",
 			"item": "????????",
@@ -33164,6 +36619,46 @@ var SETDEX_ADV = {
 				"Iron Tail",
 				"Blizzard",
 				"Quick Attack"
+			],
+			"nature": "Serious"
+		},
+		"Jody (Trainer #91 Mon #4)": {
+			"ability": "Intimidate",
+			"item": "Silk Scarf",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Double-Edge",
+				"Earthquake",
+				"Iron Head",
+				"Blizzard"
+			],
+			"nature": "Serious"
+		},
+		"Norman (Trainer #269 Mon #1)": {
+			"ability": "Intimidate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 52,
+			"moves": [
+				"Double-Edge",
+				"Thunderbolt",
+				"Fire Blast",
+				"Blizzard"
 			],
 			"nature": "Serious"
 		},
@@ -33189,7 +36684,7 @@ var SETDEX_ADV = {
 		},
 		"Tabitha (Trainer #597 Mon #1)": {
 			"ability": "Intimidate",
-			"item": "Lum Berry",
+			"item": "Magnet",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -33198,12 +36693,12 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 44,
+			"level": 46,
 			"moves": [
 				"Double-Edge",
-				"Earthquake",
-				"Iron Tail",
-				"Quick Attack"
+				"Thunderbolt",
+				"Fire Blast",
+				"Blizzard"
 			],
 			"nature": "Serious"
 		}
@@ -33225,25 +36720,6 @@ var SETDEX_ADV = {
 				"Poison Sting",
 				"(No Move)",
 				"(No Move)"
-			],
-			"nature": "Serious"
-		},
-		"Barny (Trainer #343 Mon #1)": {
-			"ability": "Liquid Ooze",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 25,
-			"moves": [
-				"Aurora Beam",
-				"Bubblebeam",
-				"Acid",
-				"Water Gun"
 			],
 			"nature": "Serious"
 		},
@@ -33301,25 +36777,6 @@ var SETDEX_ADV = {
 				"Water Gun",
 				"Poison Sting",
 				"(No Move)"
-			],
-			"nature": "Serious"
-		},
-		"Chris (Trainer #693 Mon #2)": {
-			"ability": "Liquid Ooze",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 20,
-			"moves": [
-				"Bubblebeam",
-				"Acid",
-				"Water Gun",
-				"Poison Sting"
 			],
 			"nature": "Serious"
 		},
@@ -33933,6 +37390,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Grunt (Trainer #18 Mon #1)": {
+			"ability": "Liquid Ooze",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Surf",
+				"Sludge Bomb",
+				"Giga Drain",
+				"Toxic"
+			],
+			"nature": "Serious"
+		},
 		"Harrison (Trainer #578 Mon #1)": {
 			"ability": "Liquid Ooze",
 			"ivs": {
@@ -33987,6 +37464,26 @@ var SETDEX_ADV = {
 				"Bubblebeam",
 				"Acid",
 				"Wrap"
+			],
+			"nature": "Serious"
+		},
+		"Jenna (Trainer #560 Mon #4)": {
+			"ability": "Liquid Ooze",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Surf",
+				"Sludge Bomb",
+				"Giga Drain",
+				"Toxic"
 			],
 			"nature": "Serious"
 		},
@@ -34164,8 +37661,7 @@ var SETDEX_ADV = {
 			},
 			"level": 5,
 			"moves": [
-				"Scratch",
-				"(No Move)"
+				"Scratch"
 			],
 			"nature": "Serious"
 		},
@@ -34200,8 +37696,7 @@ var SETDEX_ADV = {
 			},
 			"level": 5,
 			"moves": [
-				"Scratch",
-				"(No Move)"
+				"Scratch"
 			],
 			"nature": "Serious"
 		},
@@ -34226,23 +37721,43 @@ var SETDEX_ADV = {
 		}
 	},
 	"Torkoal": {
-		"Flannery (Trainer #268 Mon #4)": {
+		"Bryant (Trainer #746 Mon #1)": {
 			"ability": "Shell Armor",
-			"item": "White Herb",
+			"item": "Lum Berry",
 			"ivs": {
-				"at": 30,
-				"df": 30,
-				"hp": 30,
-				"sa": 30,
-				"sd": 30,
-				"sp": 30
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
 			},
-			"level": 29,
+			"level": 48,
 			"moves": [
 				"Overheat",
-				"Sunny Day",
-				"Body Slam",
-				"Attract"
+				"Rock Slide",
+				"Earthquake",
+				"Superpower"
+			],
+			"nature": "Serious"
+		},
+		"Cole (Trainer #201 Mon #2)": {
+			"ability": "Shell Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Eruption",
+				"Explosion",
+				"Flamethrower",
+				"Rock Slide"
 			],
 			"nature": "Serious"
 		},
@@ -34326,6 +37841,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Keegan (Trainer #205 Mon #2)": {
+			"ability": "Shell Armor",
+			"item": "Silk Scarf",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Overheat",
+				"Earthquake",
+				"Rock Slide",
+				"Explosion"
+			],
+			"nature": "Serious"
+		},
 		"May (Trainer #769 Mon #1)": {
 			"ability": "Shell Armor",
 			"ivs": {
@@ -34364,6 +37899,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Rose (Trainer #37 Mon #2)": {
+			"ability": "Shell Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 58,
+			"moves": [
+				"Flamethrower",
+				"Sunny Day",
+				"Earthquake",
+				"Superpower"
+			],
+			"nature": "Serious"
+		},
 		"Shayla (Trainer #747 Mon #2)": {
 			"ability": "Shell Armor",
 			"item": "Charcoal",
@@ -34375,12 +37930,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 38,
+			"level": 42,
 			"moves": [
 				"Overheat",
 				"Body Slam",
 				"Rock Slide",
 				"Sunny Day"
+			],
+			"nature": "Serious"
+		},
+		"Walter (Trainer #254 Mon #4)": {
+			"ability": "Shell Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Flamethrower",
+				"Earthquake",
+				"Explosion",
+				"Yawn"
 			],
 			"nature": "Serious"
 		}
@@ -34439,8 +38014,7 @@ var SETDEX_ADV = {
 			},
 			"level": 5,
 			"moves": [
-				"Quick Attack",
-				"(No Move)"
+				"Quick Attack"
 			],
 			"nature": "Serious"
 		},
@@ -34579,25 +38153,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Darius (Trainer #803 Mon #1)": {
-			"ability": "Chlorophyll",
-			"ivs": {
-				"at": 24,
-				"df": 24,
-				"hp": 24,
-				"sa": 24,
-				"sd": 24,
-				"sp": 24
-			},
-			"level": 30,
-			"moves": [
-				"Body Slam",
-				"Magical Leaf",
-				"Aerial Ace",
-				"Razor Leaf"
-			],
-			"nature": "Serious"
-		},
 		"Hugh (Trainer #399 Mon #2)": {
 			"ability": "Chlorophyll",
 			"ivs": {
@@ -34617,22 +38172,23 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Jared (Trainer #401 Mon #3)": {
+		"Humberto (Trainer #402 Mon #3)": {
 			"ability": "Chlorophyll",
+			"item": "Quick Claw",
 			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
 			},
-			"level": 27,
+			"level": 62,
 			"moves": [
-				"Body Slam",
-				"Magical Leaf",
 				"Aerial Ace",
-				"Razor Leaf"
+				"Giga Drain",
+				"Earthquake",
+				"Body Slam"
 			],
 			"nature": "Serious"
 		},
@@ -34750,6 +38306,26 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Rose (Trainer #37 Mon #1)": {
+			"ability": "Chlorophyll",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 58,
+			"moves": [
+				"Giga Drain",
+				"Aerial Ace",
+				"Earthquake",
+				"Sunny Day"
+			],
+			"nature": "Serious"
+		},
 		"Shayla (Trainer #747 Mon #4)": {
 			"ability": "Chlorophyll",
 			"item": "Lum Berry",
@@ -34761,32 +38337,12 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 38,
+			"level": 42,
 			"moves": [
 				"Solarbeam",
 				"Synthesis",
 				"Aerial Ace",
 				"Body Slam"
-			],
-			"nature": "Serious"
-		},
-		"Winona (Trainer #270 Mon #2)": {
-			"ability": "Chlorophyll",
-			"item": "????????",
-			"ivs": {
-				"at": 26,
-				"df": 26,
-				"hp": 26,
-				"sa": 26,
-				"sd": 26,
-				"sp": 26
-			},
-			"level": 29,
-			"moves": [
-				"Sunny Day",
-				"Aerial Ace",
-				"Solarbeam",
-				"Synthesis"
 			],
 			"nature": "Serious"
 		},
@@ -34872,6 +38428,46 @@ var SETDEX_ADV = {
 		}
 	},
 	"Typhlosion": {
+		"Brendan (Trainer #528 Mon #4)": {
+			"ability": "Blaze",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Flamethrower",
+				"Thunderpunch",
+				"Double-Edge",
+				"Rock Tomb"
+			],
+			"nature": "Serious"
+		},
+		"Gerald (Trainer #648 Mon #1)": {
+			"ability": "Blaze",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Flamethrower",
+				"Thunderpunch",
+				"Earthquake",
+				"Quick Attack"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #206 Mon #2)": {
 			"ability": "Blaze",
 			"item": "Charcoal",
@@ -34883,12 +38479,54 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 41,
+			"level": 42,
 			"moves": [
 				"Flamethrower",
 				"Double-Edge",
 				"Thunderpunch",
 				"Quick Attack"
+			],
+			"nature": "Serious"
+		},
+		"May (Trainer #537 Mon #4)": {
+			"ability": "Blaze",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Flamethrower",
+				"Thunderpunch",
+				"Double-Edge",
+				"Rock Tomb"
+			],
+			"nature": "Serious"
+		}
+	},
+	"Tyranitar": {
+		"Cristin (Trainer #767 Mon #1)": {
+			"ability": "Battle Armor",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Rock Slide",
+				"Earthquake",
+				"Dragon Dance",
+				"Fire Blast"
 			],
 			"nature": "Serious"
 		}
@@ -34915,7 +38553,89 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		}
 	},
+	"Umbreon": {
+		"Grunt (Trainer #26 Mon #4)": {
+			"ability": "Synchronize",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Toxic",
+				"Wish",
+				"Baton Pass",
+				"Pursuit"
+			],
+			"nature": "Serious"
+		}
+	},
 	"Ursaring": {
+		"Ashley (Trainer #655 Mon #3)": {
+			"ability": "Guts",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Crush Claw",
+				"Brick Break",
+				"Earthquake",
+				"Sludge Bomb"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #596 Mon #4)": {
+			"ability": "Guts",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Crush Claw",
+				"Cross Chop",
+				"Facade",
+				"Rock Slide"
+			],
+			"nature": "Serious"
+		},
+		"Jody (Trainer #91 Mon #1)": {
+			"ability": "Guts",
+			"item": "Silk Scarf",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Double-Edge",
+				"Superpower",
+				"Earthquake",
+				"Facade"
+			],
+			"nature": "Serious"
+		},
 		"Tori & Tia (Trainer #677 Mon #1)": {
 			"ability": "Guts",
 			"item": "Choice Band",
@@ -34927,12 +38647,34 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 39,
+			"level": 42,
 			"moves": [
 				"Facade",
 				"-",
 				"-",
 				"-"
+			],
+			"nature": "Serious"
+		}
+	},
+	"Vaporeon": {
+		"Shelly (Trainer #32 Mon #1)": {
+			"ability": "Drizzle",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 64,
+			"moves": [
+				"Hydro Pump",
+				"Ice Beam",
+				"Double-Edge",
+				"Bite"
 			],
 			"nature": "Serious"
 		}
@@ -34949,7 +38691,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Sleep Powder",
 				"Sludge Bomb",
@@ -34960,6 +38702,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Venusaur": {
+		"Brendan (Trainer #528 Mon #6)": {
+			"ability": "Thick Fat",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Giga Drain",
+				"Earthquake",
+				"Sludge Bomb",
+				"Sleep Powder"
+			],
+			"nature": "Serious"
+		},
 		"Brooke (Trainer #94 Mon #2)": {
 			"ability": "Thick Fat",
 			"item": "Miracle Seed",
@@ -34971,12 +38733,52 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 38,
+			"level": 42,
 			"moves": [
 				"Giga Drain",
 				"Sludge Bomb",
 				"Earthquake",
 				"Sleep Powder"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #18 Mon #3)": {
+			"ability": "Thick Fat",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Giga Drain",
+				"Sludge Bomb",
+				"Earthquake",
+				"Sleep Powder"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #760 Mon #4)": {
+			"ability": "Thick Fat",
+			"item": "Quick Claw",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 60,
+			"moves": [
+				"Giga Drain",
+				"Sludge Bomb",
+				"Earthquake",
+				"Ancientpower"
 			],
 			"nature": "Serious"
 		},
@@ -34991,12 +38793,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 45,
+			"level": 47,
 			"moves": [
 				"Giga Drain",
 				"Sludge Bomb",
-				"Toxic",
+				"Hidden Power~ Fire",
 				"Take Down"
+			],
+			"nature": "Serious"
+		},
+		"May (Trainer #537 Mon #6)": {
+			"ability": "Thick Fat",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 63,
+			"moves": [
+				"Giga Drain",
+				"Earthquake",
+				"Sludge Bomb",
+				"Sleep Powder"
 			],
 			"nature": "Serious"
 		}
@@ -35035,7 +38857,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Leaf Blade",
 				"Sludge Bomb",
@@ -35055,12 +38877,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Leaf Blade",
 				"Sludge Bomb",
 				"Body Slam",
 				"Sleep Powder"
+			],
+			"nature": "Serious"
+		},
+		"Flannery (Trainer #268 Mon #5)": {
+			"ability": "Chlorophyll",
+			"item": "Poison Barb",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 48,
+			"moves": [
+				"Solarbeam",
+				"Sludge Bomb",
+				"Weather Ball",
+				"-"
 			],
 			"nature": "Serious"
 		},
@@ -35075,7 +38917,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Leaf Blade",
 				"Sludge Bomb",
@@ -35084,7 +38926,7 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"May (Trainer #536 Mon #6)": {
+		"May (Trainer #536 Mon #5)": {
 			"ability": "Chlorophyll",
 			"item": "Lum Berry",
 			"ivs": {
@@ -35095,7 +38937,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Leaf Blade",
 				"Sludge Bomb",
@@ -35115,7 +38957,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 38,
+			"level": 42,
 			"moves": [
 				"Leaf Blade",
 				"Sludge Bomb",
@@ -35126,45 +38968,6 @@ var SETDEX_ADV = {
 		}
 	},
 	"Vigoroth": {
-		"Berke (Trainer #74 Mon #1)": {
-			"ability": "Vital Spirit",
-			"item": "????????",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 26,
-			"moves": [
-				"Focus Energy",
-				"Slash",
-				"-",
-				"-"
-			],
-			"nature": "Serious"
-		},
-		"Cristin (Trainer #767 Mon #2)": {
-			"ability": "Vital Spirit",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 29,
-			"moves": [
-				"Brick Break",
-				"Uproar",
-				"Uproar",
-				"Encore"
-			],
-			"nature": "Serious"
-		},
 		"Cristin (Trainer #828 Mon #2)": {
 			"ability": "Vital Spirit",
 			"ivs": {
@@ -35241,26 +39044,6 @@ var SETDEX_ADV = {
 				"-"
 			],
 			"nature": "Serious"
-		},
-		"Norman (Trainer #269 Mon #2)": {
-			"ability": "Vital Spirit",
-			"item": "????????",
-			"ivs": {
-				"at": 24,
-				"df": 24,
-				"hp": 24,
-				"sa": 24,
-				"sd": 24,
-				"sp": 24
-			},
-			"level": 27,
-			"moves": [
-				"Slash",
-				"Facade",
-				"Encore",
-				"Feint Attack"
-			],
-			"nature": "Serious"
 		}
 	},
 	"Vileplume": {
@@ -35276,10 +39059,30 @@ var SETDEX_ADV = {
 			},
 			"level": 40,
 			"moves": [
+				"Sludge Bomb",
 				"Sludge",
 				"Moonlight",
+				"Sleep Powder"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #145 Mon #4)": {
+			"ability": "Chlorophyll",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Giga Drain",
+				"Sludge Bomb",
 				"Sleep Powder",
-				"Aromatherapy"
+				"Moonlight"
 			],
 			"nature": "Serious"
 		},
@@ -35294,7 +39097,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 42,
+			"level": 44,
 			"moves": [
 				"Magical Leaf",
 				"Sludge Bomb",
@@ -35322,25 +39125,6 @@ var SETDEX_ADV = {
 				"Quick Attack",
 				"Giga Drain",
 				"Seismic Toss"
-			],
-			"nature": "Serious"
-		},
-		"Greg (Trainer #619 Mon #1)": {
-			"ability": "Swarm",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 25,
-			"moves": [
-				"Signal Beam",
-				"Tail Glow",
-				"Seismic Toss",
-				"Moonlight"
 			],
 			"nature": "Serious"
 		},
@@ -35654,25 +39438,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Clarissa (Trainer #435 Mon #2)": {
-			"ability": "Water Veil",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 28,
-			"moves": [
-				"Water Pulse",
-				"Aurora Beam",
-				"Whirlpool",
-				"Bounce"
-			],
-			"nature": "Serious"
-		},
 		"Crissy (Trainer #614 Mon #2)": {
 			"ability": "Water Veil",
 			"ivs": {
@@ -35952,7 +39717,7 @@ var SETDEX_ADV = {
 			},
 			"level": 9,
 			"moves": [
-				"Splash",
+				"Weather Ball",
 				"Water Gun",
 				"-",
 				"-"
@@ -36073,25 +39838,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Wilton (Trainer #78 Mon #2)": {
-			"ability": "Water Veil",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 17,
-			"moves": [
-				"Bounce",
-				"Water Gun",
-				"Snore",
-				"Selfdestruct"
-			],
-			"nature": "Serious"
-		},
 		"Wilton (Trainer #84 Mon #2)": {
 			"ability": "Water Veil",
 			"ivs": {
@@ -36170,9 +39916,9 @@ var SETDEX_ADV = {
 		}
 	},
 	"Wailord": {
-		"Irene (Trainer #476 Mon #2)": {
+		"Darius (Trainer #803 Mon #5)": {
 			"ability": "Water Veil",
-			"item": "Mystic Water",
+			"item": "Leftovers",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -36181,12 +39927,52 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 63,
 			"moves": [
-				"Water Spout",
+				"Surf",
 				"Earthquake",
-				"-",
-				"-"
+				"Hyper Voice",
+				"Whirlpool"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #18 Mon #5)": {
+			"ability": "Water Veil",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 61,
+			"moves": [
+				"Hyper Voice",
+				"Surf",
+				"Earthquake",
+				"Selfdestruct"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #35 Mon #2)": {
+			"ability": "Water Veil",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Body Slam",
+				"Selfdestruct"
 			],
 			"nature": "Serious"
 		},
@@ -36266,7 +40052,27 @@ var SETDEX_ADV = {
 				"Surf",
 				"Body Slam",
 				"Ice Beam",
-				"Hidden Power~16"
+				"Hidden Power Flying"
+			],
+			"nature": "Serious"
+		},
+		"Grunt (Trainer #31 Mon #2)": {
+			"ability": "Thick Fat",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Ice Beam",
+				"Surf",
+				"Body Slam",
+				"Earthquake"
 			],
 			"nature": "Serious"
 		},
@@ -36349,6 +40155,26 @@ var SETDEX_ADV = {
 				"Hidden Power~16"
 			],
 			"nature": "Serious"
+		},
+		"Leonel (Trainer #762 Mon #2)": {
+			"ability": "Thick Fat",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 65,
+			"moves": [
+				"Surf",
+				"Ice Beam",
+				"Earthquake",
+				"Yawn"
+			],
+			"nature": "Serious"
 		}
 	},
 	"Wartortle": {
@@ -36395,6 +40221,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Weezing": {
+		"Grunt (Trainer #145 Mon #5)": {
+			"ability": "Levitate",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 66,
+			"moves": [
+				"Sludge Bomb",
+				"Fire Blast",
+				"Will-O-Wisp",
+				"Shadow Ball"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #326 Mon #1)": {
 			"ability": "Levitate",
 			"item": "Scope Lens",
@@ -36406,12 +40252,32 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 40,
+			"level": 43,
 			"moves": [
 				"Sludge Bomb",
 				"Flamethrower",
 				"Toxic",
 				"Pain Split"
+			],
+			"nature": "Serious"
+		},
+		"Jared (Trainer #401 Mon #1)": {
+			"ability": "Levitate",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Sludge Bomb",
+				"Flamethrower",
+				"Toxic",
+				"Explosion"
 			],
 			"nature": "Serious"
 		},
@@ -36437,8 +40303,28 @@ var SETDEX_ADV = {
 		}
 	},
 	"Whiscash": {
+		"Barny (Trainer #343 Mon #2)": {
+			"ability": "Swift Swim",
+			"item": "Mystic Water",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 55,
+			"moves": [
+				"Muddy Water",
+				"Earthquake",
+				"Rock Slide",
+				"Whirlpool"
+			],
+			"nature": "Serious"
+		},
 		"Brendan (Trainer #521 Mon #5)": {
-			"ability": "Oblivious",
+			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -36448,7 +40334,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Earthquake",
 				"Surf",
@@ -36458,7 +40344,7 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		},
 		"Brendan (Trainer #524 Mon #5)": {
-			"ability": "Oblivious",
+			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -36468,7 +40354,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Earthquake",
 				"Surf",
@@ -36477,8 +40363,28 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
+		"Bryan (Trainer #744 Mon #4)": {
+			"ability": "Swift Swim",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 49,
+			"moves": [
+				"Earthquake",
+				"Rock Slide",
+				"Ice Beam",
+				"Muddy Water"
+			],
+			"nature": "Serious"
+		},
 		"Grunt (Trainer #472 Mon #1)": {
-			"ability": "Oblivious",
+			"ability": "Swift Swim",
 			"item": "Soft Sand",
 			"ivs": {
 				"at": 31,
@@ -36488,7 +40394,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 40,
+			"level": 43,
 			"moves": [
 				"Earthquake",
 				"Muddy Water",
@@ -36498,7 +40404,7 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		},
 		"Juan (Trainer #272 Mon #2)": {
-			"ability": "Oblivious",
+			"ability": "Swift Swim",
 			"item": "????????",
 			"ivs": {
 				"at": 24,
@@ -36518,7 +40424,7 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		},
 		"Juan (Trainer #798 Mon #2)": {
-			"ability": "Oblivious",
+			"ability": "Swift Swim",
 			"item": "????????",
 			"ivs": {
 				"at": 31,
@@ -36538,7 +40444,7 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		},
 		"Juan (Trainer #799 Mon #2)": {
-			"ability": "Oblivious",
+			"ability": "Swift Swim",
 			"item": "????????",
 			"ivs": {
 				"at": 31,
@@ -36558,7 +40464,7 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		},
 		"Juan (Trainer #800 Mon #2)": {
-			"ability": "Oblivious",
+			"ability": "Swift Swim",
 			"item": "????????",
 			"ivs": {
 				"at": 31,
@@ -36578,7 +40484,7 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		},
 		"Juan (Trainer #801 Mon #2)": {
-			"ability": "Oblivious",
+			"ability": "Swift Swim",
 			"item": "????????",
 			"ivs": {
 				"at": 31,
@@ -36598,7 +40504,7 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		},
 		"May (Trainer #530 Mon #5)": {
-			"ability": "Oblivious",
+			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -36608,7 +40514,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Earthquake",
 				"Surf",
@@ -36618,7 +40524,7 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		},
 		"May (Trainer #533 Mon #5)": {
-			"ability": "Oblivious",
+			"ability": "Swift Swim",
 			"item": "Lum Berry",
 			"ivs": {
 				"at": 31,
@@ -36628,7 +40534,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Earthquake",
 				"Surf",
@@ -36638,7 +40544,7 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		},
 		"Mollie (Trainer #137 Mon #1)": {
-			"ability": "Oblivious",
+			"ability": "Swift Swim",
 			"ivs": {
 				"at": 0,
 				"df": 0,
@@ -36657,7 +40563,7 @@ var SETDEX_ADV = {
 			"nature": "Serious"
 		},
 		"Wallace (Trainer #335 Mon #4)": {
-			"ability": "Oblivious",
+			"ability": "Swift Swim",
 			"item": "????????",
 			"ivs": {
 				"at": 31,
@@ -36695,25 +40601,6 @@ var SETDEX_ADV = {
 				"-",
 				"-",
 				"-"
-			],
-			"nature": "Serious"
-		},
-		"Dalton (Trainer #196 Mon #2)": {
-			"ability": "Soundproof",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 15,
-			"moves": [
-				"Bite",
-				"Secret Power",
-				"Uproar",
-				"Pound"
 			],
 			"nature": "Serious"
 		},
@@ -36776,26 +40663,6 @@ var SETDEX_ADV = {
 		}
 	},
 	"Wigglytuff": {
-		"Alexia (Trainer #90 Mon #1)": {
-			"ability": "Cute Charm",
-			"item": "????????",
-			"ivs": {
-				"at": 31,
-				"df": 31,
-				"hp": 31,
-				"sa": 31,
-				"sd": 31,
-				"sp": 31
-			},
-			"level": 26,
-			"moves": [
-				"Defense Curl",
-				"Double-Edge",
-				"Shadow Ball",
-				"-"
-			],
-			"nature": "Serious"
-		},
 		"Karen (Trainer #280 Mon #3)": {
 			"ability": "Cute Charm",
 			"item": "????????",
@@ -36827,7 +40694,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 42,
 			"moves": [
 				"Hyper Voice",
 				"-",
@@ -36963,25 +40830,6 @@ var SETDEX_ADV = {
 				"sp": 0
 			},
 			"level": 26,
-			"moves": [
-				"Air Cutter",
-				"Supersonic",
-				"Bubblebeam",
-				"Quick Attack"
-			],
-			"nature": "Serious"
-		},
-		"Colin (Trainer #405 Mon #1)": {
-			"ability": "Keen Eye",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 28,
 			"moves": [
 				"Air Cutter",
 				"Supersonic",
@@ -37390,25 +41238,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Perry (Trainer #398 Mon #1)": {
-			"ability": "Keen Eye",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 26,
-			"moves": [
-				"Air Cutter",
-				"Supersonic",
-				"Bubblebeam",
-				"Quick Attack"
-			],
-			"nature": "Serious"
-		},
 		"Reli & Ian (Trainer #686 Mon #2)": {
 			"ability": "Keen Eye",
 			"ivs": {
@@ -37449,6 +41278,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Wobbuffet": {
+		"Axle (Trainer #203 Mon #3)": {
+			"ability": "Shadow Tag",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 45,
+			"moves": [
+				"Counter",
+				"Mirror Coat",
+				"Destiny Bond",
+				"-"
+			],
+			"nature": "Serious"
+		},
 		"Cedric (Trainer #475 Mon #1)": {
 			"ability": "Shadow Tag",
 			"ivs": {
@@ -37507,9 +41356,9 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Grunt (Trainer #579 Mon #5)": {
+		"Grunt (Trainer #19 Mon #4)": {
 			"ability": "Shadow Tag",
-			"item": "Lum Berry",
+			"item": "Quick Claw",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -37518,7 +41367,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 43,
+			"level": 61,
 			"moves": [
 				"Counter",
 				"Mirror Coat",
@@ -37538,31 +41387,12 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 41,
 			"moves": [
 				"Counter",
 				"Mirror Coat",
 				"Destiny Bond",
 				"-"
-			],
-			"nature": "Serious"
-		},
-		"Kayla (Trainer #247 Mon #1)": {
-			"ability": "Shadow Tag",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 26,
-			"moves": [
-				"Destiny Bond",
-				"Safeguard",
-				"Mirror Coat",
-				"Counter"
 			],
 			"nature": "Serious"
 		},
@@ -37587,25 +41417,6 @@ var SETDEX_ADV = {
 		}
 	},
 	"Wurmple": {
-		"Donald (Trainer #224 Mon #1)": {
-			"ability": "Shield Dust",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 24,
-			"moves": [
-				"Poison Sting",
-				"String Shot",
-				"Tackle",
-				"(No Move)"
-			],
-			"nature": "Serious"
-		},
 		"Jeffrey (Trainer #230 Mon #2)": {
 			"ability": "Shield Dust",
 			"ivs": {
@@ -37674,25 +41485,6 @@ var SETDEX_ADV = {
 				"sp": 0
 			},
 			"level": 9,
-			"moves": [
-				"Poison Sting",
-				"String Shot",
-				"Tackle",
-				"(No Move)"
-			],
-			"nature": "Serious"
-		},
-		"Taylor (Trainer #225 Mon #1)": {
-			"ability": "Shield Dust",
-			"ivs": {
-				"at": 12,
-				"df": 12,
-				"hp": 12,
-				"sa": 12,
-				"sd": 12,
-				"sp": 12
-			},
-			"level": 27,
 			"moves": [
 				"Poison Sting",
 				"String Shot",
@@ -37793,31 +41585,12 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 37,
+			"level": 42,
 			"moves": [
 				"Psychic",
 				"Drill Peck",
 				"Wish",
 				"Night Shade"
-			],
-			"nature": "Serious"
-		},
-		"Flint (Trainer #654 Mon #2)": {
-			"ability": "Synchronize",
-			"ivs": {
-				"at": 18,
-				"df": 18,
-				"hp": 18,
-				"sa": 18,
-				"sd": 18,
-				"sp": 18
-			},
-			"level": 29,
-			"moves": [
-				"Psychic",
-				"Aerial Ace",
-				"Night Shade",
-				"Extrasensory"
 			],
 			"nature": "Serious"
 		},
@@ -37832,12 +41605,52 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 41,
+			"level": 44,
 			"moves": [
 				"Psychic",
 				"Drill Peck",
 				"Confuse Ray",
 				"Signal Beam"
+			],
+			"nature": "Serious"
+		},
+		"Jared (Trainer #401 Mon #5)": {
+			"ability": "Synchronize",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 62,
+			"moves": [
+				"Aerial Ace",
+				"Psychic",
+				"Confuse Ray",
+				"Signal Beam"
+			],
+			"nature": "Serious"
+		},
+		"Parker (Trainer #72 Mon #3)": {
+			"ability": "Synchronize",
+			"item": "Lum Berry",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Confuse Ray",
+				"Aerial Ace",
+				"Psychic",
+				"Wish"
 			],
 			"nature": "Serious"
 		},
@@ -38021,6 +41834,26 @@ var SETDEX_ADV = {
 		}
 	},
 	"Zangoose": {
+		"Berke (Trainer #74 Mon #6)": {
+			"ability": "Immunity",
+			"item": "Scope Lens",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 51,
+			"moves": [
+				"Slash",
+				"X-Scissor",
+				"Brick Break",
+				"Quick Attack"
+			],
+			"nature": "Serious"
+		},
 		"Billy (Trainer #319 Mon #1)": {
 			"ability": "Immunity",
 			"item": "Silk Scarf",
@@ -38038,6 +41871,26 @@ var SETDEX_ADV = {
 				"Brick Break",
 				"X-Scissor",
 				"Swords Dance"
+			],
+			"nature": "Serious"
+		},
+		"Celia (Trainer #743 Mon #1)": {
+			"ability": "Immunity",
+			"item": "Leftovers",
+			"ivs": {
+				"at": 31,
+				"df": 31,
+				"hp": 31,
+				"sa": 31,
+				"sd": 31,
+				"sp": 31
+			},
+			"level": 49,
+			"moves": [
+				"Crush Claw",
+				"Brick Break",
+				"X-Scissor",
+				"Quick Attack"
 			],
 			"nature": "Serious"
 		},
@@ -38071,7 +41924,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 40,
+			"level": 43,
 			"moves": [
 				"Slash",
 				"Brick Break",
@@ -38099,9 +41952,9 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Jody (Trainer #91 Mon #1)": {
+		"Jenna (Trainer #560 Mon #3)": {
 			"ability": "Immunity",
-			"item": "????????",
+			"item": "Silk Scarf",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -38110,12 +41963,12 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 26,
+			"level": 65,
 			"moves": [
-				"Swords Dance",
-				"Slash",
-				"-",
-				"-"
+				"Body Slam",
+				"X-Scissor",
+				"Brick Break",
+				"Quick Attack"
 			],
 			"nature": "Serious"
 		},
@@ -38155,7 +42008,7 @@ var SETDEX_ADV = {
 				"Growl",
 				"Tail Whip",
 				"Headbutt",
-				"Odor Sleuth"
+				"Weather Ball~3"
 			],
 			"nature": "Serious"
 		},
@@ -38174,7 +42027,7 @@ var SETDEX_ADV = {
 				"Growl",
 				"Tail Whip",
 				"Headbutt",
-				"Odor Sleuth"
+				"Weather Ball~3"
 			],
 			"nature": "Serious"
 		},
@@ -38278,25 +42131,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Deandre (Trainer #715 Mon #1)": {
-			"ability": "Guts",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 14,
-			"moves": [
-				"Secret Power",
-				"Headbutt",
-				"Snore",
-				"Sand-Attack"
-			],
-			"nature": "Serious"
-		},
 		"Demetrius (Trainer #375 Mon #1)": {
 			"ability": "Guts",
 			"ivs": {
@@ -38311,7 +42145,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Body Slam",
 				"Dig",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power"
 			],
 			"nature": "Serious"
@@ -38354,25 +42188,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Ethan (Trainer #216 Mon #1)": {
-			"ability": "Guts",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 20,
-			"moves": [
-				"Odor Sleuth",
-				"Secret Power",
-				"Headbutt",
-				"Snore"
-			],
-			"nature": "Serious"
-		},
 		"Ethan (Trainer #219 Mon #1)": {
 			"ability": "Guts",
 			"ivs": {
@@ -38387,7 +42202,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Body Slam",
 				"Dig",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power"
 			],
 			"nature": "Serious"
@@ -38407,26 +42222,7 @@ var SETDEX_ADV = {
 				"Shadow Ball",
 				"Body Slam",
 				"Dig",
-				"Odor Sleuth"
-			],
-			"nature": "Serious"
-		},
-		"Gabrielle (Trainer #9 Mon #3)": {
-			"ability": "Guts",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 26,
-			"moves": [
-				"Body Slam",
-				"Dig",
-				"Odor Sleuth",
-				"Secret Power"
+				"Weather Ball"
 			],
 			"nature": "Serious"
 		},
@@ -38444,7 +42240,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Body Slam",
 				"Dig",
-				"Odor Sleuth",
+				"Weather Ball",
 				"Secret Power"
 			],
 			"nature": "Serious"
@@ -38529,44 +42325,6 @@ var SETDEX_ADV = {
 			],
 			"nature": "Serious"
 		},
-		"Grunt (Trainer #17 Mon #1)": {
-			"ability": "Inner Focus",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 27,
-			"moves": [
-				"Sludge",
-				"Aerial Ace",
-				"Bite",
-				"Wing Attack"
-			],
-			"nature": "Serious"
-		},
-		"Grunt (Trainer #19 Mon #2)": {
-			"ability": "Inner Focus",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 26,
-			"moves": [
-				"Sludge",
-				"Aerial Ace",
-				"Bite",
-				"Wing Attack"
-			],
-			"nature": "Serious"
-		},
 		"Grunt (Trainer #192 Mon #2)": {
 			"ability": "Inner Focus",
 			"ivs": {
@@ -38581,7 +42339,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Confuse Ray",
 				"Sludge",
-				"Aerial Ace",
+				"Wing Attack",
 				"Bite"
 			],
 			"nature": "Serious"
@@ -38600,7 +42358,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Confuse Ray",
 				"Sludge",
-				"Aerial Ace",
+				"Wing Attack",
 				"Bite"
 			],
 			"nature": "Serious"
@@ -38619,7 +42377,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Confuse Ray",
 				"Sludge",
-				"Aerial Ace",
+				"Wing Attack",
 				"Bite"
 			],
 			"nature": "Serious"
@@ -38638,7 +42396,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Confuse Ray",
 				"Sludge",
-				"Aerial Ace",
+				"Wing Attack",
 				"Bite"
 			],
 			"nature": "Serious"
@@ -38657,7 +42415,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Confuse Ray",
 				"Sludge",
-				"Aerial Ace",
+				"Wing Attack",
 				"Bite"
 			],
 			"nature": "Serious"
@@ -38676,7 +42434,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Confuse Ray",
 				"Sludge",
-				"Aerial Ace",
+				"Wing Attack",
 				"Bite"
 			],
 			"nature": "Serious"
@@ -38695,7 +42453,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Confuse Ray",
 				"Sludge",
-				"Aerial Ace",
+				"Wing Attack",
 				"Bite"
 			],
 			"nature": "Serious"
@@ -38714,7 +42472,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Confuse Ray",
 				"Sludge",
-				"Aerial Ace",
+				"Wing Attack",
 				"Bite"
 			],
 			"nature": "Serious"
@@ -38733,27 +42491,8 @@ var SETDEX_ADV = {
 			"moves": [
 				"Confuse Ray",
 				"Sludge",
-				"Aerial Ace",
+				"Wing Attack",
 				"Bite"
-			],
-			"nature": "Serious"
-		},
-		"Grunt (Trainer #596 Mon #1)": {
-			"ability": "Inner Focus",
-			"ivs": {
-				"at": 0,
-				"df": 0,
-				"hp": 0,
-				"sa": 0,
-				"sd": 0,
-				"sp": 0
-			},
-			"level": 27,
-			"moves": [
-				"Sludge",
-				"Aerial Ace",
-				"Bite",
-				"Wing Attack"
 			],
 			"nature": "Serious"
 		},
@@ -38771,7 +42510,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Confuse Ray",
 				"Sludge",
-				"Aerial Ace",
+				"Wing Attack",
 				"Bite"
 			],
 			"nature": "Serious"
@@ -38790,7 +42529,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Confuse Ray",
 				"Sludge",
-				"Aerial Ace",
+				"Wing Attack",
 				"Bite"
 			],
 			"nature": "Serious"
@@ -38809,7 +42548,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Confuse Ray",
 				"Sludge",
-				"Aerial Ace",
+				"Wing Attack",
 				"Bite"
 			],
 			"nature": "Serious"
@@ -38828,7 +42567,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Confuse Ray",
 				"Sludge",
-				"Aerial Ace",
+				"Wing Attack",
 				"Bite"
 			],
 			"nature": "Serious"
@@ -38847,7 +42586,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Confuse Ray",
 				"Sludge",
-				"Aerial Ace",
+				"Wing Attack",
 				"Bite"
 			],
 			"nature": "Serious"
@@ -38867,7 +42606,7 @@ var SETDEX_ADV = {
 				"Air Cutter",
 				"Confuse Ray",
 				"Sludge",
-				"Aerial Ace"
+				"Wing Attack"
 			],
 			"nature": "Serious"
 		},
@@ -38884,7 +42623,7 @@ var SETDEX_ADV = {
 			"level": 24,
 			"moves": [
 				"Sludge",
-				"Aerial Ace",
+				"Wing Attack",
 				"Bite",
 				"Wing Attack"
 			],
@@ -38904,7 +42643,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Confuse Ray",
 				"Sludge",
-				"Aerial Ace",
+				"Wing Attack",
 				"Bite"
 			],
 			"nature": "Serious"

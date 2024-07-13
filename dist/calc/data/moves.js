@@ -678,7 +678,7 @@ var DPP_PATCH = {
     Lick: { category: 'Physical' },
     'Meteor Mash': { isPunch: true, category: 'Physical' },
     'Muddy Water': { category: 'Special' },
-    Overheat: { category: 'Special', makesContact: false },
+    Overheat: { category: 'Special' },
     'Poison Fang': { isBite: true, category: 'Physical' },
     'Rock Tomb': { category: 'Physical' },
     'Skull Bash': { category: 'Physical' },

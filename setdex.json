@@ -1,4 +1,4 @@
-var SETDEX_ADV = {
+{
 	"Abra": {
 		"Edward (Trainer #232 Mon #1)": {
 			"ability": "Synchronize",
@@ -1065,7 +1065,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Thunderbolt",
 				"Fire Punch",
-				"Hidden Power Grass",
+				"Hidden Power~11",
 				"Tail Glow"
 			],
 			"nature": "Serious"
@@ -2535,7 +2535,7 @@ var SETDEX_ADV = {
 				"Magical Leaf",
 				"Sunny Day",
 				"Sleep Powder",
-				"Weather Ball"
+				"Weather Ball~2"
 			],
 			"nature": "Serious"
 		}
@@ -2719,7 +2719,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Blaze Kick",
 				"Sky Uppercut",
-				"Hidden Power Grass",
+				"Hidden Power~11",
 				"Thunderpunch"
 			],
 			"nature": "Serious"
@@ -4419,7 +4419,7 @@ var SETDEX_ADV = {
 			"level": 31,
 			"moves": [
 				"Sunny Day",
-				"Weather Ball",
+				"Weather Ball~2",
 				"Flamethrower",
 				"Solarbeam"
 			],
@@ -4439,7 +4439,7 @@ var SETDEX_ADV = {
 			"level": 42,
 			"moves": [
 				"Sunny Day",
-				"Weather Ball",
+				"Weather Ball~2",
 				"-",
 				"-"
 			],
@@ -6482,7 +6482,7 @@ var SETDEX_ADV = {
 				"Drill Peck",
 				"Steel Wing",
 				"Pursuit",
-				"Hidden Power ground"
+				"Hidden Power~13"
 			],
 			"nature": "Serious"
 		},
@@ -7106,7 +7106,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Earthquake",
 				"Aerial Ace",
-				"Hidden Power Bug",
+				"Hidden Power~6",
 				"Rock Slide"
 			],
 			"nature": "Serious"
@@ -8897,7 +8897,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Iron Head",
 				"Signal Beam",
-				"Hidden Power Ground",
+				"Hidden Power~13",
 				"Explosion"
 			],
 			"nature": "Serious"
@@ -11359,7 +11359,7 @@ var SETDEX_ADV = {
 			},
 			"level": 61,
 			"moves": [
-				"Hidden Power Flying",
+				"Hidden Power~16",
 				"Surf",
 				"Double-Edge",
 				"Crunch"
@@ -11398,7 +11398,7 @@ var SETDEX_ADV = {
 			},
 			"level": 65,
 			"moves": [
-				"Hidden Power~ Flying",
+				"Hidden Power~16",
 				"Double-Edge",
 				"Hydro Pump",
 				"Dragon Dance"
@@ -11420,7 +11420,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Earthquake",
 				"Dragon Dance",
-				"Hidden Power Flying",
+				"Hidden Power~16",
 				"Hydro Pump"
 			],
 			"nature": "Serious"
@@ -11591,7 +11591,7 @@ var SETDEX_ADV = {
 			},
 			"level": 65,
 			"moves": [
-				"Hidden Power Flying",
+				"Hidden Power~16",
 				"Hydro Pump",
 				"Earthquake",
 				"Double-Edge"
@@ -11654,7 +11654,7 @@ var SETDEX_ADV = {
 				"Fake Out",
 				"Cross Chop",
 				"Rock Slide",
-				"Hidden Power Flying"
+				"Hidden Power~16"
 			],
 			"nature": "Serious"
 		},
@@ -12783,7 +12783,7 @@ var SETDEX_ADV = {
 				"Overheat",
 				"Crunch",
 				"Solarbeam",
-				"Hidden Power Electric"
+				"Hidden Power~3"
 			],
 			"nature": "Serious"
 		},
@@ -13149,7 +13149,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Thunder",
 				"Signal Beam",
-				"Hidden Power Water",
+				"Hidden Power~5",
 				"Bite"
 			],
 			"nature": "Serious"
@@ -13190,7 +13190,7 @@ var SETDEX_ADV = {
 				"Shock Wave",
 				"Thunder Wave",
 				"Feint Attack",
-				"Hidden Power Grass"
+				"Hidden Power~11"
 			],
 			"nature": "Serious"
 		}
@@ -14262,7 +14262,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Surf",
 				"Double-Edge",
-				"Hidden Power Electric",
+				"Hidden Power~3",
 				"Toxic"
 			],
 			"nature": "Serious"
@@ -15586,7 +15586,7 @@ var SETDEX_ADV = {
 				"Belly Drum",
 				"Extremespeed",
 				"Shadow Ball",
-				"Hidden Power Fighting"
+				"Hidden Power~9"
 			],
 			"nature": "Serious"
 		},
@@ -15683,7 +15683,7 @@ var SETDEX_ADV = {
 				"Double-Edge",
 				"Extremespeed",
 				"Shadow Ball",
-				"Hidden Power Ground"
+				"Hidden Power~13"
 			],
 			"nature": "Serious"
 		},
@@ -19955,7 +19955,7 @@ var SETDEX_ADV = {
 			"level": 44,
 			"moves": [
 				"Thunderbolt",
-				"Hidden Power Grass",
+				"Hidden Power~11",
 				"Toxic",
 				"Protect"
 			],
@@ -20767,7 +20767,7 @@ var SETDEX_ADV = {
 				"Thunderbolt",
 				"Flamethrower",
 				"Crunch",
-				"Hidden Power Ice"
+				"Hidden Power~12"
 			],
 			"nature": "Serious"
 		},
@@ -24054,7 +24054,7 @@ var SETDEX_ADV = {
 				"Shock Wave",
 				"Thunder Wave",
 				"Quick Attack",
-				"Hidden Power Grass"
+				"Hidden Power~11"
 			],
 			"nature": "Serious"
 		}
@@ -27050,7 +27050,7 @@ var SETDEX_ADV = {
 				"Thunderbolt",
 				"Surf",
 				"Thunder Wave",
-				"Hidden Power~ Ice"
+				"Hidden Power~12"
 			],
 			"nature": "Serious"
 		},
@@ -27470,7 +27470,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Spark",
 				"Charge",
-				"Hidden Power",
+				"Hidden Power~14",
 				"Helping Hand"
 			],
 			"nature": "Serious"
@@ -27590,7 +27590,7 @@ var SETDEX_ADV = {
 				"Toxic",
 				"Shock Wave",
 				"Quick Attack",
-				"Hidden Power Ground"
+				"Hidden Power~13"
 			],
 			"nature": "Serious"
 		}
@@ -28324,7 +28324,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Thunder",
 				"Surf",
-				"Hidden Power Ice",
+				"Hidden Power~12",
 				"Quick Attack"
 			],
 			"nature": "Serious"
@@ -30440,7 +30440,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Leaf Blade",
 				"Thunderpunch",
-				"Hidden Power Water",
+				"Hidden Power~5",
 				"Crush Claw"
 			],
 			"nature": "Serious"
@@ -31744,7 +31744,7 @@ var SETDEX_ADV = {
 			},
 			"level": 48,
 			"moves": [
-				"Hidden Power Ice",
+				"Hidden Power~12",
 				"Double Team",
 				"Swagger",
 				"Extrasensory"
@@ -38797,7 +38797,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Giga Drain",
 				"Sludge Bomb",
-				"Hidden Power~ Fire",
+				"Hidden Power~17",
 				"Take Down"
 			],
 			"nature": "Serious"
@@ -38901,7 +38901,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Solarbeam",
 				"Sludge Bomb",
-				"Weather Ball",
+				"Weather Ball~3",
 				"-"
 			],
 			"nature": "Serious"
@@ -38962,7 +38962,7 @@ var SETDEX_ADV = {
 				"Leaf Blade",
 				"Sludge Bomb",
 				"Sleep Powder",
-				"Weather Ball"
+				"Weather Ball~2"
 			],
 			"nature": "Serious"
 		}
@@ -40052,7 +40052,7 @@ var SETDEX_ADV = {
 				"Surf",
 				"Body Slam",
 				"Ice Beam",
-				"Hidden Power Flying"
+				"Hidden Power~16"
 			],
 			"nature": "Serious"
 		},

@@ -329,7 +329,7 @@ var GSC_PATCH = {
     'Pain Split': { bp: 0, category: 'Status', type: 'Normal' },
     'Shadow Ball': { bp: 80, type: 'Ghost' },
     'Sludge Bomb': { bp: 90, type: 'Poison' },
-    Spark: { bp: 65, type: 'Electric' },
+    Spark: { bp: 80, type: 'Electric' },
     'Steel Wing': { bp: 70, type: 'Steel' },
     'Vital Throw': { bp: 70, type: 'Fighting' }
 };
@@ -557,7 +557,7 @@ var ADV_PATCH = {
     'Poison Tail': { bp: 80, type: 'Poison', makesContact: true },
     'Shadow Punch': { bp: 60, type: 'Ghost', makesContact: true },
     'Shock Wave': { bp: 60, type: 'Electric' },
-    Superpower: { bp: 120, type: 'Fighting', self: { boosts: { atk: -1, def: -1 } }, makesContact: true },
+    Superpower: { bp: 120, type: 'Fighting', makesContact: true },
     'Water Pulse': { bp: 60, type: 'Water' },
     'Water Spout': { bp: 150, type: 'Water', target: 'allAdjacentFoes' },
     'Iron Head': { bp: 80, type: 'Steel', makesContact: true },

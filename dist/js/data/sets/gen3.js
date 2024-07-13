@@ -12622,7 +12622,7 @@ var SETDEX_ADV = {
 				"Sacred Fire",
 				"Aerial Ace",
 				"Thunderbolt",
-				"Recover"
+				"Hidden Power Water"
 			],
 			"nature": "Serious"
 		}

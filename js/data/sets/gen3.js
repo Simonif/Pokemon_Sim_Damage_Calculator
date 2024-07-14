@@ -12620,7 +12620,7 @@ var SETDEX_ADV = {
 			"level": 65,
 			"moves": [
 				"Sacred Fire",
-				"Aerial Ace",
+				"Sky Attack",
 				"Thunderbolt",
 				"Hidden Power Water"
 			],

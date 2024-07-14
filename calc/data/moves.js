@@ -143,7 +143,7 @@ var RBY = {
     'Low Kick': { bp: 50, type: 'Fighting' },
     'Poison Gas': { bp: 0, category: 'Status', type: 'Poison' },
     'Poison Powder': { bp: 0, category: 'Status', type: 'Poison' },
-    'Sky Attack': { bp: 140, type: 'Flying' },
+    'Sky Attack': { bp: 120, type: 'Flying' },
     'String Shot': { bp: 0, category: 'Status', type: 'Bug' },
     Surf: { bp: 95, type: 'Water' },
     'Tail Whip': { bp: 0, category: 'Status', type: 'Normal' },

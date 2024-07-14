@@ -328,7 +328,7 @@ var GSC_PATCH = {
     Octazooka: { bp: 65, type: 'Water' },
     'Pain Split': { bp: 0, category: 'Status', type: 'Normal' },
     'Shadow Ball': { bp: 80, type: 'Ghost' },
-    'Sludge Bomb': { bp: 90, type: 'Poison' },
+    'Sludge Bomb': { bp: 100, type: 'Poison' },
     Spark: { bp: 80, type: 'Electric' },
     'Steel Wing': { bp: 70, type: 'Steel' },
     'Vital Throw': { bp: 70, type: 'Fighting' }

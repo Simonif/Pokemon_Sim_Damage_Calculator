@@ -1733,7 +1733,7 @@ var ADV_PATCH = {
     Octillery: { abilities: { 0: 'Suction Cups' } },
     Phanpy: { abilities: { 0: 'Pickup' } },
     Pichu: { abilities: { 0: 'Static' } },
-    Piloswine: { abilities: { 0: 'Oblivious' } },
+    Piloswine: { abilities: { 0: 'Thick Fat' } },
     Pineco: { abilities: { 0: 'Sturdy' } },
     Politoed: { abilities: { 0: 'Water Absorb' } },
     Porygon2: { abilities: { 0: 'Trace' } },

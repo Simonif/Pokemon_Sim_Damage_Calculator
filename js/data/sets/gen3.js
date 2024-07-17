@@ -18971,7 +18971,7 @@ var SETDEX_ADV = {
 		},
 		"Roxanne (Trainer #265 Mon #5)": {
 			"ability": "Flame Body",
-			"item": "Sitrus Berry",
+			"item": "Salac Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -18980,7 +18980,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 24,
+			"level": 25,
 			"moves": [
 				"Heat Wave",
 				"Ancientpower",

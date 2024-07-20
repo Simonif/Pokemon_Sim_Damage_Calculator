@@ -27050,7 +27050,7 @@ var SETDEX_ADV = {
 				"Thunderbolt",
 				"Surf",
 				"Thunder Wave",
-				"Hidden Power~ Ice"
+				"Hidden Power Ice"
 			],
 			"nature": "Serious"
 		},

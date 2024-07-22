@@ -314,7 +314,7 @@ var GSC_PATCH = {
     Rollout: { bp: 30, type: 'Rock' },
     Frustration: { bp: 0, type: 'Normal' },
     Return: { bp: 0, type: 'Normal' },
-    'Sacred Fire': { bp: 100, type: 'Fire' },
+    'Sacred Fire': { bp: 120, type: 'Fire' },
     'Baton Pass': { bp: 0, category: 'Status', type: 'Normal' },
     'Dragon Breath': { bp: 60, type: 'Dragon' },
     'Dynamic Punch': { bp: 100, type: 'Fighting' },

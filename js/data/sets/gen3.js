@@ -11640,7 +11640,7 @@ var SETDEX_ADV = {
 		},
 		"Brawly (Trainer #266 Mon #1)": {
 			"ability": "Thick Fat",
-			"item": "Sitrus Berry",
+			"item": "Leppa Berry",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -33776,7 +33776,7 @@ var SETDEX_ADV = {
 			"moves": [
 				"Return",
 				"Fire Blast",
-				"Belly Drum",
+				"Curse",
 				"Earthquake"
 			],
 			"nature": "Serious"

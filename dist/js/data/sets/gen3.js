@@ -12340,7 +12340,7 @@ var SETDEX_ADV = {
 		},
 		"Clark (Trainer #631 Mon #2)": {
 			"ability": "Swarm",
-			"item": "Silverpowder",
+			"item": "",
 			"ivs": {
 				"at": 31,
 				"df": 31,
@@ -12352,7 +12352,7 @@ var SETDEX_ADV = {
 			"level": 23,
 			"moves": [
 				"Brick Break",
-				"Megahorn",
+				"X-Scissor",
 				"Body Slam",
 				"-"
 			],

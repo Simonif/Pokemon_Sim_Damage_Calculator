@@ -531,7 +531,7 @@ var ADV_PATCH = {
     Howl: { bp: 0, category: 'Status', type: 'Normal' },
     'Luster Purge': { bp: 70, type: 'Psychic' },
     'Mist Ball': { bp: 70, type: 'Psychic' },
-    'Psycho Boost': { bp: 140, type: 'Psychic', self: { boosts: { spa: -2 } } },
+    'Psycho Boost': { bp: 120, type: 'Psychic', recoil: [1, 3], },
     Refresh: { bp: 0, category: 'Status', type: 'Normal' },
     'Signal Beam': { bp: 75, type: 'Bug' },
     'Silver Wind': { bp: 60, type: 'Bug' },

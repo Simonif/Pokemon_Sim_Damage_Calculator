@@ -316,7 +316,7 @@ var GSC_PATCH = {
     Return: { bp: 0, type: 'Normal' },
     'Sacred Fire': { bp: 120, type: 'Fire' },
     'Baton Pass': { bp: 0, category: 'Status', type: 'Normal' },
-    'Dragon Breath': { bp: 60, type: 'Dragon' },
+    'Dragonbreath': { bp: 70, type: 'Dragon' },
     'Dynamic Punch': { bp: 100, type: 'Fighting' },
     'False Swipe': { bp: 40, type: 'Normal' },
     'Flame Wheel': { bp: 60, type: 'Fire' },

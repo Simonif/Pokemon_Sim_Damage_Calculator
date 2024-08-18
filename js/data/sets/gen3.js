@@ -21846,7 +21846,6 @@ var SETDEX_ADV = {
 		},
 		"Clark (Trainer #631 Mon #1)": {
 			"ability": "Rock Head",
-			"item": "Thick Club",
 			"ivs": {
 				"at": 31,
 				"df": 31,

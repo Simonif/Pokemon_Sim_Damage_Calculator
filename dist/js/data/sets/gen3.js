@@ -12349,7 +12349,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 23,
+			"level": 20,
 			"moves": [
 				"Brick Break",
 				"X-Scissor",
@@ -21854,7 +21854,7 @@ var SETDEX_ADV = {
 				"sd": 31,
 				"sp": 31
 			},
-			"level": 23,
+			"level": 20,
 			"moves": [
 				"Bonemerang",
 				"Rock Slide",

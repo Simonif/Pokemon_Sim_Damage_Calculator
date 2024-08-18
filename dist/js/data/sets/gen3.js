@@ -12312,7 +12312,7 @@ var SETDEX_ADV = {
 				"Hypnosis",
 				"Thunderpunch",
 				"Ice Punch",
-				"Fire Punch"
+				"Giga Drain"
 			],
 			"nature": "Serious"
 		}

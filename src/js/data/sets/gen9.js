@@ -1414,9 +1414,9 @@ var SETDEX_SV = {
   },
   "Floatzel": {
     "NU Rain Wallbreaker": {"ability":"Swift Swim","item":"Heavy-Duty Boots","nature":"Adamant","teraType":"Water","evs":{"at":252,"sd":4,"sp":252},"moves":["Wave Crash","Liquidation","Aqua Jet","Ice Spinner"]},
+    "ZU Choice Scarf": {"ability":"Water Veil","item":"Choice Scarf","nature":"Adamant","teraType":"Water","evs":{"at":252,"sd":4,"sp":252},"moves":["Wave Crash","Flip Turn","Ice Spinner","Liquidation"]},
     "ZU Choice Band": {"ability":"Water Veil","item":"Choice Band","nature":"Jolly","teraType":"Water","evs":{"at":252,"sd":4,"sp":252},"moves":["Wave Crash","Flip Turn","Aqua Jet","Ice Spinner"]},
     "ZU Bulk Up": {"ability":"Water Veil","item":"Leftovers","nature":"Jolly","teraType":"Water","evs":{"at":252,"sd":4,"sp":252},"moves":["Bulk Up","Wave Crash","Ice Spinner","Aqua Jet"]},
-    "ZU Choice Scarf": {"ability":"Water Veil","item":"Choice Scarf","nature":"Adamant","teraType":"Water","evs":{"at":252,"sd":4,"sp":252},"moves":["Wave Crash","Flip Turn","Ice Spinner","Liquidation"]},
     "PU Showdown Usage": {"ability":"Water Veil","item":"Choice Band","nature":"Jolly","teraType":"Water","evs":{"at":252,"sd":4,"sp":252},"moves":["Wave Crash","Flip Turn","Aqua Jet","Ice Spinner"]}
   },
   "Shellos": {

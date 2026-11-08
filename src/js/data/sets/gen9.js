@@ -2185,7 +2185,7 @@ var SETDEX_SV = {
   },
   "Lilligant-Hisui": {
     "OU Sun Sweeper": {"ability":"Chlorophyll","item":"Life Orb","nature":"Adamant","teraType":"Fire","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Solar Blade","Triple Axel","Swords Dance"]},
-    "UU Sun Sweeper": {"ability":"Chlorophyll","item":"Life Orb","nature":"Adamant","teraType":"Ice","evs":{"at":252,"sd":4,"sp":252},"moves":["Solar Blade","Close Combat","Triple Axel","Healing Wish"]},
+    "UU Sun Sweeper": {"ability":"Chlorophyll","item":"Life Orb","nature":"Adamant","teraType":"Fire","evs":{"at":252,"sd":4,"sp":252},"moves":["Solar Blade","Close Combat","Triple Axel","Victory Dance"]},
     "Doubles OU Sun Support": {"ability":"Chlorophyll","item":"Focus Sash","nature":"Jolly","teraType":"Ghost","evs":{"at":252,"df":4,"sp":252},"moves":["Solar Blade","Sleep Powder","After You","Encore"]},
     "Monotype Victory Dance (Fighting)": {"ability":"Hustle","item":"Wide Lens","nature":"Jolly","teraType":"Grass","evs":{"at":252,"sd":4,"sp":252},"moves":["Victory Dance","Leaf Blade","Close Combat","Ice Spinner"]},
     "Monotype Victory Dance Sweeper (Grass)": {"ability":"Hustle","item":"Wide Lens","nature":"Jolly","teraType":"Grass","evs":{"at":252,"sd":4,"sp":252},"moves":["Victory Dance","Close Combat","Ice Spinner","Sleep Powder"]},
@@ -2515,7 +2515,7 @@ var SETDEX_SV = {
   },
   "Thundurus-Therian": {
     "UU Pivot": {"ability":"Volt Absorb","item":"Heavy-Duty Boots","nature":"Timid","teraType":"Poison","ivs":{"at":0},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Volt Switch","Sludge Bomb","Focus Blast","Thunderbolt"]},
-    "UU Nasty Plot": {"ability":"Volt Absorb","item":"Sitrus Berry","nature":"Modest","teraType":"Flying","evs":{"hp":244,"sa":152,"sd":12,"sp":100},"moves":["Thunderbolt","Nasty Plot","Agility","Dark Pulse"]},
+    "UU Nasty Plot": {"ability":"Volt Absorb","item":"Sitrus Berry","nature":"Modest","teraType":"Steel","evs":{"hp":244,"sa":152,"sd":12,"sp":100},"moves":["Thunderbolt","Nasty Plot","Agility","Dark Pulse"]},
     "Monotype Offensive Pivot (Flying)": {"ability":"Volt Absorb","item":"Heavy-Duty Boots","nature":"Timid","teraType":"Electric","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Volt Switch","Grass Knot","Focus Blast"]},
     "Monotype Nasty Plot (Electric)": {"ability":"Volt Absorb","item":"Heavy-Duty Boots","nature":"Timid","teraType":"Electric","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Thunderbolt","Psychic","Grass Knot"]},
     "National Dex Monotype Electrium Z (Flying)": {"ability":"Volt Absorb","item":"Electrium Z","nature":"Timid","teraType":"Electric","ivs":{"at":0},"evs":{"df":4,"sa":252,"sp":252},"moves":["Thunderbolt","Hidden Power Ice","Grass Knot","Agility"]},
@@ -3563,6 +3563,7 @@ var SETDEX_SV = {
     "Ubers Ultimutt": {"ability":"Intrepid Sword","item":"Rusted Sword","nature":"Jolly","teraType":"Fighting","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Behemoth Blade","Close Combat","Wild Charge"]},
     "Ubers Trailblaze": {"ability":"Intrepid Sword","item":"Rusted Sword","nature":"Jolly","teraType":"Electric","evs":{"at":252,"sd":4,"sp":252},"moves":["Trailblaze","Behemoth Blade","Wild Charge","Swords Dance"]},
     "National Dex Ubers Swords Dance": {"ability":"Intrepid Sword","item":"Rusted Sword","nature":"Jolly","teraType":"Fighting","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Behemoth Blade","Wild Charge","Close Combat"]},
+    "National Dex Ubers Trailblaze": {"ability":"Intrepid Sword","item":"Rusted Sword","nature":"Adamant","teraType":"Fighting","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Behemoth Blade","Trailblaze","Close Combat"]},
     "Anything Goes Swords Dance": {"ability":"Intrepid Sword","item":"Rusted Sword","nature":"Jolly","teraType":"Electric","evs":{"hp":24,"at":252,"sd":72,"sp":160},"moves":["Swords Dance","Play Rough","Close Combat","Wild Charge"]}
   },
   "Zamazenta": {
@@ -3750,7 +3751,7 @@ var SETDEX_SV = {
     "1v1 Showdown Usage": {"ability":"Adaptability","item":"Assault Vest","nature":"Adamant","teraType":"Water","evs":{"hp":64,"at":124,"df":192,"sd":8,"sp":120},"moves":["Wave Crash","Phantom Force","Aqua Jet","Night Shade"]}
   },
   "Basculegion-F": {
-    "UU Choice Item": {"ability":"Adaptability","item":"Choice Specs","nature":"Timid","teraType":"Water","evs":{"df":4,"sa":252,"sp":252},"moves":["Shadow Ball","Surf","Ice Beam","Flip Turn"]},
+    "UU Choice Item": {"ability":"Adaptability","item":"Choice Specs","nature":"Timid","teraType":"Ghost","evs":{"df":4,"sa":252,"sp":252},"moves":["Shadow Ball","Surf","Ice Beam","Flip Turn"]},
     "RU Choice Scarf": {"ability":"Adaptability","item":"Choice Scarf","nature":"Timid","teraType":"Ghost","evs":{"df":4,"sa":252,"sp":252},"moves":["Shadow Ball","Surf","Ice Beam","Flip Turn"]},
     "RU Agility": {"ability":"Adaptability","item":"Weakness Policy","nature":"Modest","teraType":"Ghost","ivs":{"at":0},"evs":{"df":52,"sa":236,"sd":24,"sp":196},"moves":["Agility","Shadow Ball","Surf","Ice Beam"]},
     "RU Choice Specs": {"ability":"Adaptability","item":"Choice Specs","nature":"Modest","teraType":"Ghost","evs":{"df":4,"sa":252,"sp":252},"moves":["Surf","Shadow Ball","Ice Beam","Flip Turn"]},

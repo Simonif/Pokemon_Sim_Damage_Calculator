@@ -1076,7 +1076,8 @@ var SETDEX_SV = {
     "Balanced Hackmons Showdown Usage": {"ability":"Pixilate","item":"Life Orb","nature":"Modest","teraType":"Psychic","evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Boomburst","Psystrike","Torch Song","Esper Wing"]}
   },
   "Breloom": {
-    "RU Poison Heal": {"ability":"Poison Heal","item":"Toxic Orb","nature":"Adamant","teraType":"Steel","evs":{"hp":252,"at":80,"sp":176},"moves":["Close Combat","Seed Bomb","Facade","Protect"]},
+    "RU Bulk Up": {"ability":"Poison Heal","item":"Toxic Orb","teraType":"Steel","evs":{"hp":252,"at":80,"sp":176},"moves":["Bulk Up","Facade","Drain Punch","Bullet Seed"]},
+    "RU Wallbreaker": {"ability":"Poison Heal","item":"Toxic Orb","nature":"Adamant","teraType":"Steel","evs":{"hp":252,"at":80,"sp":176},"moves":["Close Combat","Seed Bomb","Facade","Protect"]},
     "Monotype Focus Sash (Fighting)": {"ability":"Technician","item":"Focus Sash","nature":"Adamant","teraType":"Grass","evs":{"at":252,"sd":4,"sp":252},"moves":["Spore","Swords Dance","Bullet Seed","Mach Punch"]},
     "Monotype Focus Sash (Grass)": {"ability":"Technician","item":"Focus Sash","nature":"Adamant","teraType":"Grass","evs":{"at":252,"df":4,"sp":252},"moves":["Spore","Mach Punch","Rock Tomb","Swords Dance"]},
     "Monotype Choice Band (Grass)": {"ability":"Technician","item":"Choice Band","nature":"Jolly","teraType":"Grass","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Mach Punch","Bullet Seed","Bulldoze"]},
